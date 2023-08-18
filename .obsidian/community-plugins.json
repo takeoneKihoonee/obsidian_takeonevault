@@ -1,7 +1,8 @@
 [
+  "obsidian-git",
+  "obsidian-kanban",
   "calendar",
-  "obsidian-outliner",
   "obsidian-tasks-plugin",
   "templater-obsidian",
-  "obsidian-git"
+  "obsidian-outliner"
 ]
