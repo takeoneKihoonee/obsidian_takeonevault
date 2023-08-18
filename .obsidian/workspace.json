@@ -1,0 +1,163 @@
+{
+  "main": {
+    "id": "f894d6ac4c53504d",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ae21f05f3e6d22c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c6d87f7189a7507d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BPTG/0914_Build/Task/성장반복이벤트.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "97c9e8c3f1434b0f",
+    "type": "split",
+    "children": [
+      {
+        "id": "35a7be522ed8a5aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b860ec1e209be97",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "187d212f475af9a1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "04b42f6b145e313f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "80fb71bfd097fcf7",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8ce61911d732947",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e99e541ffc72b045",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "BPTG/0914_Build/Task/성장반복이벤트.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2e96825c70805c08",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "BPTG/0914_Build/Task/성장반복이벤트.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0a0f0f921d69737b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "717c2e102616ed45",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "BPTG/0914_Build/Task/성장반복이벤트.md"
+              }
+            }
+          },
+          {
+            "id": "9567ecb41bab26bc",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "c6d87f7189a7507d",
+  "lastOpenFiles": [
+    "BPTG/0914_Build/Task/바로가기추가개선.md",
+    "BPTG/0914_Build/Task/Admob 업데이트.md"
+  ]
+}
