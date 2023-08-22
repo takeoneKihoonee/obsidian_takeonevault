@@ -162,12 +162,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,7 +180,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1be604234c43ab21",
+  "active": "b91ff17c53ebb322",
   "lastOpenFiles": [
     "BPTG/0914_Build/Task/성장반복이벤트.md",
     "BPTG/팀 주간회의/주간회의 0822.md",
