@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BPTG/팀 주간회의/주간회의 0822.md",
+                "file": "BPTG/cdnconfig/CDN Config.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 300
   },
   "right": {
     "id": "2d0715cf7e630eb8",
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BPTG/팀 주간회의/주간회의 0822.md",
+                "file": "BPTG/cdnconfig/CDN Config.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BPTG/팀 주간회의/주간회의 0822.md",
+                "file": "BPTG/cdnconfig/CDN Config.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BPTG/팀 주간회의/주간회의 0822.md"
+                "file": "BPTG/cdnconfig/CDN Config.md"
               }
             }
           },
@@ -182,19 +182,23 @@
   },
   "active": "1be604234c43ab21",
   "lastOpenFiles": [
-    "BPTG/0914_Build/Task/성장반복이벤트.md",
     "BPTG/팀 주간회의/주간회의 0822.md",
-    "BPTG/주간보고/8월 17일.md",
+    "BPTG/0914_Build/Task/광고 SDK.md",
     "BPTG/cdnconfig/CDN Config.md",
     "BPTG/cdnconfig",
+    "BPTG/0914_Build/Task/Admob 업데이트.md",
+    "BPTG/0914_Build/09월14일 빌드.md",
+    "BPTG/Todo/할일.md",
+    "BPTG/팀 주간회의/주간회의 0821.md",
+    "20230807.md",
+    "BPTG/주간보고/8월 17일.md",
+    "BPTG/주간보고/08월 10일.md",
+    "BPTG/0914_Build/Task/성장반복이벤트.md",
     "BPTG/0914_Build/Task/협동전.md",
     "BPTG/0914_Build/Task/이벤트.md",
     "BPTG/0914_Build/Task/바로가기추가개선.md",
     "conflict-files-obsidian-git.md",
     "BPTG/0914_Build/Task/미션수행이벤트.md",
-    "BPTG/0914_Build/Task/광고 SDK.md",
-    "BPTG/0914_Build/Task/광고 현황판.md",
-    "BPTG/0914_Build/09월14일 빌드.md",
-    "20230807.md"
+    "BPTG/0914_Build/Task/광고 현황판.md"
   ]
 }
