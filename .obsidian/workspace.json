@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BPTG/cdnconfig/CDN Config.md",
+                "file": "BPTG/팀 주간회의/주간회의 0822.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BPTG/cdnconfig/CDN Config.md",
+                "file": "BPTG/팀 주간회의/주간회의 0822.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BPTG/cdnconfig/CDN Config.md",
+                "file": "BPTG/팀 주간회의/주간회의 0822.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BPTG/cdnconfig/CDN Config.md"
+                "file": "BPTG/팀 주간회의/주간회의 0822.md"
               }
             }
           },
@@ -162,12 +162,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,11 +180,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b91ff17c53ebb322",
+  "active": "1be604234c43ab21",
   "lastOpenFiles": [
+    "BPTG/cdnconfig/CDN Config.md",
     "BPTG/팀 주간회의/주간회의 0822.md",
     "BPTG/0914_Build/Task/광고 SDK.md",
-    "BPTG/cdnconfig/CDN Config.md",
     "BPTG/cdnconfig",
     "BPTG/0914_Build/Task/Admob 업데이트.md",
     "BPTG/0914_Build/09월14일 빌드.md",
