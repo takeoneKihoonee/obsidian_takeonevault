@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BPTG/0914_Build/Task/광고 SDK.md",
+                "file": "BPTG/cdnconfig/CDN Config.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BPTG/0914_Build/Task/광고 SDK.md",
+                "file": "BPTG/cdnconfig/CDN Config.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BPTG/0914_Build/Task/광고 SDK.md",
+                "file": "BPTG/cdnconfig/CDN Config.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BPTG/0914_Build/Task/광고 SDK.md"
+                "file": "BPTG/cdnconfig/CDN Config.md"
               }
             }
           },
@@ -182,6 +182,9 @@
   },
   "active": "1be604234c43ab21",
   "lastOpenFiles": [
+    "BPTG/0914_Build/Task/광고 SDK.md",
+    "BPTG/cdnconfig/CDN Config.md",
+    "BPTG/cdnconfig",
     "BPTG/0914_Build/Task/Admob 업데이트.md",
     "BPTG/0914_Build/09월14일 빌드.md",
     "BPTG/Todo/할일.md",
@@ -195,7 +198,6 @@
     "BPTG/0914_Build/Task/바로가기추가개선.md",
     "conflict-files-obsidian-git.md",
     "BPTG/0914_Build/Task/미션수행이벤트.md",
-    "BPTG/0914_Build/Task/광고 SDK.md",
     "BPTG/0914_Build/Task/광고 현황판.md"
   ]
 }
