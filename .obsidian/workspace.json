@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BPTG/팀 주간회의/주간회의 0822.md",
+                "file": "BPTG/Todo/할일.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BPTG/팀 주간회의/주간회의 0822.md",
+                "file": "BPTG/Todo/할일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BPTG/팀 주간회의/주간회의 0822.md",
+                "file": "BPTG/Todo/할일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BPTG/팀 주간회의/주간회의 0822.md"
+                "file": "BPTG/Todo/할일.md"
               }
             }
           },
@@ -182,9 +182,11 @@
   },
   "active": "1be604234c43ab21",
   "lastOpenFiles": [
+    "Pasted image 20230823141556.png",
+    "BPTG/팀 주간회의/주간회의 0822.md",
+    "BPTG/팀 주간회의/무제 파일.md",
     "20230807.md",
     "BPTG/Todo/할일.md",
-    "BPTG/팀 주간회의/주간회의 0822.md",
     "Pasted image 20230822201551.png",
     "BPTG/cdnconfig/CDN Config.md",
     "BPTG/0914_Build/Task/광고 SDK.md",
