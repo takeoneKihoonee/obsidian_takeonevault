@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BPTG/Todo/할일.md",
+                "file": "BPTG/Todo/0824.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "2d0715cf7e630eb8",
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BPTG/Todo/할일.md",
+                "file": "BPTG/Todo/0824.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BPTG/Todo/할일.md",
+                "file": "BPTG/Todo/0824.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BPTG/Todo/할일.md"
+                "file": "BPTG/Todo/0824.md"
               }
             }
           },
@@ -182,12 +183,13 @@
   },
   "active": "1be604234c43ab21",
   "lastOpenFiles": [
+    "BPTG/Todo/할일.md",
+    "BPTG/Todo/0824.md",
+    "Pasted image 20230822201551.png",
     "Pasted image 20230823141556.png",
     "BPTG/팀 주간회의/주간회의 0822.md",
     "BPTG/팀 주간회의/무제 파일.md",
     "20230807.md",
-    "BPTG/Todo/할일.md",
-    "Pasted image 20230822201551.png",
     "BPTG/cdnconfig/CDN Config.md",
     "BPTG/0914_Build/Task/광고 SDK.md",
     "BPTG/cdnconfig",
