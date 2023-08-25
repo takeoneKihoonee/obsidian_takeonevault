@@ -94,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "2d0715cf7e630eb8",
@@ -183,11 +182,11 @@
   },
   "active": "1be604234c43ab21",
   "lastOpenFiles": [
+    "BPTG/Todo/할일.md",
+    "BPTG/Todo/0824.md",
     "Pasted image 20230825111417.png",
     "Pasted image 20230824170002.png",
     "Pasted image 20230824153804.png",
-    "BPTG/Todo/할일.md",
-    "BPTG/Todo/0824.md",
     "Pasted image 20230822201551.png",
     "Pasted image 20230823141556.png",
     "BPTG/팀 주간회의/주간회의 0822.md",
