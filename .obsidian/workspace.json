@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BPTG/팀 주간회의/주간회의 0822.md",
+                "file": "BPTG/Todo/할일.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 420.5026054382324
+    "width": 337.5026054382324
   },
   "right": {
     "id": "2d0715cf7e630eb8",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BPTG/팀 주간회의/주간회의 0822.md",
+                "file": "BPTG/Todo/할일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BPTG/팀 주간회의/주간회의 0822.md",
+                "file": "BPTG/Todo/할일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BPTG/팀 주간회의/주간회의 0822.md"
+                "file": "BPTG/Todo/할일.md"
               }
             }
           },
@@ -141,8 +141,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,11 +154,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8865142fcf48d935",
+  "active": "3089171e2482d8a7",
   "lastOpenFiles": [
+    "workspace.json",
+    "BPTG/팀 주간회의/주간회의 0822.md",
     "BPTG/Todo/0824.md",
     "BPTG/Todo/할일.md",
-    "BPTG/팀 주간회의/주간회의 0822.md",
     "BPTG/주간보고/8월 17일.md",
     "BPTG/0914_Build/Task/성장반복이벤트.md",
     "README.md",
