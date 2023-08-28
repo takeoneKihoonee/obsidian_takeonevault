@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BPTG/Todo/할일.md",
+                "file": "BPTG/팀 주간회의/주간회의 0822.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 420.5026054382324
   },
   "right": {
     "id": "2d0715cf7e630eb8",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BPTG/Todo/할일.md",
+                "file": "BPTG/팀 주간회의/주간회의 0822.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BPTG/Todo/할일.md",
+                "file": "BPTG/팀 주간회의/주간회의 0822.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BPTG/Todo/할일.md"
+                "file": "BPTG/팀 주간회의/주간회의 0822.md"
               }
             }
           },
@@ -157,11 +157,11 @@
   },
   "active": "8865142fcf48d935",
   "lastOpenFiles": [
-    "BPTG/팀 주간회의/주간회의 0822.md",
+    "BPTG/Todo/0824.md",
     "BPTG/Todo/할일.md",
+    "BPTG/팀 주간회의/주간회의 0822.md",
     "BPTG/주간보고/8월 17일.md",
     "BPTG/0914_Build/Task/성장반복이벤트.md",
-    "BPTG/Todo/0824.md",
     "README.md",
     "Pasted image 20230824170002.png",
     "Pasted image 20230822201551.png",
