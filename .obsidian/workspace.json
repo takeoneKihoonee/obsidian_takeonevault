@@ -62,9 +62,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e970cdca1f3e4932",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BPTG/Todo/할일.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -200,12 +212,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6e32b4e45d344158",
+  "active": "e970cdca1f3e4932",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
+    "BPTG/Todo/할일.md",
     "BPTG/팀 주간회의/주간회의 0828.md",
     "BPTG/주간보고/주간보고 0824.md",
-    "BPTG/Todo/할일.md",
     "BPTG/0914_Build/Task/성장반복이벤트.md",
     "BPTG/Todo/0824.md",
     "BPTG/팀 주간회의/주간회의 0822.md",
