@@ -6,33 +6,22 @@
       {
         "id": "332c8aa18855cc1f",
         "type": "tabs",
+        "dimension": 23.492286115007012,
         "children": [
-          {
-            "id": "1cceb5ed3d5e1862",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BPTG/0914_Build/Task/성장반복이벤트.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
           {
             "id": "1be604234c43ab21",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BPTG/주간보고/0824.md",
+                "file": "BPTG/주간보고/주간보고 0824.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0166e1e39837a085",
+            "id": "aae7480f8d0ba5f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -42,33 +31,40 @@
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "fae73e030e414be4",
+        "type": "tabs",
+        "dimension": 76.507713884993,
+        "children": [
           {
-            "id": "00410e90e82bdd8a",
+            "id": "d638bdb172d1cdf4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BPTG/팀 주간회의/주간회의 0822.md",
+                "file": "BPTG/팀 주간회의/주간회의 0828.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a93d6f8649e3b872",
+            "id": "6e32b4e45d344158",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BPTG/팀 주간회의/주간회의 0822.md",
+                "file": "BPTG/Todo/할일.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BPTG/팀 주간회의/주간회의 0822.md",
+                "file": "BPTG/Todo/할일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BPTG/팀 주간회의/주간회의 0822.md",
+                "file": "BPTG/Todo/할일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BPTG/팀 주간회의/주간회의 0822.md"
+                "file": "BPTG/Todo/할일.md"
               }
             }
           },
@@ -191,7 +187,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 255.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,21 +200,23 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a93d6f8649e3b872",
+  "active": "6e32b4e45d344158",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
-    "BPTG/팀 주간회의/주간회의 0822.md",
+    "BPTG/팀 주간회의/주간회의 0828.md",
+    "BPTG/주간보고/주간보고 0824.md",
     "BPTG/Todo/할일.md",
+    "BPTG/0914_Build/Task/성장반복이벤트.md",
     "BPTG/Todo/0824.md",
-    "BPTG/주간보고/0824.md",
+    "BPTG/팀 주간회의/주간회의 0822.md",
+    "BPTG/주간보고/08월 10일.md",
+    "BPTG/주간보고/8월 17일.md",
     "Pasted image 20230825111417.png",
     "Pasted image 20230824170002.png",
     "Pasted image 20230824153804.png",
     "Pasted image 20230823141556.png",
     "Pasted image 20230822201551.png",
-    "BPTG/0914_Build/Task/성장반복이벤트.md",
     "BPTG/팀 주간회의/주간회의 0810.md",
-    "BPTG/주간보고/8월 17일.md",
     "BPTG/cdnconfig/CDN Config.md",
     "BPTG/cdnconfig",
     "BPTG/0914_Build/Task/협동전.md",
