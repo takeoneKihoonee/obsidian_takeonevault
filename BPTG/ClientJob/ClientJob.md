@@ -8,5 +8,6 @@
 
 #### 이슈 
 - [ ] 퍼즐 5성카드 사용영상 버그
-- [ ] Google Admob SDK GDPR 버전업 7.4
+- [ ] Google Admob SDK GDPR 버전업 (최소 7.4.0)
 - [ ] 빌드머신 세팅 맥스튜디오
+- [ ] 팝업 CloseAllPopup. 
