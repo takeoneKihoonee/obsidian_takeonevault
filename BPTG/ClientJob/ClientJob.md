@@ -15,6 +15,7 @@
 - [ ] 팝업 CloseAllPopup. 
 
 
-- iOS: Added support for the Swift Remote Packages in XCode project API. Added PBXProject API to add to references to them, namely AddRemotePackageReferenceAtBranch, AddRemotePackageReferenceAtRevision, AddRemotePackageReferenceAtVersion, AddRemotePackageReferenceAtVersionUpToNextMajor, AddRemotePackageReferenceAtVersionUpToNextMinor, AddRemotePackageReferenceWithVersionRange. Also added way to add framework from the remote package with AddRemotePackageFrameworkToProject. (UUM-15082)
-    
-- iOS: Fixed crash on warming up shader variants with procedural instancing. (UUM-10114)
+- 
+
+
+![[Pasted image 20230905113711.png]]
