@@ -13,3 +13,8 @@
 	- ( 런처스트링 자동업데이트, 빌드버전 자동입력, 번들 gd 자동입력?  )
 
 - [ ] 팝업 CloseAllPopup. 
+
+
+- iOS: Added support for the Swift Remote Packages in XCode project API. Added PBXProject API to add to references to them, namely AddRemotePackageReferenceAtBranch, AddRemotePackageReferenceAtRevision, AddRemotePackageReferenceAtVersion, AddRemotePackageReferenceAtVersionUpToNextMajor, AddRemotePackageReferenceAtVersionUpToNextMinor, AddRemotePackageReferenceWithVersionRange. Also added way to add framework from the remote package with AddRemotePackageFrameworkToProject. (UUM-15082)
+    
+- iOS: Fixed crash on warming up shader variants with procedural instancing. (UUM-10114)
