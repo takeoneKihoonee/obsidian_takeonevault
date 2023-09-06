@@ -23,3 +23,6 @@ config/ 루트 폴더에서 오른쪽 마우스 메뉴 클릭
 CloudFront > Invlidate selected files 클릭(이게 퍼지메뉴)
 
 맨아래 "Make Public" 선택 하면 설정 끝
+
+
+[https://d3t8h2nevf8jwd.cloudfront.net/config/android/release/config.json](https://cdnaddress.net/config/android/release/config.json)
