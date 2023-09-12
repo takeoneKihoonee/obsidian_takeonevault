@@ -14,3 +14,8 @@
 
 - [ ] 팝업 CloseAllPopup. 
 
+
+
+Git Tag 작성 규칙
+
+![[Pasted image 20230912124646.png]]
