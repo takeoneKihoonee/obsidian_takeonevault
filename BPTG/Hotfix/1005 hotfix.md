@@ -19,9 +19,14 @@
       협동전 내 랭킹 100위 넘어가면 ui가 0으로 나오는 현상 수정
 - [ ] origin/hotfix/buildqa_patternoid_mission_event_bug_fix
       스케쥴 별3개 달성 클리어 조건 시 상태값 잘못 설정되는 이슈 수정
+- [ ] hotfix/coop_schedule_my_ranking_ui_bug_fix
+      내랭킹이 100위 넘어가면 퍼센트로 출력(협동전팝업내에서만)
 - [ ] origin/hotfix/attend_max_check
       출석부 보상받을때 (음반보상이 아니여도) 음반MAX를 무조건 체크하는 이슈
 - [ ] origin/hotfix/tutorial_3_savepoint
       튜토리얼 3번(음반제작소 튜토리얼) 저장시점 수정
 - [ ] ---
       상품 버튼의 레드닷
+- [ ] hotfix/guide_weblink
+      hotfix/guide_weblink
+      
