@@ -13,10 +13,10 @@
       내랭킹이 100위 넘어가면 퍼센트로 출력(협동전팝업내에서만)
 - [x] origin/hotfix/attend_max_check ✅ 2023-09-18
       출석부 보상받을때 (음반보상이 아니여도) 음반MAX를 무조건 체크하는 이슈
-- [ ] origin/hotfix/tutorial_3_savepoint
+- [x] origin/hotfix/tutorial_3_savepoint ✅ 2023-09-18
       튜토리얼 3번(음반제작소 튜토리얼) 저장시점 수정
 - [x] --- ✅ 2023-09-18
       상품 버튼의 레드닷
-- [ ] hotfix/guide_weblink
+- [x] hotfix/guide_weblink ✅ 2023-09-18
       hotfix/guide_weblink
       
