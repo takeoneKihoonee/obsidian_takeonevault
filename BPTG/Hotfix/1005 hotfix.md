@@ -19,4 +19,5 @@
       상품 버튼의 레드닷
 - [x] hotfix/guide_weblink ✅ 2023-09-18
       hotfix/guide_weblink
-      
+- [ ] origin/hotfix/shortcut_exception
+      fix: GotoShortcut Null exception
