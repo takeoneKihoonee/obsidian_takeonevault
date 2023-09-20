@@ -21,6 +21,14 @@
       hotfix/guide_weblink
 - [x] origin/hotfix/shortcut_exception ✅ 2023-09-18
       fix: GotoShortcut Null exception
+- [ ] hotfix/buildqa_patternoid_bpworld_chat_button_disable_bug_fix 
+      블핑월드 메인이벤트 팝업 내 특정 팝업 뜰 시 채팅 버튼 사라지는 버그 수정
+- [ ] hotfix/buildqa_patternoid_maineventpopup_null_exception
+      null Exception 수정
+- [ ] hotfix/buildqa_patternoid_mission_excute_event_bug_challenge_bug_fix
+      미션 수행 이벤트 미션 리스트 상태 버그 수정
+- [ ] hotfix/advertise_colltime_zero_check
+      
 
 
 
