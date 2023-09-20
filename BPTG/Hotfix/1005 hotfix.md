@@ -29,7 +29,7 @@
       미션 수행 이벤트 미션 리스트 상태 버그 수정
 - [x] hotfix/advertise_colltime_zero_check ✅ 2023-09-20
       메일함 광고 쿨타임 수정
-- [ ] hotfix/coop_story_save
+- [x] hotfix/coop_story_save ✅ 2023-09-20
       협동전 스토리텔링노출 저장여부 키값에 cms_event_idx 추가.
 
 
