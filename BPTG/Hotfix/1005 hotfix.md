@@ -28,7 +28,7 @@
 - [ ] hotfix/buildqa_patternoid_mission_excute_event_bug_challenge_bug_fix
       미션 수행 이벤트 미션 리스트 상태 버그 수정
 - [ ] hotfix/advertise_colltime_zero_check
-      
+      메일함 광고 쿨타임 수정
 
 
 
