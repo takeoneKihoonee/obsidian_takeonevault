@@ -23,11 +23,11 @@
       fix: GotoShortcut Null exception
 - [x] hotfix/buildqa_patternoid_bpworld_chat_button_disable_bug_fix ✅ 2023-09-20
       블핑월드 메인이벤트 팝업 내 특정 팝업 뜰 시 채팅 버튼 사라지는 버그 수정
-- [ ] hotfix/buildqa_patternoid_maineventpopup_null_exception
+- [x] hotfix/buildqa_patternoid_maineventpopup_null_exception ✅ 2023-09-20
       null Exception 수정
-- [ ] hotfix/buildqa_patternoid_mission_excute_event_bug_challenge_bug_fix
+- [x] hotfix/buildqa_patternoid_mission_excute_event_bug_challenge_bug_fix ✅ 2023-09-20
       미션 수행 이벤트 미션 리스트 상태 버그 수정
-- [ ] hotfix/advertise_colltime_zero_check
+- [x] hotfix/advertise_colltime_zero_check ✅ 2023-09-20
       메일함 광고 쿨타임 수정
 - [ ] hotfix/coop_story_save
       협동전 스토리텔링노출 저장여부 키값에 cms_event_idx 추가.
