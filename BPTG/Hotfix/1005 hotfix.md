@@ -43,4 +43,16 @@
  - 패치 용량 체크 - 1.03.082 보다 177mb 증가
 
 
- 
+#### 웹뷰 딥링크
+
+상점 id 추가
+callback://navigation?target=shop&id=3410480001
+
+뽑기 id 추가
+callback://navigation?target=gacha&id=350200001
+
+
+성장반복이벤트
+target 추가
+id 3개 추가
+callback://navigation?target=growth&id=3410460058
