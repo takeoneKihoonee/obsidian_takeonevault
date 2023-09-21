@@ -33,6 +33,9 @@
       협동전 스토리텔링노출 저장여부 키값에 cms_event_idx 추가.
 - [ ] hotfix/special_schedule_member_info_0921
       개인스케줄 퍼즐 시작연출 멤버정보 지수만 나오는 UI 수정.
+- [ ] hotfix/webview_to_event
+      웹뷰 딥링크 추가 작업 (상점,뽑기,성장반복이벤트,미션수행이벤트)
+      
 
 
 
