@@ -1,7 +1,7 @@
 
 
 
-- [x] hotfix/seasonpass_lv_reward_bug_fix ✅ 2023-09-18
+- [x] hotfix/seasonpass_lv_reward_bug_fix ✅ 2023-09-18 
        시즌패스 레벨보상 받고 탭 이동후 복귀시 갱신 안되어있는 현상 수정
 - [x] origin/hotfix/multi_schedule_chapteropen_bug_fix ✅ 2023-09-18
       멀티스케쥴 챕터오픈 연출이 반복적으로 나오는 현상 수정
@@ -31,9 +31,9 @@
       메일함 광고 쿨타임 수정
 - [x] hotfix/coop_story_save ✅ 2023-09-20
       협동전 스토리텔링노출 저장여부 키값에 cms_event_idx 추가.
-- [ ] hotfix/special_schedule_member_info_0921
+- [x] hotfix/special_schedule_member_info_0921 ✅ 2023-09-21
       개인스케줄 퍼즐 시작연출 멤버정보 지수만 나오는 UI 수정.
-- [ ] hotfix/webview_to_event
+- [x] hotfix/webview_to_event ✅ 2023-09-21
       웹뷰 딥링크 추가 작업 (상점,뽑기,성장반복이벤트,미션수행이벤트)
       
 
