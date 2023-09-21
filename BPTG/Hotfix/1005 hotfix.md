@@ -31,6 +31,8 @@
       메일함 광고 쿨타임 수정
 - [x] hotfix/coop_story_save ✅ 2023-09-20
       협동전 스토리텔링노출 저장여부 키값에 cms_event_idx 추가.
+- [ ] hotfix/special_schedule_member_info_0921
+      개인스케줄 퍼즐 시작연출 멤버정보 지수만 나오는 UI 수정.
 
 
 
