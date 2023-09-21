@@ -45,14 +45,26 @@
 
 #### 웹뷰 딥링크
 
-상점 id 추가
+상점 
+target = shop
+id 1개 추가
 callback://navigation?target=shop&id=3410480001
 
-뽑기 id 추가
+뽑기 
+target = gacha
+id 1개 추가
 callback://navigation?target=gacha&id=350200001
 
 
 성장반복이벤트
-target 추가
+target 추가 growth
 id 3개 추가
-callback://navigation?target=growth&id=3410460058
+callback://navigation?target=growth&id=336000101
+callback://navigation?target=growth&id=336000201
+callback://navigation?target=growth&id=336000301
+
+미션수행이벤트
+target 추가 mission
+id 2개 추가
+callback://navigation?target=mission&id=3341001
+callback://navigation?target=mission&id=3341002
