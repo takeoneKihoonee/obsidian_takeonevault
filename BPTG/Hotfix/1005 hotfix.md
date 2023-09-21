@@ -21,6 +21,16 @@
       hotfix/guide_weblink
 - [x] origin/hotfix/shortcut_exception ✅ 2023-09-18
       fix: GotoShortcut Null exception
+- [x] hotfix/buildqa_patternoid_bpworld_chat_button_disable_bug_fix ✅ 2023-09-20
+      블핑월드 메인이벤트 팝업 내 특정 팝업 뜰 시 채팅 버튼 사라지는 버그 수정
+- [x] hotfix/buildqa_patternoid_maineventpopup_null_exception ✅ 2023-09-20
+      null Exception 수정
+- [x] hotfix/buildqa_patternoid_mission_excute_event_bug_challenge_bug_fix ✅ 2023-09-20
+      미션 수행 이벤트 미션 리스트 상태 버그 수정
+- [x] hotfix/advertise_colltime_zero_check ✅ 2023-09-20
+      메일함 광고 쿨타임 수정
+- [x] hotfix/coop_story_save ✅ 2023-09-20
+      협동전 스토리텔링노출 저장여부 키값에 cms_event_idx 추가.
 
 
 
@@ -33,4 +43,28 @@
  - 패치 용량 체크 - 1.03.082 보다 177mb 증가
 
 
- 
+#### 웹뷰 딥링크
+
+상점 
+target = shop
+id 1개 추가
+callback://navigation?target=shop&id=3410480001
+
+뽑기 
+target = gacha
+id 1개 추가
+callback://navigation?target=gacha&id=350200001
+
+
+성장반복이벤트
+target 추가 growth
+id 3개 추가
+callback://navigation?target=growth&id=336000101
+callback://navigation?target=growth&id=336000201
+callback://navigation?target=growth&id=336000301
+
+미션수행이벤트
+target 추가 mission
+id 2개 추가
+callback://navigation?target=mission&id=3341001
+callback://navigation?target=mission&id=3341002
