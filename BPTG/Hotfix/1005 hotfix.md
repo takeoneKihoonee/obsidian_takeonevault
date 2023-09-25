@@ -35,6 +35,8 @@
       개인스케줄 퍼즐 시작연출 멤버정보 지수만 나오는 UI 수정.
 - [x] hotfix/webview_to_event ✅ 2023-09-21
       웹뷰 딥링크 추가 작업 (상점,뽑기,성장반복이벤트,미션수행이벤트)
+- [x] hotfix/smartphone_get_badge_terms_api_cancel ✅ 2023-09-25
+      스마트폰 - 공지버튼누른후 -> 웹뷰에서 딥링크로 다른씬으로 이동할경우
 
 
 
