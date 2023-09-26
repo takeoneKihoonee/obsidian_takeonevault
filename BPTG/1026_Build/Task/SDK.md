@@ -1,7 +1,7 @@
 
 최신 프로덕션 릴리스(103089(1.03.089))에 SDK 문제가 포함되어 있습니다.
 
-![블랙핑크 더 게임](https://lh3.googleusercontent.com/Pgsj7t_n9IWxHuNpdqOwHwR7C3GdEJF0QYBnmd0DhLoW78WuqWswMPWsQlQ8ubNLlMQ)블랙핑크 더 게임
+![블랙핑크 더 게임](https://lh3.googleusercontent.com/Pgsj7t_n9IWxHuNpdqOwHwR7C3GdEJF0QYBnmd0DhLoW78WuqWswMPWsQlQ8ubNLlMQ)
 
 2023년 9월 6일 19:32
 
