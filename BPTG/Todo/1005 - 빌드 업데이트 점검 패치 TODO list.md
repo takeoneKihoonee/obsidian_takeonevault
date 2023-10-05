@@ -1,6 +1,5 @@
 
 
-
 ![[Pasted image 20231005113351.png]]
 
 
@@ -41,12 +40,13 @@ G4HFYQM0-2XUCWCQCEKJUIIE4V1KG8NX,EW6BGAOF-QXWOD4KIFDGHMLO336OIUT6,CXSEW030-VF9CA
 7. 버전세팅
 ```
 version 1.03.129
-
+update - minimum_version 1.03.129
 ```
 
+8. 점검팝업 확인후 화이트리스트 제거
 
 
-8. 점검해제
+9. 점검해제
 ```
 F 선택
 ```
