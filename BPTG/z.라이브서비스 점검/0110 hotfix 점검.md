@@ -8,6 +8,10 @@
 - [ ] aws 서버에 컨피그 업로드
 
 
+## 점검공지링크
+https://www.takeonecompany.com/games/bptg/board.html?board=notice&&content=MAINTENANCE0110
+
+
 
 <span style="background:#d3f8b6">GD  - 변경없음.</span>
 <span style="background:#d3f8b6">Res - 변경없음.</span>
