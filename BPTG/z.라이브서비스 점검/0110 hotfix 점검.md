@@ -9,7 +9,7 @@
 
 
 
-GD  - 변경없음.
+<span style="background:#d3f8b6">GD  - 변경없음.</span>
 Res - 변경없음.
 
 
