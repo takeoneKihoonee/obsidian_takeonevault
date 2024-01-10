@@ -14,4 +14,4 @@ Res - 변경없음.
 
 
 
-화이트리스트
+<font color="#fac08f">화이트리스트</font>
