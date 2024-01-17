@@ -14,7 +14,13 @@
 	- res d7c4f66b914f1ff68c0b0a25a81d41c567dcbd35
 	플레이후 리소스 27.4m 다운로드
 	
-	
-		변경
-		bptg-avatar_animations_controller_blackpinkworld_assets_all.bundle
-	
+> 	변경
+> 	bptg-avatar_animations_controller_blackpinkworld_assets_all.bundle
+> 	bptg-avatar_jennie_stylingitems_up231221_2_assets_all.bundle
+> 	bptg-avatar_jisoo_stylingitems_up231221_2_assets_all.bundle
+> 	
+> 	신규
+> 	avatar_common_animations_shopanimations_up240123_assets_all.bundle
+	  avatar_rose_animations_blackpinkworld_up240123_assets_all.bundle
+	  avatar_rose_stylingitems_up240123_assets_all.bundle
+> 	
