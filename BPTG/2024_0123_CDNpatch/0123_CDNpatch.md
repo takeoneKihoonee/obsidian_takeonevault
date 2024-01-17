@@ -7,4 +7,9 @@
 - 2023/1221빌드 buildqa 1.05.152 빌드에서 buildqa 컨피그로 
 	-  gd 0a1aa6c0a6
 	-  res ccf1e2b68b8e527fb1537c13099c5df9fe3e3b01
-	플레이
+	플레이후 리소스 1.76g 모두 다운로드
+
+- 앱 재실행후 patchqa 컨피그로 
+	- gd 8b37bc26df
+	- res d7c4f66b914f1ff68c0b0a25a81d41c567dcbd35
+	플레이후 리소스 27.4m 
