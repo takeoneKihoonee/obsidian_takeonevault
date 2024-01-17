@@ -19,8 +19,30 @@
 > 	bptg-avatar_jennie_stylingitems_up231221_2_assets_all.bundle
 > 	bptg-avatar_jisoo_stylingitems_up231221_2_assets_all.bundle
 > 	
-> 	신규
-> 	avatar_common_animations_shopanimations_up240123_assets_all.bundle
-	  avatar_rose_animations_blackpinkworld_up240123_assets_all.bundle
-	  avatar_rose_stylingitems_up240123_assets_all.bundle
 > 	
+> 	신규추가
+> 	로제 스페셜 모션
+> 	avatar_common_animations_shopanimations_up240123_assets_all.bundle
+> 	avatar_rose_animations_blackpinkworld_up240123_assets_all.bundle
+> 	
+> 	로제 솔로 의상
+> 	avatar_rose_stylingitems_up240123_assets_all.bundle
+> 	
+> 	이펙트
+> 	fx_up240123_assets_all.bundle
+> 	
+> 	멀티스케줄/협동전
+> 	schedule_subschedule_mission_up240123_assets_all.bundle
+> 	schedule_schedulecoop_chaptermap_up240123_assets_all.bundle
+> 	schedule_schedulecoop_mission_up240123_assets_all.bundle
+> 	
+> 	UI
+> 	ui_event_up240123_assets_all.bundle
+> 	ui_main02_avatar_up240123_assets_all.bundle
+> 	ui_main02_scrapbook_up240123_assets_all.bundle
+> 	ui_schedule02_map_up240123_assets_all.bundle
+> 	ui_schedule02_tile_up240123_assets_all.bundle
+> 	ui_shop_up240123_assets_all.bundle
+
+
+- 모든 번들을 다운받았지만 앱에서 사
