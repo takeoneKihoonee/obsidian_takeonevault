@@ -12,4 +12,9 @@
 - 앱 재실행후 patchqa 컨피그로 
 	- gd 8b37bc26df
 	- res d7c4f66b914f1ff68c0b0a25a81d41c567dcbd35
-	플레이후 리소스 27.4m 
+	플레이후 리소스 27.4m 다운로드
+	
+	
+		변경
+		bptg-avatar_animations_controller_blackpinkworld_assets_all.bundle
+	
