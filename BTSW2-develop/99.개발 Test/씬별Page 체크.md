@@ -1,3 +1,3 @@
 TitleUI - TitleUI - TitleCanvasManager
 
-LobbyUI - LobbyUI 
+LobbyUI - LobbyUI - LobbyCanvasManager
