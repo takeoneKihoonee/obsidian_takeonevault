@@ -1,8 +1,9 @@
 {
 	"nodes":[
-		{"id":"95163fa79987bc51","x":-1760,"y":-400,"width":400,"height":400,"type":"file","file":"BTSW2-develop/EntranceSequence/LogoScene.md"},
-		{"id":"0ab54470b4027311","x":-1320,"y":-400,"width":400,"height":400,"type":"file","file":"BTSW2-develop/EntranceSequence/Title.md"},
-		{"id":"bbf2fa4259393721","x":-880,"y":-400,"width":400,"height":400,"type":"file","file":"BTSW2-develop/EntranceSequence/Download.md"}
+		{"id":"cbde6e4c177f655f","x":-1451,"y":-624,"width":400,"height":400,"type":"file","file":"BTSW2-develop/EntranceSequence/Bootstrap.md"},
+		{"id":"95163fa79987bc51","type":"file","file":"BTSW2-develop/EntranceSequence/LogoScene.md","x":-1760,"y":-400,"width":400,"height":400},
+		{"id":"0ab54470b4027311","type":"file","file":"BTSW2-develop/EntranceSequence/Title.md","x":-1320,"y":-400,"width":400,"height":400},
+		{"id":"bbf2fa4259393721","type":"file","file":"BTSW2-develop/EntranceSequence/Download.md","x":-880,"y":-400,"width":400,"height":400}
 	],
 	"edges":[]
 }
