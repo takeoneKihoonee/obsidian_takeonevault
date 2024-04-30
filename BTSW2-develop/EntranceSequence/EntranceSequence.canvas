@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"id":"60bbb5386ca65ed5","type":"file","file":"BTSW2-develop/EntranceSequence/Title.md","x":-1360,"y":-320,"width":400,"height":320},
-		{"id":"b6b9652c755ea966","type":"file","file":"BTSW2-develop/EntranceSequence/Download.md","x":-880,"y":-303,"width":400,"height":367}
-	],
-	"edges":[
-		{"id":"eaf7d3c9c5f66044","fromNode":"60bbb5386ca65ed5","fromSide":"right","toNode":"b6b9652c755ea966","toSide":"left"}
-	]
-}
