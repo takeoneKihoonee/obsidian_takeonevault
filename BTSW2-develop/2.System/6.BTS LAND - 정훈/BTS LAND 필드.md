@@ -4,7 +4,7 @@
 [[5월 마일스톤]]
 
 
-[[0.TaskTracking|이슈트래킹]] 
+[[BTSW2-develop/3.Task/3월4월/0.TaskTracking|이슈트래킹]] 
 
 
 아트 기본 터레인 리소스 변경 작업 대응.
