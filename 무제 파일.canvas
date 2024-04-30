@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"4395ea9cb4edc83a","x":94,"y":-163,"width":400,"height":400,"type":"file","file":"BTSW2-develop/2.System/8.이벤트-친구-업적-퀘스트 - 공통/업적 임무.md"},
+		{"id":"3618d436ef8baa8f","x":539,"y":-163,"width":400,"height":400,"type":"file","file":"BTSW2-develop/2.System/8.이벤트-친구-업적-퀘스트 - 공통/이벤트.md"},
+		{"id":"cd8218c26f760836","x":984,"y":-163,"width":400,"height":400,"type":"file","file":"BTSW2-develop/2.System/8.이벤트-친구-업적-퀘스트 - 공통/친구.md"},
+		{"id":"6204a291e979dd4e","x":1429,"y":-163,"width":400,"height":400,"type":"file","file":"BTSW2-develop/2.System/8.이벤트-친구-업적-퀘스트 - 공통/퀘스트.md"}
+	],
+	"edges":[]
+}
