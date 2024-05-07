@@ -7,4 +7,10 @@ InitializeAsObservable() 함수에서 UserDataService.ItemlistInfo() 호출시�
 - CDataSettingController.SetServerData() - LobbyTop
 	- Landing 
 	- Title
-- LobbyTop 응답에서 튜토리얼체크, 
+- LobbyTop 응답에서 튜토리얼체크
+
+
+
+- TitleCanvasManager.OnClickStartBtn() 에서
+	- CPlayer.Instance.Lading.Value - 랜딩 플레이 체크 여부. 
+		- true - 랜딩 플ㄹ레
