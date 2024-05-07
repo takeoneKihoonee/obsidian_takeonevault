@@ -1,0 +1,3 @@
+
+- API - CDataSettingController.SetServerData()
+	- LobbyTop
