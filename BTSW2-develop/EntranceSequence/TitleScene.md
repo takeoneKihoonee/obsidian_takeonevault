@@ -13,4 +13,5 @@ InitializeAsObservable() 함수에서 UserDataService.ItemlistInfo() 호출시�
 
 - TitleCanvasManager.OnClickStartBtn() 에서
 	- CPlayer.Instance.Lading.Value - 랜딩 플레이 체크 여부. 
-		- true - 랜딩 플ㄹ레
+		- true - 랜딩 플레이완료
+		- false - 랜딩씬으로 씬이동
