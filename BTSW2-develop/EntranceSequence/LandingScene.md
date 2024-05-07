@@ -24,3 +24,4 @@
 		- CDataSettingController.Instance.SetServerData() - lobbytop
 		- APIHelper.UserDataService.ADList() 
 		- CUnlockSystemManager.Instance.SetData() - 언락세팅
+		- DownloadFile(key) -  랜딩 추가 다운로드
