@@ -18,4 +18,6 @@
 - OnClick_BtnNickNameConfirm()
 	- APIHelper.Auth.SignIn() - nickname
 	- APIHelper.UserDataService.MemberSelectInfo - 멤버선택 
-	- landing download
+	- 남은 랜딩타임라인 landing download 시도를 InitializeAsObservable 함수호출로 함. ;;;;;
+	- InitializeAsObservable()
+	- 
