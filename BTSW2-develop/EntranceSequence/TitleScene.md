@@ -2,5 +2,7 @@
 ### API flow
 
 - UserDataService.ItemlistInfo()
-- CDataSettingController.SetServerData()
-	- LobbyTop
+- CDataSettingController.SetServerData() - LobbyTop
+	- Landing 
+	- Title
+		- LobbyTop
