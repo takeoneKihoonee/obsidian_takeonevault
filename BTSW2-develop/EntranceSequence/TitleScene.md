@@ -7,3 +7,4 @@ InitializeAsObservable() 함수에서 UserDataService.ItemlistInfo() 호출시�
 - CDataSettingController.SetServerData() - LobbyTop
 	- Landing 
 	- Title
+- ㅣ
