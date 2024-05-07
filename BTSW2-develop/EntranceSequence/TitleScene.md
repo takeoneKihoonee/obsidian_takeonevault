@@ -1,4 +1,6 @@
 
-- API - UserDataService.ItemlistInfo()
-- API - CDataSettingController.SetServerData()
+### API flow
+
+- UserDataService.ItemlistInfo()
+- CDataSettingController.SetServerData()
 	- LobbyTop
