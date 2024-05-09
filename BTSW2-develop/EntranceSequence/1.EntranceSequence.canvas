@@ -1,20 +1,20 @@
 {
 	"nodes":[
-		{"id":"0ab54470b4027311","type":"file","file":"BTSW2-develop/EntranceSequence/TitleScene.md","x":-1320,"y":-400,"width":400,"height":400},
-		{"id":"cbde6e4c177f655f","type":"file","file":"BTSW2-develop/EntranceSequence/Bootstrap.md","x":-1320,"y":-940,"width":400,"height":400},
 		{"id":"95163fa79987bc51","type":"file","file":"BTSW2-develop/EntranceSequence/LogoScene.md","x":-1760,"y":-400,"width":400,"height":400},
 		{"id":"05c63fe83fcf0f77","type":"file","file":"BTSW2-develop/EntranceSequence/CPlayer.Tutorial.md","x":-1080,"y":220,"width":400,"height":400},
 		{"id":"bbf2fa4259393721","type":"file","file":"BTSW2-develop/EntranceSequence/Download.md","x":-1560,"y":220,"width":400,"height":400},
-		{"id":"c7700cd6ee219d41","x":-680,"y":-280,"width":400,"height":400,"type":"file","file":"BTSW2-develop/EntranceSequence/LobbyScene.md"},
-		{"id":"8895b3e551dafb9b","type":"file","file":"BTSW2-develop/EntranceSequence/LandingScene.md","x":-680,"y":-840,"width":400,"height":400}
+		{"id":"c7700cd6ee219d41","type":"file","file":"BTSW2-develop/EntranceSequence/LobbyScene.md","x":-680,"y":-280,"width":400,"height":400},
+		{"id":"8895b3e551dafb9b","type":"file","file":"BTSW2-develop/EntranceSequence/LandingScene.md","x":-680,"y":-840,"width":400,"height":400},
+		{"id":"0ab54470b4027311","type":"file","file":"BTSW2-develop/EntranceSequence/TitleScene.md","x":-1280,"y":-400,"width":400,"height":400},
+		{"id":"cbde6e4c177f655f","type":"file","file":"BTSW2-develop/EntranceSequence/Bootstrap.md","x":-1680,"y":-780,"width":240,"height":200}
 	],
 	"edges":[
-		{"id":"272e087c799afecd","fromNode":"cbde6e4c177f655f","fromSide":"left","toNode":"95163fa79987bc51","toSide":"top"},
 		{"id":"5a7157dac4e3bd6f","fromNode":"95163fa79987bc51","fromSide":"right","toNode":"0ab54470b4027311","toSide":"left"},
 		{"id":"f1130f7e18f2b4d2","fromNode":"0ab54470b4027311","fromSide":"bottom","toNode":"bbf2fa4259393721","toSide":"top"},
 		{"id":"fce79a10fa7e46af","fromNode":"0ab54470b4027311","fromSide":"bottom","toNode":"05c63fe83fcf0f77","toSide":"top","label":"CPlayer.FirstTutorials()"},
 		{"id":"f62b78afa5c65c90","fromNode":"0ab54470b4027311","fromSide":"right","toNode":"8895b3e551dafb9b","toSide":"left"},
 		{"id":"901376ecac72c4e9","fromNode":"0ab54470b4027311","fromSide":"right","toNode":"c7700cd6ee219d41","toSide":"left"},
-		{"id":"a48c179f03ff21ae","fromNode":"8895b3e551dafb9b","fromSide":"bottom","toNode":"c7700cd6ee219d41","toSide":"top"}
+		{"id":"a48c179f03ff21ae","fromNode":"8895b3e551dafb9b","fromSide":"bottom","toNode":"c7700cd6ee219d41","toSide":"top"},
+		{"id":"fe9cc3ab53fdaa51","fromNode":"cbde6e4c177f655f","fromSide":"bottom","toNode":"95163fa79987bc51","toSide":"top"}
 	]
 }
