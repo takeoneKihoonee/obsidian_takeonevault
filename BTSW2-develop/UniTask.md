@@ -9,5 +9,5 @@ https://neuecc.medium.com/unitask-v2-zero-allocation-async-await-for-unity-with-
 - [-] dsfds
 
 - [ ] tast setting 
-- [?] task setting
+- [/] task setting
 
