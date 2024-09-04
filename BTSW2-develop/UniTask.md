@@ -6,8 +6,4 @@ https://neuecc.medium.com/extends-unitywebrequest-via-async-decorator-pattern-ad
 
 https://neuecc.medium.com/unitask-v2-zero-allocation-async-await-for-unity-with-asynchronous-linq-1aa9c96aa7dd
 
-- [-] dsfds
-
-- [ ] tast setting 
-- [/] task setting
 
