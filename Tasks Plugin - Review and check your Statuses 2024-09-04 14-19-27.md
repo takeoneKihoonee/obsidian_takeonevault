@@ -21,38 +21,38 @@ Obsidian may only render the table correctly in Reading Mode.
 
 These are the status values in the Core and Custom statuses sections.
 
-| Status Symbol | Next Status Symbol | Status Name | Status Type | Problems (if any) |
-| ----- | ----- | ----- | ----- | ----- |
-| `space` | `x` | Todo | `TODO` |  |
-| `x` | `space` | Done | `DONE` |  |
-| `/` | `x` | In Progress | `IN_PROGRESS` |  |
-| `-` | `space` | Cancelled | `CANCELLED` |  |
-| `space` | `x` | Unchecked | `TODO` | Duplicate symbol '`space`': this status will be ignored. |
-| `x` | `space` | Checked | `DONE` | Duplicate symbol '`x`': this status will be ignored. |
-| `>` | `x` | Rescheduled | `TODO` |  |
-| `<` | `x` | Scheduled | `TODO` |  |
-| `!` | `x` | Important | `TODO` |  |
-| `?` | `x` | Question | `TODO` |  |
-| `*` | `x` | Star | `TODO` |  |
-| `n` | `x` | Note | `TODO` |  |
-| `l` | `x` | Location | `TODO` |  |
-| `i` | `x` | Information | `TODO` |  |
-| `I` | `x` | Idea | `TODO` |  |
-| `S` | `x` | Amount | `TODO` |  |
-| `p` | `x` | Pro | `TODO` |  |
-| `c` | `x` | Con | `TODO` |  |
-| `b` | `x` | Bookmark | `TODO` |  |
-| `"` | `x` | Quote | `TODO` |  |
-| `0` | `0` | Speech bubble 0 | `NON_TASK` |  |
-| `1` | `1` | Speech bubble 1 | `NON_TASK` |  |
-| `2` | `2` | Speech bubble 2 | `NON_TASK` |  |
-| `3` | `3` | Speech bubble 3 | `NON_TASK` |  |
-| `4` | `4` | Speech bubble 4 | `NON_TASK` |  |
-| `5` | `5` | Speech bubble 5 | `NON_TASK` |  |
-| `6` | `6` | Speech bubble 6 | `NON_TASK` |  |
-| `7` | `7` | Speech bubble 7 | `NON_TASK` |  |
-| `8` | `8` | Speech bubble 8 | `NON_TASK` |  |
-| `9` | `9` | Speech bubble 9 | `NON_TASK` |  |
+| Status Symbol | Next Status Symbol | Status Name     | Status Type   | Problems (if any)                                        |
+| ------------- | ------------------ | --------------- | ------------- | -------------------------------------------------------- |
+| `space`       | `x`                | Todo            | `TODO`        |                                                          |
+| `x`           | `space`            | Done            | `DONE`        |                                                          |
+| `/`           | `x`                | In Progress     | `IN_PROGRESS` |                                                          |
+| `-`           | `space`            | Cancelled       | `CANCELLED`   |                                                          |
+| `space`       | `x`                | Unchecked       | `TODO`        | Duplicate symbol '`space`': this status will be ignored. |
+| `x`           | `space`            | Checked         | `DONE`        | Duplicate symbol '`x`': this status will be ignored.     |
+| `>`           | `x`                | Rescheduled     | `TODO`        |                                                          |
+| `<`           | `x`                | Scheduled       | `TODO`        |                                                          |
+| `!`           | `x`                | Important       | `TODO`        |                                                          |
+| `?`           | `x`                | Question        | `TODO`        |                                                          |
+| `*`           | `x`                | Star            | `TODO`        |                                                          |
+| `n`           | `x`                | Note            | `TODO`        |                                                          |
+| `l`           | `x`                | Location        | `TODO`        |                                                          |
+| `i`           | `x`                | Information     | `TODO`        |                                                          |
+| `I`           | `x`                | Idea            | `TODO`        |                                                          |
+| `S`           | `x`                | Amount          | `TODO`        |                                                          |
+| `p`           | `x`                | Pro             | `TODO`        |                                                          |
+| `c`           | `x`                | Con             | `TODO`        |                                                          |
+| `b`           | `x`                | Bookmark        | `TODO`        |                                                          |
+| `"`           | `x`                | Quote           | `TODO`        |                                                          |
+| `0`           | `0`                | Speech bubble 0 | `NON_TASK`    |                                                          |
+| `1`           | `1`                | Speech bubble 1 | `NON_TASK`    |                                                          |
+| `2`           | `2`                | Speech bubble 2 | `NON_TASK`    |                                                          |
+| `3`           | `3`                | Speech bubble 3 | `NON_TASK`    |                                                          |
+| `4`           | `4`                | Speech bubble 4 | `NON_TASK`    |                                                          |
+| `5`           | `5`                | Speech bubble 5 | `NON_TASK`    |                                                          |
+| `6`           | `6`                | Speech bubble 6 | `NON_TASK`    |                                                          |
+| `7`           | `7`                | Speech bubble 7 | `NON_TASK`    |                                                          |
+| `8`           | `8`                | Speech bubble 8 | `NON_TASK`    |                                                          |
+| `9`           | `9`                | Speech bubble 9 | `NON_TASK`    |                                                          |
 
 ## Loaded Settings
 
