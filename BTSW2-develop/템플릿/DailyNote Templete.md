@@ -13,8 +13,10 @@ tags: #daily_note  #Notes #매일매일
   
 ---  
 ## 일감 감옥  
+
+- 3.
 ```tasks  
-path includes task  
+path includes 3.Task  
 not done  
 short mode  
 ```
