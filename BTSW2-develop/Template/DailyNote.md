@@ -5,7 +5,7 @@
 > [!todo]+ Today
 > ```tasks
 > not done
-> due on or before today
+> happens today
 > hide recurrence rule
 > hide due date
 > hide scheduled date
