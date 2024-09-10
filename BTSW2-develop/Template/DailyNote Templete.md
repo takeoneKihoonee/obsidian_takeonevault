@@ -14,7 +14,7 @@ tags: #daily_note  #Notes #매일매일
 - [ ] TBU  
   
   
-<< [[<% yesterday %>]] | [[<% tomorrow %>]] >>
+<< yesterday | tomorrow >>
 
 
 ---  
