@@ -23,7 +23,8 @@ short mode
 
 ## 오늘까지 완료되지 않은 일감검색
 ```tasks  
-not done  
+not done
+hide 
 due today
 short mode
 ```
