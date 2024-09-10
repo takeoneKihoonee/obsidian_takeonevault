@@ -4,7 +4,7 @@
 >[!todo]- Today
 >```tasks
 >not done
->happens {{date}}
+>happens {{DATE:YYYY-MM-DD}}
 >sort by priority
 >```
 >>[!todo]- Done
