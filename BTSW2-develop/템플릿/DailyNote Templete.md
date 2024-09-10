@@ -14,9 +14,17 @@ tags: #daily_note  #Notes #매일매일
 ---  
 ## 일감 감옥  
 
-- 3.
+- 3.Task 폴더 task 검색
 ```tasks  
 path includes 3.Task  
 not done  
 short mode  
+```
+
+
+
+```tasks  
+
+not done  
+due today
 ```
