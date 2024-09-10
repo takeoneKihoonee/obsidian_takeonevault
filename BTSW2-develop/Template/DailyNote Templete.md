@@ -2,7 +2,7 @@
 
 -------
 
-creation date: {{ Date }}{{ Time }}
+creation date: {{ Date }}:{{ Time }}
 
 --------
 
