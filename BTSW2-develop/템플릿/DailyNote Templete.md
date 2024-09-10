@@ -15,6 +15,13 @@ tags: #daily_note  #Notes #매일매일
   
   
 << [[<% tp.date.now("YYYY-MM-DD", -1) %>]] | [[<% tp.date.now("YYYY-MM-DD", +1) %>]] >>
+
+
+
+
+<%* let today = tp.date.now(“YYYY-MM-DD”, 0, tp.file.title, “YYYY-MM-DD”) %>
+
+
   
 ---  
 
