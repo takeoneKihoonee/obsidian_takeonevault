@@ -27,3 +27,12 @@ not done
 due today
 short mode
 ```
+
+
+
+## 완료된 항목중 heading을 
+```tasks
+done
+heading includes tasks
+```
+
