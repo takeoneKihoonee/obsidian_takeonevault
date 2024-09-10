@@ -62,7 +62,7 @@
 > ```tasks
 > not done
 > happens after {{date:YYYY-MM-DD}}
-> happens before {{date+14d:YYYY-MM-DD}}
+> happens before {{date:YYYY-MM-DD}}
 > hide recurrence rule
 > hide due date
 > hide scheduled date
