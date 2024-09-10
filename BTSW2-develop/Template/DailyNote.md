@@ -15,7 +15,7 @@
 > [!danger]+ Overdue 
 > ```tasks
 > not done
-> (due before  happens before priority is above | none
+> (due before {{date:YYYY-MM-DD}}) OR ((happens before {{date:YYYY-MM-DD}}) AND (priority is above none))
 > hide recurrence rule
 > sort by due date
 > ```
