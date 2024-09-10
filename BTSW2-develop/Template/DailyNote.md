@@ -5,7 +5,7 @@
 > [!todo]+ Today
 > ```tasks
 > not done
-> happens today
+> happens <% tp.date.now("YYYY-MM-DD") %>
 > hide recurrence rule
 > hide due date
 > hide scheduled date
