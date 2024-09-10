@@ -1,43 +1,5 @@
 
 
-
->[!todo]- Today
->```tasks
->not done
->happens {{DATE:YYYY-MM-DD}}
->sort by priority
->```
->>[!todo]- Done
->>```tasks
->>done
->>happens {{DATE:YYYY-MM-DD}}
->>group by due
->>sort by priority
->>```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<< [[{{yesterday}}|yesterday]] || [[{{date:YYYY-MM}}|month]] || [[{{tomorrow}}|tomorrow]] >>
-
-# {{date:dddd, MMMM Do, YYYY}}
-
-<% tp.web.daily_quote() %>
-
 ## Agenda
 
 > [!todo]+ Today
