@@ -69,7 +69,7 @@ heading includes 일감
 ### 완료된 항목중 Tag  일감 검색
 
 ```dataviewjs 
-dv.taskList(dv.pages('#blocked').file.tasks.where(t => !t.completed)) 
+dv.taskList(dv.pages('#M4').file.tasks.where(t => !t.completed)) 
 ```
 
 
