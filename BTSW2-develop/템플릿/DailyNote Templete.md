@@ -37,24 +37,7 @@ tags: #daily_note  #Notes #매일매일
 
 # 일감 감옥  
 
-### 오늘 만기되는 Task
-```tasks
-happens on or before today
-(not done) OR (done after today)
-group by heading
-sort by description
-```
-  
-
-### 오늘까지 완료되지 않은 일감검색
-```tasks  
-not done
-hide due date
-hide edit button
-```
-
-
-### 완료된 항목중 Tag  일감 검색
+### 완료된 항목중 Tag #M4  일감 검색
 
 ```dataviewjs 
 dv.taskList(dv.pages('#M4').file.tasks.where(t => !t.completed)) 
