@@ -5,7 +5,7 @@
 > [!todo]+ Today
 > ```tasks
 > not done
-> happens before today
+> happens today
 > hide recurrence rule
 > hide due date
 > hide scheduled date
@@ -15,7 +15,7 @@
 > [!danger]+ Overdue 
 > ```tasks
 > not done
-> (due before 2024-10-08) OR ((happens before 2024-10-08) AND (priority is above none))
+> (due before today) OR ((happens before today) AND (priority is above none))
 > hide recurrence rule
 > sort by due date
 > ```
