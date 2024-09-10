@@ -70,7 +70,7 @@ heading includes 일감
 
 ```dataview
 TASK
-FROM #M4 
+FROM #M4
 WHERE !completed
 SORT priority DESC, due ASC
 ```
