@@ -10,7 +10,7 @@
 >>[!todo]- Done
 >>```tasks
 >>done
->>happens {{date}}
+>>happens {{DATE:YYYY-MM-DD}}
 >>group by due
 >>sort by priority
 >>```
