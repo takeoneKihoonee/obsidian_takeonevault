@@ -67,10 +67,12 @@ heading includes 일감
 
 
 ### 완료된 항목중 Tag  일감 검색
-```tasks
 
-tag includes #M4
-
+```dataview
+TASK
+FROM #M4 
+WHERE !completed
+SORT priority DESC, due ASC
 ```
 
 
