@@ -30,9 +30,9 @@ short mode
 
 
 
-## 완료된 항목중 heading을 
+## 완료된 항목중 heading을 일감 이라고 쓴 일감 검색
 ```tasks
 done
-heading includes tasks
+heading includes 일감
 ```
 
