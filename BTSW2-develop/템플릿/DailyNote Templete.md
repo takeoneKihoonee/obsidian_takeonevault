@@ -14,12 +14,13 @@ tags: #daily_note  #Notes #매일매일
 ---  
 # 일감 감옥  
 
-## 3.Task 폴더내에서 일감 검색
-```tasks  
-path includes 3.Task  
-not done  
-short mode  
+### 오늘 만기되는 Task
+
+```tasks
+not done
+due on <% tp.date.now("YYYY-MM-DD") %>
 ```
+
 
 ## 오늘까지 완료되지 않은 일감검색
 ```tasks  
