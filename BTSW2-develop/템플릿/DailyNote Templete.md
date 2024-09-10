@@ -21,7 +21,12 @@ tags: #daily_note  #Notes #매일매일
 
 <%* let today = tp.date.now(“YYYY-MM-DD”, 0, tp.file.title, “YYYY-MM-DD”) %>
 
-
+```tasks
+happens on or before <% today %>
+(not done) OR (done after <% today %>)
+group by heading
+sort by description
+```
   
 ---  
 
