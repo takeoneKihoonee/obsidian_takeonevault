@@ -9,7 +9,7 @@ creation date: {{ Date }}:{{ Time }}
 
 tags: #daily_note  #Notes #매일매일
   
-# <% tp.file.creation_date() %>  
+# {{Created Date}} 
 - [ ] TBU  
 - [ ] TBU  
   
