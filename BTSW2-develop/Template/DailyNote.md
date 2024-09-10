@@ -23,8 +23,8 @@
 > [!tip]- Next two weeks
 > ```tasks
 > not done
-> happens after {{date:YYYY-MM-DD}}
-> happens before {{date:YYYY-MM-DD}}
+> happens after yesterday
+> happens before 2024-10-08
 > hide recurrence rule
 > hide due date
 > hide scheduled date
