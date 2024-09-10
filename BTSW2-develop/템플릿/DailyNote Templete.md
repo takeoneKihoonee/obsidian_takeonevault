@@ -1,4 +1,10 @@
 
+<%*
+  let yesterday = tp.date.now("YYYY-MM-DD", -1, tp.file.title, "YYYY-MM-DD")
+  let today     = tp.date.now("YYYY-MM-DD",  0, tp.file.title, "YYYY-MM-DD")
+  let tomorrow  = tp.date.now("YYYY-MM-DD",  1, tp.file.title, "YYYY-MM-DD")
+%>
+
 -------
 
 creation date: <% tp.file.creation_date() %>
@@ -14,12 +20,8 @@ tags: #daily_note  #Notes #매일매일
 - [ ] TBU  
   
   
-<< [[<% tp.date.now("YYYY-MM-DD", -1) %>]] | [[<% tp.date.now("YYYY-MM-DD", +1) %>]] >>
+<< [[<% yesterday %>]] | [[<% tomorrow %>]] >>
 
-
-
-
-<%* let today = tp.date.now(“YYYY-MM-DD”, 0, tp.file.title, “YYYY-MM-DD”) %>
 
 ```tasks
 happens on or before <% today %>
