@@ -24,7 +24,7 @@ tags: #daily_note  #Notes #매일매일
 
 
 ---  
-
+# 매일매일 
 
 - [ ] 브랜치 동기화 🔁 every day when done ⏳ [[<% tp.date.now("YYYY-MM-DD", -1) %>]] 
 	- [ ] update branch  🔁 every day when done ⏳ [[<% tp.date.now("YYYY-MM-DD", -1) %>]]
@@ -34,9 +34,6 @@ tags: #daily_note  #Notes #매일매일
 
 
 --------
-
-
-
 
 # 일감 감옥  
 
@@ -55,15 +52,6 @@ not done
 hide due date
 hide edit button
 ```
-
-
-
-### 완료된 항목중 heading을 일감 이라고 쓴 일감 검색
-```tasks
-done
-heading includes 일감
-```
-
 
 
 ### 완료된 항목중 Tag  일감 검색
