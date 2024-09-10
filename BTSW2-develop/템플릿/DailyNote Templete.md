@@ -9,12 +9,12 @@ modification date: <% tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %
 
 tags: #daily_note  #Notes #매일매일
   
-# {{date}}  
+# <% tp.file.creation_date() %>  
 - [ ] TBU  
 - [ ] TBU  
   
   
-[[{{yesterday}}|< yesterday]] | [[{{tomorrow}}|tomorrow >]]  
+<< [[<% tp.date.now("YYYY-MM-DD", -1) %>]] | [[<% tp.date.now("YYYY-MM-DD", +1) %>]] >>
   
 ---  
 # 일감 감옥  
