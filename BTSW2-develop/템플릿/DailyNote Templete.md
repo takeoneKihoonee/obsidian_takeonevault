@@ -23,13 +23,6 @@ tags: #daily_note  #Notes #매일매일
 << [[<% yesterday %>]] | [[<% tomorrow %>]] >>
 
 
-```tasks
-happens on or before today
-(not done) OR (done after today)
-group by heading
-sort by description
-```
-  
 ---  
 
 
@@ -48,12 +41,13 @@ sort by description
 # 일감 감옥  
 
 ### 오늘 만기되는 Task
-
 ```tasks
-not done
-due on <% tp.date.now("YYYY-MM-DD") %>
+happens on or before today
+(not done) OR (done after today)
+group by heading
+sort by description
 ```
-
+  
 
 ### 오늘까지 완료되지 않은 일감검색
 ```tasks  
