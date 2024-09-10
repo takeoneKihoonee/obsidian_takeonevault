@@ -16,7 +16,7 @@
 > ```tasks
 > not done
 > (happens after yesterday) AND (happens before in two weeks) AND (priority is above none)
-> hide recurrence rule
+> (tags include #M4) OR (tags include #M5)
 > sort by due date
 > ```
 
