@@ -21,10 +21,9 @@ not done
 short mode  
 ```
 
-
-
+# 매일매일
 ```tasks  
-
 not done  
 due today
+short mode
 ```
