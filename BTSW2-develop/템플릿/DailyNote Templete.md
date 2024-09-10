@@ -17,6 +17,20 @@ tags: #daily_note  #Notes #매일매일
 << [[<% tp.date.now("YYYY-MM-DD", -1) %>]] | [[<% tp.date.now("YYYY-MM-DD", +1) %>]] >>
   
 ---  
+
+
+- [ ] 브랜치 동기화 🔁 every day when done ⏳ 2023-12-28
+	- [ ] update branch
+	- [ ] resources branch
+	- [ ] 3d art branch
+
+
+
+--------
+
+
+
+
 # 일감 감옥  
 
 ### 오늘 만기되는 Task
