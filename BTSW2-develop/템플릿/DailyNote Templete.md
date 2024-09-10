@@ -41,7 +41,7 @@ due on <% tp.date.now("YYYY-MM-DD") %>
 ```
 
 
-## 오늘까지 완료되지 않은 일감검색
+### 오늘까지 완료되지 않은 일감검색
 ```tasks  
 not done
 hide due date
@@ -50,7 +50,7 @@ hide edit button
 
 
 
-## 완료된 항목중 heading을 일감 이라고 쓴 일감 검색
+### 완료된 항목중 heading을 일감 이라고 쓴 일감 검색
 ```tasks
 done
 heading includes 일감
