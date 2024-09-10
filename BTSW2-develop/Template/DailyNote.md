@@ -23,10 +23,9 @@
 > [!tip]- Next two weeks
 > ```tasks
 > not done
-> (happens after yesterday) OR
-> happens before today
+> (happens after yesterday) AND (happens before in two weeks)
 > hide recurrence rule
 > hide due date
 > hide scheduled date
-> group by happens
+
 
