@@ -24,8 +24,8 @@ tags: #daily_note  #Notes #매일매일
 
 
 ```tasks
-happens on or before <% today %>
-(not done) OR (done after <% today %>)
+happens on or before today
+(not done) OR (done after today)
 group by heading
 sort by description
 ```
