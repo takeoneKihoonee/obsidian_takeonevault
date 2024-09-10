@@ -53,7 +53,7 @@
 > [!danger]+ Overdue 
 > ```tasks
 > not done
-> due before | happens before (priority is above none))
+> due before | happens before priority above none
 > hide recurrence rule
 > sort by due date
 > ```
