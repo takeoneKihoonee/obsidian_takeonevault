@@ -5,7 +5,7 @@
 > [!todo]+ Today
 > ```tasks
 > not done
-> happens <% tp.date.now("YYYY-MM-DD") %>
+> happens today
 > hide recurrence rule
 > hide due date
 > hide scheduled date
@@ -15,7 +15,7 @@
 > [!danger]+ Overdue 
 > ```tasks
 > not done
-> due before | happens before priority is above | none
+> (due before  happens before priority is above | none
 > hide recurrence rule
 > sort by due date
 > ```
