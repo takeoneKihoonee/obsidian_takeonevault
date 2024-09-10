@@ -2,8 +2,7 @@
 
 -------
 
-creation date: {{ Date }}
-modification date: <% tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
+creation date: {{ Date }}{{ Time }}
 
 --------
 

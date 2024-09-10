@@ -110,7 +110,7 @@
 	    - [ ] update branch  🔁 every day when done ⏳ [[<% tp.date.now("YYYY-MM-DD", -1) %>]]
 		- [ ] resources branch  🔁 every day when done ⏳ [[<% tp.date.now("YYYY-MM-DD", -1) %>]]
 		- [ ] 3d art branch  🔁 every day when done ⏳ [[<% tp.date.now("YYYY-MM-DD", -1) %>]]
-- [2024-09-10](BTSW2-develop/999.Notes/2024-09-10.md)
+- [2024-09-10](BTSW2-develop/999.Notes/2024/9%EC%9B%94/2024-09-10.md)
 	- [ ] TBU  
 	- [ ] TBU  
 	- [ ] 브랜치 동기화 🔁 every day when done ⏳ [[<% tp.date.now("YYYY-MM-DD", -1) %>]] 
