@@ -103,7 +103,7 @@
 	- [ ] 프렌즈 인터렉션 연출
 	- [ ] 최적화
 	- [ ] 
-- [DailyNote Templete](BTSW2-develop/%ED%85%9C%ED%94%8C%EB%A6%BF/DailyNote%20Templete.md)
+- [DailyNote Templete](BTSW2-develop/Template/DailyNote%20Templete.md)
 	- [ ] TBU  
 	- [ ] TBU  
 	- [ ] 브랜치 동기화 🔁 every day when done ⏳ [[<% tp.date.now("YYYY-MM-DD", -1) %>]] 
