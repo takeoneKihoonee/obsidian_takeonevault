@@ -15,7 +15,7 @@
 > [!danger]+ Overdue 
 > ```tasks
 > not done
-> (happens after yesterday) AND (happens before in two weeks) AND (priority is above none)
+> happens after yesterday) AND (priority is above none)
 > (tags include #M4) OR (tags include #M5)
 > sort by due date
 > ```
@@ -23,7 +23,7 @@
 > [!tip]- Next two weeks
 > ```tasks
 > not done
-> happens after yesterday
+> (happens after yesterday) OR
 > happens before today
 > hide recurrence rule
 > hide due date
