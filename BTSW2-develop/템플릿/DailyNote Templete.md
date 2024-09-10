@@ -69,7 +69,7 @@ heading includes 일감
 ### 완료된 항목중 Tag  일감 검색
 ```tasks
 
-tags includes #M4
+tag includes #M4
 
 ```
 
