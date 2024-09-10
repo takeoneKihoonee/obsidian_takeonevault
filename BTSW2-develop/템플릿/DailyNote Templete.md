@@ -66,10 +66,10 @@ heading includes 일감
 
 
 
-### 완료된 항목중 Tag #M4  일감 검색
+### 완료된 항목중 Tag  일감 검색
 ```tasks
-not done
-tags include #M4
+
+tags includes #M4
 
 ```
 
