@@ -24,7 +24,7 @@
 > ```tasks
 > not done
 > happens after yesterday
-> happens before 2024-10-08
+> happens before today+14
 > hide recurrence rule
 > hide due date
 > hide scheduled date
