@@ -1,0 +1,127 @@
+- [HUD](BTSW2-develop/2.System/2.%EB%A1%9C%EB%B9%84-%EB%A9%A4%EB%B2%84%EB%A3%B8-HUD%20-%20%ED%95%98%EB%8A%98/HUD.md)
+	- [ ] 프로필 테두리 작업 📅 2024-07-18 
+- [카드](BTSW2-develop/2.System/3.%EC%B9%B4%EB%93%9C%20-%20%ED%99%8D%EC%84%B1/%EC%B9%B4%EB%93%9C.md)
+	- [.] 카드 1레벨업 버튼 추가 https://redmine.takeone.co.kr/issues/14124  🛫 2024-04-08 
+- [뽑기](BTSW2-develop/2.System/19.%EB%BD%91%EA%B8%B0%20-%20%EA%B5%90%EB%82%A8/%EB%BD%91%EA%B8%B0.md)
+	- [ ] 뽑기 연출 시 skip 관련 https://redmine.takeone.co.kr/issues/14094
+- [스테이지맵](BTSW2-develop/2.System/4.%EC%86%8C%EC%9A%B0%EC%A3%BC%20-%20%ED%95%98%EB%8A%98/%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%A7%80%EB%A7%B5.md)
+	- [ ] 영상스테이지 타이틀 연출 추가 https://redmine.takeone.co.kr/issues/14750 🛫 2024-05-02 
+- [배치](BTSW2-develop/2.System/6.BTS%20LAND%20-%20%EC%A0%95%ED%9B%88/%EB%B0%B0%EC%B9%98.md)
+	- [ ] 아트에서 4 x 4 , 5 x 5  등 정사각형 건물만 가능하다고 하는데.... 체크필요.
+- [건물 건설](BTSW2-develop/2.System/6.BTS%20LAND%20-%20%EC%A0%95%ED%9B%88/%EA%B1%B4%EB%AC%BC%20%EA%B1%B4%EC%84%A4.md)
+	- [ ] 보관소내 생산품 정보 팝업 개선 https://redmine.takeone.co.kr/issues/14109  🛫 2024-04-22
+	- [ ] 기차/항공 남품시 부족 재료 구입 팝업 개선  https://redmine.takeone.co.kr/issues/14110 🛫 2024-04-22
+	- [ ] 창고 확장 및 영역 확장 관련 구조 개선 https://redmine.takeone.co.kr/issues/14188 🛫 2024-04-22
+	- [ ] 건설 페이지 세부 탭 개선 https://redmine.takeone.co.kr/issues/14228 🛫 2024-05-01 
+	- [ ] 아트에서 4 x 4 , 5 x 5  등 정사각형 건물만 가능하다고 하는데.... 체크필요.
+	- [ ] 
+- [친구](BTSW2-develop/2.System/8.%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EC%B9%9C%EA%B5%AC-%EC%97%85%EC%A0%81-%ED%80%98%EC%8A%A4%ED%8A%B8%20-%20%EA%B3%B5%ED%86%B5/%EC%B9%9C%EA%B5%AC.md)
+	- [ ] 친구시스템 친구 카운트 개선 https://redmine.takeone.co.kr/issues/14108
+	- [ ] 
+- [컬렉션](BTSW2-develop/2.System/9.%EC%BB%AC%EB%A0%89%EC%85%98-%EA%B3%B5%EC%A7%80-%EC%98%B5%EC%85%98-%EA%B0%80%EB%B0%A9%20-%20%EA%B3%B5%ED%86%B5/%EC%BB%AC%EB%A0%89%EC%85%98.md)
+	- [ ] 
+- [어나더스토리](BTSW2-develop/2.System/4.%EC%86%8C%EC%9A%B0%EC%A3%BC%20-%20%ED%95%98%EB%8A%98/%EC%96%B4%EB%82%98%EB%8D%94%EC%8A%A4%ED%86%A0%EB%A6%AC.md)
+	- [.] 어나더스토리 개발 https://redmine.takeone.co.kr/issues/14205 🛫 2024-04-22
+- [0.TaskTracking](BTSW2-develop/3.Task/3%EC%9B%944%EC%9B%94/0.TaskTracking.md)
+	- [ ] 기능 개발
+	- [ ] 서버연결
+	- [ ] 개선사항리스트 작업
+	- [ ] 2D - 영상 * UI 해상도 맞춰 fit 테스트
+	- [.] 진행중 🛫 2024-04-05
+	- [.] 진행중 🛫 2024-04-05
+	- [.] 진행중 🛫 2024-04-05
+- [3.폰트대응](BTSW2-develop/3.Task/3%EC%9B%944%EC%9B%94/3.%ED%8F%B0%ED%8A%B8%EB%8C%80%EC%9D%91.md)
+	- [ ] tmp -> legacy 텍스트로 변경 적용.
+- [7.API 정리](BTSW2-develop/3.Task/3%EC%9B%944%EC%9B%94/7.API%20%EC%A0%95%EB%A6%AC.md)
+	- [ ] 컨텐츠별 api 중 미사용 응답값 리스트업 
+	- [ ] 호출횟수 (서버체크?) 과도한 api 리스트업
+- [보고도모른척하기](BTSW2-develop/%EB%B3%B4%EA%B3%A0%EB%8F%84%EB%AA%A8%EB%A5%B8%EC%B2%99%ED%95%98%EA%B8%B0.md)
+	- [ ] 활용방안 생각하기
+	- [ ] 로그 스키마 체크
+	- [ ] 
+- [9.최적화](BTSW2-develop/3.Task/3%EC%9B%944%EC%9B%94/9.%EC%B5%9C%EC%A0%81%ED%99%94.md)
+	- [ ] 이미지 NPOT 체크
+	- [ ] 압축포맷 체크
+- [로딩](BTSW2-develop/2.System/16.%EB%A1%9C%EB%94%A9%20-%20%ED%95%98%EB%8A%98/%EB%A1%9C%EB%94%A9.md)
+	- [ ] 로딩화면 3종 제작 예정. 🛫 2024-04-19 
+- [주민](BTSW2-develop/2.System/6.BTS%20LAND%20-%20%EC%A0%95%ED%9B%88/%EC%A3%BC%EB%AF%BC.md)
+	- [ ] 주민 개발 UI  https://redmine.takeone.co.kr/issues/14719 🛫 2024-05-02
+	- [ ] 주민 개발 3D 캐릭터  https://redmine.takeone.co.kr/issues/14720  🛫 2024-05-02 
+	- [ ] 주민 연관 delivery, 친구 
+- [4월 마일스톤](BTSW2-develop/4.%EB%A7%A4%EB%8B%AC%EB%A7%A4%EB%8B%AC/4%EC%9B%94%20%EB%A7%88%EC%9D%BC%EC%8A%A4%ED%86%A4.md)
+	- [ ] aos 빌드 컨디션 체크
+	- [ ] ios 빌드 컨디션 체크
+- [출석부](BTSW2-develop/2.System/2.%EB%A1%9C%EB%B9%84-%EB%A9%A4%EB%B2%84%EB%A3%B8-HUD%20-%20%ED%95%98%EB%8A%98/%EC%B6%9C%EC%84%9D%EB%B6%80.md)
+	- [ ] 출석부 개선 https://redmine.takeone.co.kr/issues/14207 
+	    - [ ] 꼬마즈 제거
+		- [ ] 아이템 수령 타이밍 조절(꼬마즈 애니 종료후 -> 즉시)
+- [생산](BTSW2-develop/2.System/6.BTS%20LAND%20-%20%EC%A0%95%ED%9B%88/%EC%83%9D%EC%82%B0.md)
+	- [ ] 
+- [1.주민 시스템](BTSW2-develop/3.Task/5%EC%9B%94/1.%EC%A3%BC%EB%AF%BC%20%EC%8B%9C%EC%8A%A4%ED%85%9C.md)
+	- [ ] UI 작업 진행률
+- [출석](BTSW2-develop/2.System/22.%EC%B6%9C%EC%84%9D%20-%20%ED%95%98%EB%8A%98/%EC%B6%9C%EC%84%9D.md)
+	- [ ] 출석 보상 연출 체크
+- [로그](BTSW2-develop/2.System/21.%EB%A1%9C%EA%B7%B8/%EB%A1%9C%EA%B7%B8.md)
+	- [ ] 로그 추가/삭제 확인
+	- [ ] 로그 적용
+- [조각뽑기](BTSW2-develop/2.System/20.%EC%A1%B0%EA%B0%81%EB%BD%91%EA%B8%B0/%EC%A1%B0%EA%B0%81%EB%BD%91%EA%B8%B0.md)
+		- [ ] 
+- [6월 마일스톤](BTSW2-develop/4.%EB%A7%A4%EB%8B%AC%EB%A7%A4%EB%8B%AC/6%EC%9B%94%20%EB%A7%88%EC%9D%BC%EC%8A%A4%ED%86%A4.md)
+	- [ ] [[BTSW2-develop/2.System/21.로그/로그]]   
+	- [ ] 편집 [[편집]] 
+	- [ ] 필드 [[BTS LAND 필드]]
+	- [ ] 출석 기능 체크 [[출석]]
+- [7월 마일스톤](BTSW2-develop/4.%EB%A7%A4%EB%8B%AC%EB%A7%A4%EB%8B%AC/7%EC%9B%94%20%EB%A7%88%EC%9D%BC%EC%8A%A4%ED%86%A4.md)
+	- [ ] 서포트카드 현황 UI
+	- [ ] 서포트카드 순서
+	- [ ] 매직랩 lv 10 -> lv 20 
+	- [ ] [[BTSW2-develop/2.System/21.로그/로그]] 
+	- [ ] [[최적화]] checklist
+	- [ ] 8월로 할 예정
+- [레드닷](BTSW2-develop/3.Task/7%EC%9B%94/%EB%A0%88%EB%93%9C%EB%8B%B7.md)
+	- [ ] lobby에서 멤버룸버튼의 레드닷 여부 추가
+	- [ ] member.memberroom api 에서 멤버룸 내부의 레드닷 구조체 추가
+	- [ ] 일부 서버, 일부 클라 기반의 레드닷 구현
+	- [ ] lobbytop에서 소우주내의 모든 레드닷 정보 제거
+	- [ ] lobby에서 소우주 버튼의 레드닷 여부 추가
+	- [ ] #### mirror.chapters api 에서 소우주 내부의 레드닷 구조체 추가
+	- [ ] 일부 서버, 일부 클라 기반의 레드닷 구현
+- [튜토리얼 툴](BTSW2-develop/2.System/23.%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC%20-%20%EA%B5%90%EB%82%A8/%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC%20%ED%88%B4.md)
+	- [ ] 튜토리얼 툴 기능 작업
+	- [ ] 튜토리얼 서버연동
+	- [ ] 튜토리얼 단계별 적용
+	- [ ] 튜토리얼 
+- [튜토리얼 적용](BTSW2-develop/2.System/23.%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC%20-%20%EA%B5%90%EB%82%A8/%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC%20%EC%A0%81%EC%9A%A9.md)
+	- [ ] 튜토리얼 구간별 적용
+	    - [ ] 0챕터 튜토리얼 구간
+	        - [ ] 1.
+		- [ ] bts land 튜토리얼 구간
+		    - [ ] 1.
+		- [ ] 조건형 튜토리얼 구간
+		    - [ ] 1.
+- [2024-09-05](BTSW2-develop/5.%EB%A7%A4%EC%9D%BC%EB%A7%A4%EC%9D%BC/9%EC%9B%94/2024-09-05.md)
+	- [ ] BTS LAND 타이머 통합 수정개발 (https://redmine.takeone.co.kr/issues/16361)
+- [2024-09-09](BTSW2-develop/5.%EB%A7%A4%EC%9D%BC%EB%A7%A4%EC%9D%BC/9%EC%9B%94/2024-09-09.md)
+	- [ ] #M4 업데이트컨텐츠 리소스 브랜치 생성 📅 2024-09-09
+	- [ ] #M4 3D_ART 용 브랜치 생성 📅 2024-09-09 
+- [9월 첫째주](BTSW2-develop/999.Notes/9%EC%9B%94%20%EC%B2%AB%EC%A7%B8%EC%A3%BC.md)
+	- [ ] BTS LAND 타이머 통합 수정개발 (https://redmine.takeone.co.kr/issues/16361)
+	- [ ] 건설시 겹치는 부분 투명처
+	- [ ] 타일 그리기 로직 변경 /
+	- [ ] 프렌즈 인터렉션 연출
+	- [ ] 최적화
+	- [ ] 
+- [DailyNote Templete](BTSW2-develop/%ED%85%9C%ED%94%8C%EB%A6%BF/DailyNote%20Templete.md)
+	- [ ] TBU  
+	- [ ] TBU  
+	- [ ] 브랜치 동기화 🔁 every day when done ⏳ [[<% tp.date.now("YYYY-MM-DD", -1) %>]] 
+	    - [ ] update branch  🔁 every day when done ⏳ [[<% tp.date.now("YYYY-MM-DD", -1) %>]]
+		- [ ] resources branch  🔁 every day when done ⏳ [[<% tp.date.now("YYYY-MM-DD", -1) %>]]
+		- [ ] 3d art branch  🔁 every day when done ⏳ [[<% tp.date.now("YYYY-MM-DD", -1) %>]]
+- [2024-09-10](BTSW2-develop/999.Notes/2024-09-10.md)
+	- [ ] TBU  
+	- [ ] TBU  
+	- [ ] 브랜치 동기화 🔁 every day when done ⏳ [[<% tp.date.now("YYYY-MM-DD", -1) %>]] 
+	    - [ ] update branch  🔁 every day when done ⏳ [[<% tp.date.now("YYYY-MM-DD", -1) %>]]
+		- [ ] resources branch  🔁 every day when done ⏳ [[<% tp.date.now("YYYY-MM-DD", -1) %>]]
+		- [ ] 3d art branch  🔁 every day when done ⏳ [[<% tp.date.now("YYYY-MM-DD", -1) %>]]
