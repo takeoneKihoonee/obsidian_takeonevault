@@ -26,6 +26,6 @@
 > (happens after yesterday) AND (happens before in two weeks)
 > hide recurrence rule
 > hide due date
-> hide scheduled date
+> no scheduled date
 
 
