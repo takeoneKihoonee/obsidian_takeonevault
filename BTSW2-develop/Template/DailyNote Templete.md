@@ -41,6 +41,6 @@ dv.taskList(dv.pages('-"Template"').file.tasks.where(t => t.text.includes("#upda
 
 ### Tag #런칭  일감 검색
 ```dataviewjs 
-dv.taskList(dv.pages('#런칭').file.tasks.where(t => t.text.includes("#런칭"))) 
+dv.taskList(dv.pages('-"Templete"').file.tasks.where(t => t.text.includes("#런칭"))) 
 ```
 
