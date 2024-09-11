@@ -120,7 +120,7 @@
 - [2024-09-11](BTSW2-develop/999.Notes/2024/9%EC%9B%94/2024-09-11.md)
 	- [ ] TBU  
 	- [ ] TBU  
-	- [ ] 브랜치 동기화 🔁 every day when done ⏳ [[2024-09-11]] 
-	    - [ ] update branch  🔁 every day when done ⏳ [[2024-09-11]]
-		- [ ] resources branch  🔁 every day when done ⏳ [[2024-09-11]]
-		- [ ] 3d art branch  🔁 every day when done ⏳ [[2024-09-11]]
+	- [ ] #매일매일 브랜치 동기화 🔁 every day when done ⏳ [[2024-09-11]] 
+	    - [ ] #매일매일 update branch  🔁 every day when done ⏳ [[2024-09-11]]
+		- [ ] #매일매일 resources branch  🔁 every day when done ⏳ [[2024-09-11]]
+		- [ ] #매일매일 3d art branch  🔁 every day when done ⏳ [[2024-09-11]]
