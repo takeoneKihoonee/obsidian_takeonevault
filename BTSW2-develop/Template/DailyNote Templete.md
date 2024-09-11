@@ -33,3 +33,10 @@ dv.taskList(dv.pages('#M4').file.tasks.where(t => t.text.includes("M4")))
 ```
 
 
+### 완료된 항목중 Tag #update  일감 검색
+```dataviewjs 
+dv.taskList(dv.pages('#update').file.tasks.where(t => t.text.includes("#update"))) 
+```
+
+
+
