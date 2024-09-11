@@ -30,7 +30,7 @@ tags: #daily_note  #Notes #매일매일
 ### 완료된 항목중 Tag #M4  일감 검색
 
 ```dataviewjs 
-dv.taskList(dv.pages('#M4').where(t => !t.title.text.includes("Templete")).file.tasks.where(t => !t.complete)) 
+dv.taskList(dv.pages('#M4').where(t => !t.file.title.equals("Templete")).file.tasks.where(t => !t.complete)) 
 ```
 
 
