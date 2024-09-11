@@ -106,10 +106,10 @@
 - [DailyNote Templete](BTSW2-develop/Template/DailyNote%20Templete.md)
 	- [ ] TBU  
 	- [ ] TBU  
-	- [ ] 브랜치 동기화 🔁 every day when done ⏳ [[<% tp.date.now("YYYY-MM-DD") %>]] 
-	    - [ ] update branch  🔁 every day when done ⏳ [[<% tp.date.now("YYYY-MM-DD") %>]]
-		- [ ] resources branch  🔁 every day when done ⏳ [[<% tp.date.now("YYYY-MM-DD") %>]]
-		- [ ] 3d art branch  🔁 every day when done ⏳ [[<% tp.date.now("YYYY-MM-DD") %>]]
+	- [ ] #매일매일 브랜치 동기화 🔁 every day when done ⏳ [[<% tp.date.now("YYYY-MM-DD") %>]] 
+	    - [ ] #매일매일 update branch  🔁 every day when done ⏳ [[<% tp.date.now("YYYY-MM-DD") %>]]
+		- [ ] #매일매일 resources branch  🔁 every day when done ⏳ [[<% tp.date.now("YYYY-MM-DD") %>]]
+		- [ ] #매일매일 3d art branch  🔁 every day when done ⏳ [[<% tp.date.now("YYYY-MM-DD") %>]]
 - [2024-09-10](BTSW2-develop/999.Notes/2024/9%EC%9B%94/2024-09-10.md)
 	- [ ] TBU  
 	- [ ] TBU  
