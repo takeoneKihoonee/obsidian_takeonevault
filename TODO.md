@@ -104,8 +104,6 @@
 	- [ ] 최적화
 	- [ ] 
 - [DailyNote Templete](BTSW2-develop/Template/DailyNote%20Templete.md)
-	- [ ] TBU  
-	- [ ] TBU  
 	- [ ] #매일매일 브랜치 동기화 🔁 every day when done ⏳ [[<% tp.date.now("YYYY-MM-DD") %>]] 
 	    - [ ] #매일매일 update branch  🔁 every day when done ⏳ [[<% tp.date.now("YYYY-MM-DD") %>]]
 		- [ ] #매일매일 resources branch  🔁 every day when done ⏳ [[<% tp.date.now("YYYY-MM-DD") %>]]
