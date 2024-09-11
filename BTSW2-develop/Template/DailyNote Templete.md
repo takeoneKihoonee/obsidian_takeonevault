@@ -35,7 +35,7 @@ dv.taskList(dv.pages('#M4 and !"Template"').file.tasks.where(t => t.text.include
 
 ### 완료된 항목중 Tag #update  일감 검색
 ```dataviewjs 
-dv.taskList(dv.pages('#매일매일 and !"Template"').file.tasks.where(t => t.completed)
+dv.taskList(dv.pages('#매일매일 and !"Template"').file.tasks.where(t => t.text.excludes("Dai")))
 ```
 
 
