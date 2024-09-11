@@ -27,11 +27,11 @@ tags: #daily_note  #Notes #매일매일
 
 
 # {{ Date }} 체크해야 할 일감
-### 완료된 항목중 Tag #M4  일감 검색
+### 미 완료된 항목중 Tag #M4  일감 검색
 ```dataviewjs 
-dv.taskList(dv.pages('#M4 and -"Template"').file.tasks.where(t => t.text.includes("M4"))) 
+dv.taskList(dv.pages('#M4 and -"Template"').file.tasks.where(t => t.text.includes("M4")).where(t => !t.completed) )
 ```
-
+-------------------
 
 ###  Tag #update  일감 검색
 ```dataviewjs 
