@@ -9,17 +9,13 @@ creation date: {{ Date }}:{{ Time }}
 
 tags: #daily_note  #Notes #매일매일
   
-# [[<% tp.date.now("YYYY-MM-DD") %>]] 
+# {{ Date }} 오늘의 일감
 - [ ] TBU  
 - [ ] TBU  
   
   
-<< yesterday | tomorrow >>
-
-
 ---  
 # 매일매일 
-
 - [ ] 브랜치 동기화 🔁 every day when done ⏳ [[<% tp.date.now("YYYY-MM-DD") %>]] 
 	- [ ] update branch  🔁 every day when done ⏳ [[<% tp.date.now("YYYY-MM-DD") %>]]
 	- [ ] resources branch  🔁 every day when done ⏳ [[<% tp.date.now("YYYY-MM-DD") %>]]
