@@ -41,6 +41,6 @@ dv.taskList(dv.pages('#매일매일 and !"Template"').file.tasks.where(t => t.te
 
 ### Tag #런칭  일감 검색
 ```dataviewjs 
-dv.taskList(dv.pages('#런칭').file.tasks.where(t => t.text.includes("#매일매일"))) 
+dv.taskList(dv.pages('#런칭').file.tasks.where(t => t.text.includes("#런칭"))) 
 ```
 

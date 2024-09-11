@@ -114,3 +114,4 @@
 	    - [ ] #매일매일 update branch  🔁 every day when done ⏳ [[2024-09-11]]
 		- [ ] #매일매일 resources branch  🔁 every day when done ⏳ [[2024-09-11]]
 		- [ ] #매일매일 3d art branch  🔁 every day when done ⏳ [[2024-09-11]]
+	- [ ] #런칭 로그 작업 
