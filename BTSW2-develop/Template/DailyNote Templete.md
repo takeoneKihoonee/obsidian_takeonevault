@@ -19,7 +19,7 @@ tags: #daily_note  #Notes #매일매일
 
 
 # 오늘 추가할 일감
-- [ ]  t{{date}} 
+- [ ]  today task {{date}} 
 
 
 
