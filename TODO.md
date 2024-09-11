@@ -109,7 +109,7 @@
 	    - [ ] #매일매일 update branch  🔁 every day when done ⏳ [[<% tp.date.now("YYYY-MM-DD") %>]]
 		- [ ] #매일매일 resources branch  🔁 every day when done ⏳ [[<% tp.date.now("YYYY-MM-DD") %>]]
 		- [ ] #매일매일 3d art branch  🔁 every day when done ⏳ [[<% tp.date.now("YYYY-MM-DD") %>]]
-	- [ ] #런칭 로그 작업 
+	- [ ] t{{date}} 
 - [2024.09.11](BTSW2-develop/999.Notes/2024.09.11.md)
 	- [ ] #매일매일 브랜치 동기화 🔁 every day when done ⏳ [[2024-09-11]] 
 	    - [ ] #매일매일 update branch  🔁 every day when done ⏳ [[2024-09-11]]

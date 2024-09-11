@@ -19,7 +19,7 @@ tags: #daily_note  #Notes #매일매일
 
 
 # 오늘 추가할 일감
-- [ ] #런칭 로그 작업 
+- [ ]  t{{date}} 
 
 
 
@@ -38,9 +38,10 @@ dv.taskList(dv.pages('#M4 and -"Template"').file.tasks.where(t => t.text.include
 dv.taskList(dv.pages('-"Template"').file.tasks.where(t => t.text.includes("#update")))
 ```
 
-
+-------------
 ### Tag #런칭  일감 검색
 ```dataviewjs 
 dv.taskList(dv.pages('-"Templete"').file.tasks.where(t => t.text.includes("#런칭"))) 
 ```
 
+--------------------------------
