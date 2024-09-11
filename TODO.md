@@ -96,6 +96,7 @@
 - [2024-09-09](BTSW2-develop/5.%EB%A7%A4%EC%9D%BC%EB%A7%A4%EC%9D%BC/9%EC%9B%94/2024-09-09.md)
 	- [ ] #M4 업데이트컨텐츠 리소스 브랜치 생성 📅 2024-09-09
 	- [ ] #M4 3D_ART 용 브랜치 생성 📅 2024-09-09 
+	- [ ] #update 3D_ART 용 브랜치 생성 📅 2024-09-09 
 - [9월 첫째주](BTSW2-develop/999.Notes/9%EC%9B%94%20%EC%B2%AB%EC%A7%B8%EC%A3%BC.md)
 	- [ ] BTS LAND 타이머 통합 수정개발 (https://redmine.takeone.co.kr/issues/16361)
 	- [ ] 건설시 겹치는 부분 투명처
