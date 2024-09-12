@@ -119,6 +119,7 @@
 	- [ ] #M4 [레드마인](https://redmine.takeone.co.kr/issues/15682) 트램, 비행선 배송 시 사운드 출력 🔺 ➕ 2024-09-12
 	- [ ] #M4 [레드마인](https://redmine.takeone.co.kr/issues/16399) 릴레이티켓 연출 관련 작업 🔺 ➕ 2024-09-12
 	- [ ] #M4 [레드마인](https://redmine.takeone.co.kr/issues/16299) 조건부 팝업 상점 개발 🔺 ➕ 2024-09-12
+	- [ ] #M4 [레드마인](https://redmine.takeone.co.kr/issues/16084) 뽑기에 마일리지 버튼 추가 🔺 ➕ 2024-09-12
 	- [ ] #M4 #update [레드마인1](https://redmine.takeone.co.kr/issues/16058) [레드마인2](https://redmine.takeone.co.kr/issues/16371) BTS랜드 카메라 개선 🔼 ➕ 2024-09-12
 	- [ ] #M4 #update [레드마인](https://redmine.takeone.co.kr/issues/15484) BTS LAND 편집 모드에서 건물 이동 터치 영역 개선 ➕ 2024-09-12
 	- [ ] #M4 #update [레드마인](https://redmine.takeone.co.kr/issues/15656) 패스 보상 획득 규칙 변경 ➕ 2024-09-12
@@ -128,5 +129,6 @@
 	- [ ] #M4 #update [레드마인](https://redmine.takeone.co.kr/issues/16370) 상점에서 구매완료와 COPPA 제한으로 사용하는 UI이미지 구분 ➕ 2024-09-12
 	- [ ] #M4 #update [레드마인](https://redmine.takeone.co.kr/issues/16360) 뮤직박스 연출 강화 ➕ 2024-09-12
 	- [ ] #M4 #update [레드마인](https://redmine.takeone.co.kr/issues/16207) 아이템 정보 창 개선 ➕ 2024-09-12
+	- [ ] #M4 #update [레드마인](https://redmine.takeone.co.kr/issues/16091) 멤버룸 이동 네비 개선 ➕ 2024-09-12
 - [이벤트 스테이지](BTSW2-develop/2.System/25.%EC%9D%B4%EB%B2%A4%ED%8A%B8%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%A7%80/%EC%9D%B4%EB%B2%A4%ED%8A%B8%20%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%A7%80.md)
 	- [ ] #update #update-1  개발기간 ➕ 2024-09-12 🛫 2024-10-01 📅 2024-11-08
