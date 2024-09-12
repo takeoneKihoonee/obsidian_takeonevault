@@ -151,3 +151,5 @@
 	- [ ] #M4 #update #맨티스dev [맨티스](https://mantis.takeone.co.kr/view.php?id=23413) BTS랜드 - 아포방포마켓 UI 상시출력 현상 ➕ 2024-09-12
 - [이벤트 스테이지](BTSW2-develop/2.System/25.%EC%9D%B4%EB%B2%A4%ED%8A%B8%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%A7%80/%EC%9D%B4%EB%B2%A4%ED%8A%B8%20%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%A7%80.md)
 	- [ ] #update #update-1  개발기간 ➕ 2024-09-12 🛫 2024-10-01 📅 2024-11-08
+- [2024.09.12](BTSW2-develop/999.Notes/2024.09.12.md)
+	- [ ] today task 2024.09.12 
