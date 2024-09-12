@@ -34,15 +34,10 @@
 - [9.최적화](BTSW2-develop/3.Task/3%EC%9B%944%EC%9B%94/9.%EC%B5%9C%EC%A0%81%ED%99%94.md)
 	- [ ] 이미지 NPOT 체크
 	- [ ] 압축포맷 체크
-- [로딩](BTSW2-develop/2.System/16.%EB%A1%9C%EB%94%A9%20-%20%ED%95%98%EB%8A%98/%EB%A1%9C%EB%94%A9.md)
-	- [ ] 로딩화면 3종 제작 예정. 🛫 2024-04-19 
 - [주민](BTSW2-develop/2.System/6.BTS%20LAND%20-%20%EC%A0%95%ED%9B%88/%EC%A3%BC%EB%AF%BC.md)
 	- [ ] 주민 개발 UI  https://redmine.takeone.co.kr/issues/14719 🛫 2024-05-02
 	- [ ] 주민 개발 3D 캐릭터  https://redmine.takeone.co.kr/issues/14720  🛫 2024-05-02 
 	- [ ] 주민 연관 delivery, 친구 
-- [4월 마일스톤](BTSW2-develop/4.%EB%A7%A4%EB%8B%AC%EB%A7%A4%EB%8B%AC/4%EC%9B%94%20%EB%A7%88%EC%9D%BC%EC%8A%A4%ED%86%A4.md)
-	- [ ] aos 빌드 컨디션 체크
-	- [ ] ios 빌드 컨디션 체크
 - [출석부](BTSW2-develop/2.System/2.%EB%A1%9C%EB%B9%84-%EB%A9%A4%EB%B2%84%EB%A3%B8-HUD%20-%20%ED%95%98%EB%8A%98/%EC%B6%9C%EC%84%9D%EB%B6%80.md)
 	- [ ] 출석부 개선 https://redmine.takeone.co.kr/issues/14207 
 	    - [ ] 꼬마즈 제거
@@ -58,12 +53,12 @@
 	- [ ] 로그 적용
 - [조각뽑기](BTSW2-develop/2.System/20.%EC%A1%B0%EA%B0%81%EB%BD%91%EA%B8%B0/%EC%A1%B0%EA%B0%81%EB%BD%91%EA%B8%B0.md)
 		- [ ] 
-- [6월 마일스톤](BTSW2-develop/4.%EB%A7%A4%EB%8B%AC%EB%A7%A4%EB%8B%AC/6%EC%9B%94%20%EB%A7%88%EC%9D%BC%EC%8A%A4%ED%86%A4.md)
+- [6월 마일스톤](BTSW2-develop/4.%EB%A7%88%EC%9D%BC%EC%8A%A4%ED%86%A4/6%EC%9B%94%20%EB%A7%88%EC%9D%BC%EC%8A%A4%ED%86%A4.md)
 	- [ ] [[BTSW2-develop/2.System/21.로그/로그]]   
 	- [ ] 편집 [[편집]] 
 	- [ ] 필드 [[BTS LAND 필드]]
 	- [ ] 출석 기능 체크 [[출석]]
-- [7월 마일스톤](BTSW2-develop/4.%EB%A7%A4%EB%8B%AC%EB%A7%A4%EB%8B%AC/7%EC%9B%94%20%EB%A7%88%EC%9D%BC%EC%8A%A4%ED%86%A4.md)
+- [7월 마일스톤](BTSW2-develop/4.%EB%A7%88%EC%9D%BC%EC%8A%A4%ED%86%A4/7%EC%9B%94%20%EB%A7%88%EC%9D%BC%EC%8A%A4%ED%86%A4.md)
 	- [ ] 서포트카드 현황 UI
 	- [ ] 서포트카드 순서
 	- [ ] 매직랩 lv 10 -> lv 20 
