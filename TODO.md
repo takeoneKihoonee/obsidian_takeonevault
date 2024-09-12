@@ -125,5 +125,6 @@
 	- [ ] #M4 #update [레드마인](https://redmine.takeone.co.kr/issues/16078) 퍼즐 연출 및 블록 가시성 개선 ➕ 2024-09-12
 	- [ ] #M4 #update [레드마인](https://redmine.takeone.co.kr/issues/16400) 친구 시스템 - N마크, !마크 출력 순위 변경 ➕ 2024-09-12
 	- [ ] #M4 #update [레드마인](https://redmine.takeone.co.kr/issues/16370) 상점에서 구매완료와 COPPA 제한으로 사용하는 UI이미지 구분 ➕ 2024-09-12
+	- [ ] #M4 #update [레드마인](https://redmine.takeone.co.kr/issues/16360) 뮤직박스 연출 강화 ➕ 2024-09-12
 - [이벤트 스테이지](BTSW2-develop/2.System/25.%EC%9D%B4%EB%B2%A4%ED%8A%B8%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%A7%80/%EC%9D%B4%EB%B2%A4%ED%8A%B8%20%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%A7%80.md)
 	- [ ] #update #update-1  개발기간 ➕ 2024-09-12 🛫 2024-10-01 📅 2024-11-08
