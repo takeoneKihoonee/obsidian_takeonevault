@@ -46,8 +46,6 @@
 	- [ ] 
 - [1.주민 시스템](BTSW2-develop/3.Task/5%EC%9B%94/1.%EC%A3%BC%EB%AF%BC%20%EC%8B%9C%EC%8A%A4%ED%85%9C.md)
 	- [ ] UI 작업 진행률
-- [출석](BTSW2-develop/2.System/22.%EC%B6%9C%EC%84%9D%20-%20%ED%95%98%EB%8A%98/%EC%B6%9C%EC%84%9D.md)
-	- [ ] 출석 보상 연출 체크
 - [로그](BTSW2-develop/2.System/21.%EB%A1%9C%EA%B7%B8/%EB%A1%9C%EA%B7%B8.md)
 	- [ ] 로그 추가/삭제 확인
 	- [ ] 로그 적용
