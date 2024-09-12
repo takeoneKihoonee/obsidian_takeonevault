@@ -138,6 +138,7 @@
 	- [ ] #M4 #맨티스dev [맨티스](https://mantis.takeone.co.kr/view.php?id=23807) 본보야지 - 카드 획득 연출 타이틀 수정 🔺 ➕ 2024-09-12
 	- [ ] #M4 #맨티스dev [맨티스](https://mantis.takeone.co.kr/view.php?id=23810) 본보야지 - 카드 중복 획득 시 연출 수정 🔺 ➕ 2024-09-12
 	- [ ] #M4 #맨티스dev [맨티스](https://mantis.takeone.co.kr/view.php?id=23748) 트램 - 배송도와준 친구의 프로필 프레임이 미노출되는 현상 🔺 ➕ 2024-09-12
+	- [ ] #M4 #맨티스dev [맨티스](https://mantis.takeone.co.kr/view.php?id=23754) 퀘스트 - 뽑기 페이지에서 퀘스트 버튼이 노출되는 이슈 🔺 ➕ 2024-09-12
 	- [ ] #M4 #맨티스dev [맨티스](https://mantis.takeone.co.kr/view.php?id=23910) 멤버룸 - 전체 친밀도 10레벨 게이지 영역 이슈 ➕ 2024-09-12
 	- [ ] #M4 #맨티스dev [맨티스](https://mantis.takeone.co.kr/view.php?id=23871) 릴레이티켓 - 오픈되지 않은 상품 구매 시도 시, 예외 처리 메시지 출력되지 않는 이슈 ➕ 2024-09-12
 	- [ ] 
