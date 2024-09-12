@@ -118,7 +118,7 @@
 	- [ ] #M4 [레드마인](https://redmine.takeone.co.kr/issues/15866) 상점 스토리패키지 시안교체중 수정이슈 🔺 ➕ 2024-09-12
 	- [ ] #M4 [레드마인](https://redmine.takeone.co.kr/issues/15682) 트램, 비행선 배송 시 사운드 출력 🔺 ➕ 2024-09-12
 	- [ ] #M4 [레드마인](https://redmine.takeone.co.kr/issues/16399) 릴레이티켓 연출 관련 작업 🔺 ➕ 2024-09-12
-	- [ ] #M4 #update [레드마인](https://redmine.takeone.co.kr/issues/16058) BTS랜드 카메라 개선 🔼 ➕ 2024-09-12
+	- [ ] #M4 #update [레드마인1](https://redmine.takeone.co.kr/issues/16058) [레드마인2](https://redmine.takeone.co.kr/issues/16371) BTS랜드 카메라 개선 🔼 ➕ 2024-09-12
 	- [ ] #M4 #update [레드마인](https://redmine.takeone.co.kr/issues/15484) BTS LAND 편집 모드에서 건물 이동 터치 영역 개선 ➕ 2024-09-12
 	- [ ] #M4 #update [레드마인](https://redmine.takeone.co.kr/issues/15656) 패스 보상 획득 규칙 변경 ➕ 2024-09-12
 	- [ ] #M4 #update [레드마인](https://redmine.takeone.co.kr/issues/16092)가방/창고/우편함 으로 아이템을 획득하는 연출 제거 ➕ 2024-09-12
