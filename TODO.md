@@ -137,7 +137,7 @@
 	- [ ] #M4 #맨티스dev [맨티스](https://mantis.takeone.co.kr/view.php?id=23868) 뽑기 - 스텝업 생일 뽑기 페이지 이동시 본보야지 버튼 노출됨 🔺 ➕ 2024-09-12
 	- [ ] #M4 #맨티스dev [맨티스](https://mantis.takeone.co.kr/view.php?id=23807) 본보야지 - 카드 획득 연출 타이틀 수정 🔺 ➕ 2024-09-12
 	- [ ] #M4 #맨티스dev [맨티스](https://mantis.takeone.co.kr/view.php?id=23910) 멤버룸 - 전체 친밀도 10레벨 게이지 영역 이슈 ➕ 2024-09-12
-	- [ ] #M4 #맨티스dev [맨티스](https://mantis.takeone.co.kr/view.php?id=23871) 릴레이 티켓 오픈되지 않은 상품 구매 시도 시, 예외 처리 메시지 출력되지 않는 이슈 ➕ 2024-09-12
+	- [ ] #M4 #맨티스dev [맨티스](https://mantis.takeone.co.kr/view.php?id=23871) 릴레이티켓 - 오픈되지 않은 상품 구매 시도 시, 예외 처리 메시지 출력되지 않는 이슈 ➕ 2024-09-12
 	- [ ] 
 - [이벤트 스테이지](BTSW2-develop/2.System/25.%EC%9D%B4%EB%B2%A4%ED%8A%B8%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%A7%80/%EC%9D%B4%EB%B2%A4%ED%8A%B8%20%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%A7%80.md)
 	- [ ] #update #update-1  개발기간 ➕ 2024-09-12 🛫 2024-10-01 📅 2024-11-08
