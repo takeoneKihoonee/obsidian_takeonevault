@@ -90,3 +90,5 @@
 	- [ ] today task {{date}} 
 - [2024.09.11](BTSW2-develop/999.Notes/2024.09.11.md)
 	- [ ] today task 2024.09.11 
+- [9월 마일스톤](BTSW2-develop/4.%EB%A7%88%EC%9D%BC%EC%8A%A4%ED%86%A4/9%EC%9B%94%20%EB%A7%88%EC%9D%BC%EC%8A%A4%ED%86%A4.md)
+	- [ ] #M4 M2개선 일감 [레드마인](https://redmine.takeone.co.kr/projects/btsw2/issues?c%5B%5D=tracker&c%5B%5D=fixed_version&c%5B%5D=priority&c%5B%5D=status&c%5B%5D=subject&c%5B%5D=assigned_to&c%5B%5D=start_date&c%5B%5D=due_date&f%5B%5D=status_id&f%5B%5D=subject&f%5B%5D=&group_by=&op%5Bstatus_id%5D=%2A&op%5Bsubject%5D=~&per_page=50&set_filter=1&sort=priority%3Adesc%2Cid%3Adesc&t%5B%5D=&utf8=%E2%9C%93&v%5Bsubject%5D%5B%5D=M2%EA%B0%9C%EC%84%A0) ➕ 2024-09-12
