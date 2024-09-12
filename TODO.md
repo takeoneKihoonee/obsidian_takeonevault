@@ -46,9 +46,6 @@
 	- [ ] 
 - [1.주민 시스템](BTSW2-develop/3.Task/5%EC%9B%94/1.%EC%A3%BC%EB%AF%BC%20%EC%8B%9C%EC%8A%A4%ED%85%9C.md)
 	- [ ] UI 작업 진행률
-- [로그](BTSW2-develop/2.System/21.%EB%A1%9C%EA%B7%B8/%EB%A1%9C%EA%B7%B8.md)
-	- [ ] 로그 추가/삭제 확인
-	- [ ] 로그 적용
 - [조각뽑기](BTSW2-develop/2.System/20.%EC%A1%B0%EA%B0%81%EB%BD%91%EA%B8%B0/%EC%A1%B0%EA%B0%81%EB%BD%91%EA%B8%B0.md)
 		- [ ] 
 - [6월 마일스톤](BTSW2-develop/4.%EB%A7%88%EC%9D%BC%EC%8A%A4%ED%86%A4/6%EC%9B%94%20%EB%A7%88%EC%9D%BC%EC%8A%A4%ED%86%A4.md)
