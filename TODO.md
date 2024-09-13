@@ -83,3 +83,9 @@
 	- [ ] 
 - [2024.09.12](BTSW2-develop/999.Notes/2024.09.12.md)
 	- [ ] today task 2024.09.12 
+- [2024.09.13](BTSW2-develop/999.Notes/2024.09.13.md)
+	- [ ] #매일매일 브랜치 동기화 🔁 every day when done ⏳ [[2024-09-13]] 
+	    - [ ] #매일매일 update branch  🔁 every day when done ⏳ [[2024-09-13]]
+		- [ ] #매일매일 resources branch  🔁 every day when done ⏳ [[2024-09-13]]
+		- [ ] #매일매일 3d art branch  🔁 every day when done ⏳ [[2024-09-13]]
+	- [ ] today task 2024-09-13 
