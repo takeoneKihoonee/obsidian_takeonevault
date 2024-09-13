@@ -52,11 +52,11 @@
 	- [ ] #M4 [레드마인](https://redmine.takeone.co.kr/issues/16399) #추하늘 릴레이티켓 연출 관련 작업 🔺 ➕ 2024-09-12
 	- [ ] #M4 [레드마인](https://redmine.takeone.co.kr/issues/16299) #추하늘 조건부 팝업 상점 개발 🔺 ➕ 2024-09-12
 	- [ ] #M4 [레드마인](https://redmine.takeone.co.kr/issues/16084) #추하늘 뽑기에 마일리지 버튼 추가 🔺 ➕ 2024-09-12
-	- [ ] #M4 #update [레드마인1](https://redmine.takeone.co.kr/issues/16058) [레드마인2](https://redmine.takeone.co.kr/issues/16371) BTS랜드 카메라 개선 🔼 ➕ 2024-09-12
-	- [ ] #M4 #update [레드마인](https://redmine.takeone.co.kr/issues/15484) BTS LAND 편집 모드에서 건물 이동 터치 영역 개선 ➕ 2024-09-12
+	- [ ] #M4 #update #박홍성 [레드마인1](https://redmine.takeone.co.kr/issues/16058) [레드마인2](https://redmine.takeone.co.kr/issues/16371) BTS랜드 카메라 개선 🔼 ➕ 2024-09-12
+	- [ ] #M4 #update #김정훈 [레드마인](https://redmine.takeone.co.kr/issues/15484) BTS LAND 편집 모드에서 건물 이동 터치 영역 개선 ➕ 2024-09-12
 	- [ ] #M4 #update #추하늘 [레드마인](https://redmine.takeone.co.kr/issues/15656) 패스 보상 획득 규칙 변경 ➕ 2024-09-12
 	- [ ] #M4 #update #추하늘 [레드마인](https://redmine.takeone.co.kr/issues/16092)가방/창고/우편함 으로 아이템을 획득하는 연출 제거 ➕ 2024-09-12
-	- [ ] #M4 #update [레드마인](https://redmine.takeone.co.kr/issues/16078) 퍼즐 연출 및 블록 가시성 개선 ➕ 2024-09-12
+	- [ ] #M4 #update #김교남 [레드마인](https://redmine.takeone.co.kr/issues/16078) 퍼즐 연출 및 블록 가시성 개선 ➕ 2024-09-12
 	- [ ] #M4 #update #추하늘 [레드마인](https://redmine.takeone.co.kr/issues/16400) 친구 시스템 - N마크, !마크 출력 순위 변경 ➕ 2024-09-12
 	- [ ] #M4 #update #김교남 [레드마인](https://redmine.takeone.co.kr/issues/16370) 상점에서 구매완료와 COPPA 제한으로 사용하는 UI이미지 구분 ➕ 2024-09-12
 	- [ ] #M4 #update #추하늘 [레드마인](https://redmine.takeone.co.kr/issues/16360) 뮤직박스 연출 강화 ➕ 2024-09-12
