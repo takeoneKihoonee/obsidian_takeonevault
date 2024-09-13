@@ -12,7 +12,6 @@
 	    - [ ] #매일매일 update branch  🔁 every day when done ⏳ [[<% tp.date.now("YYYY-MM-DD") %>]]
 		- [ ] #매일매일 resources branch  🔁 every day when done ⏳ [[<% tp.date.now("YYYY-MM-DD") %>]]
 		- [ ] #매일매일 3d art branch  🔁 every day when done ⏳ [[<% tp.date.now("YYYY-MM-DD") %>]]
-	- [ ] today task {{date}} 
 - [이벤트 스테이지](BTSW2-develop/2.System/25.%EC%9D%B4%EB%B2%A4%ED%8A%B8%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%A7%80/%EC%9D%B4%EB%B2%A4%ED%8A%B8%20%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%A7%80.md)
 	- [ ] #update #update-1  개발기간 ➕ 2024-09-12 🛫 2024-10-01 📅 2024-11-08
 - [7월 마일스톤](BTSW2-develop/4.%EB%A7%88%EC%9D%BC%EC%8A%A4%ED%86%A4/7%EC%9B%94%20%EB%A7%88%EC%9D%BC%EC%8A%A4%ED%86%A4.md)
@@ -89,5 +88,5 @@
 	    - [ ] #매일매일 update branch  🔁 every day when done ⏳ [[2024-09-13]]
 		- [ ] #매일매일 resources branch  🔁 every day when done ⏳ [[2024-09-13]]
 		- [ ] #매일매일 3d art branch  🔁 every day when done ⏳ [[2024-09-13]]
-	- [ ] #M4 #런칭 리전 구분 작업.
-	- [ ] #update 이벤트스테이지 더미UI  9월 23일
+	- [ ] #M4 #런칭 리전 구분 작업. ⏳ 2024-09-13 
+	- [ ] #M4 #update 이벤트스테이지 더미UI  9월 23일 ➕ 2024-09-13
