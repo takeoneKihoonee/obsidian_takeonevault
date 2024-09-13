@@ -22,7 +22,7 @@
 > path does not include TODO
 > ```
 
-> [!tip]- #김교남 
+> [!todo]- #김교남 
 > ```tasks
 > not done
 > tags includes #김교남    
@@ -31,7 +31,7 @@
 > path does not include TODO
 > ```
 
-> [!tip]- #추하늘  
+> [!todo]- #추하늘  
 > ```tasks
 > not done
 > tags includes #추하늘     
@@ -40,7 +40,7 @@
 > path does not include TODO
 > ```
 
-> [!tip]- #김정훈 
+> [!todo]- #김정훈 
 > ```tasks
 > not done
 > tags includes #김정훈    
@@ -49,7 +49,7 @@
 > path does not include TODO
 > ```
 
-> [!tip]- #박홍성 
+> [!todo]- #박홍성 
 > ```tasks
 > not done
 > tags includes #박홍성    
