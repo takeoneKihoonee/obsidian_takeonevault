@@ -24,15 +24,15 @@
 - [2024.09.12](BTSW2-develop/999.Notes/2024.09.12.md)
 	- [ ] today task 2024.09.12 
 - [9월 마일스톤](BTSW2-develop/4.%EB%A7%88%EC%9D%BC%EC%8A%A4%ED%86%A4/9%EC%9B%94%20%EB%A7%88%EC%9D%BC%EC%8A%A4%ED%86%A4.md)
-	- [ ] #M4 M2개선 일감 [레드마인](https://redmine.takeone.co.kr/projects/btsw2/issues?c%5B%5D=tracker&c%5B%5D=fixed_version&c%5B%5D=priority&c%5B%5D=status&c%5B%5D=subject&c%5B%5D=assigned_to&c%5B%5D=start_date&c%5B%5D=due_date&f%5B%5D=status_id&f%5B%5D=subject&f%5B%5D=&group_by=&op%5Bstatus_id%5D=%2A&op%5Bsubject%5D=~&per_page=50&set_filter=1&sort=priority%3Adesc%2Cid%3Adesc&t%5B%5D=&utf8=%E2%9C%93&v%5Bsubject%5D%5B%5D=M2%EA%B0%9C%EC%84%A0) ➕ 2024-09-12 
-	- [ ] #M4 기획팀 개선 사항 리스트 [구글시트](https://docs.google.com/presentation/d/1zmUhiF3QRo8G3pxWcnS5xGh1LMlc6waw/edit#slide=id.p1) ➕ 2024-09-12
-	- [ ] #M4 BGM / SE 적용 🔺 ➕ 2024-09-12
-	- [ ] #M4 로그 적용 작업 🔺 ➕ 2024-09-12
-	- [ ] #M4 점검프로세스 사전점검 🔺 ➕ 2024-09-12
-	- [ ] #M4 사전예약 다운로드 팝업체크 🔺 ➕ 2024-09-12
-	- [ ] #M4 금칙어 체크 🔺 ➕ 2024-09-12
-	- [ ] #M4 리전 구분 작업 config 추가. (bptg 동일한방식으로 하기로) 🔺 ➕ 2024-09-13
-	- [ ] #M4 사업부 상품 추가 작업 🔺 ➕ 2024-09-12
+	- [ ] #M4 M2개선 일감 [레드마인](https://redmine.takeone.co.kr/projects/btsw2/issues?c%5B%5D=tracker&c%5B%5D=fixed_version&c%5B%5D=priority&c%5B%5D=status&c%5B%5D=subject&c%5B%5D=assigned_to&c%5B%5D=start_date&c%5B%5D=due_date&f%5B%5D=status_id&f%5B%5D=subject&f%5B%5D=&group_by=&op%5Bstatus_id%5D=%2A&op%5Bsubject%5D=~&per_page=50&set_filter=1&sort=priority%3Adesc%2Cid%3Adesc&t%5B%5D=&utf8=%E2%9C%93&v%5Bsubject%5D%5B%5D=M2%EA%B0%9C%EC%84%A0) ➕ 2024-09-12  📅 2024-09-30
+	- [ ] #M4 기획팀 개선 사항 리스트 [구글시트](https://docs.google.com/presentation/d/1zmUhiF3QRo8G3pxWcnS5xGh1LMlc6waw/edit#slide=id.p1) ➕ 2024-09-12  📅 2024-09-30
+	- [ ] #M4 BGM / SE 적용 🔺 ➕ 2024-09-12  📅 2024-09-30
+	- [ ] #M4 로그 적용 작업 🔺 ➕ 2024-09-12  📅 2024-09-30  
+	- [ ] #M4 점검프로세스 사전점검 🔺 ➕ 2024-09-12  📅 2024-09-30
+	- [ ] #M4 사전예약 다운로드 팝업체크 🔺 ➕ 2024-09-12  📅 2024-09-30
+	- [ ] #M4 금칙어 체크 🔺 ➕ 2024-09-12  📅 2024-09-30
+	- [ ] #M4 리전 구분 작업 config 추가. (bptg 동일한방식으로 하기로) 🔺 ➕ 2024-09-13  📅 2024-09-30
+	- [ ] #M4 사업부 상품 추가 작업 🔺 ➕ 2024-09-12  📅 2024-09-30
 	    - [ ] #M4 릴레이 패키지 ➕ 2024-09-12
 		- [ ] #M4 스토리 패키지 ➕ 2024-09-12
 		- [ ] #M4 뽑기 ( 셀렉션, 통상, 골드 ) ➕ 2024-09-12
