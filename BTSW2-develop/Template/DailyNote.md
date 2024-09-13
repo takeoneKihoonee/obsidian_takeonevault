@@ -10,6 +10,7 @@
 > hide due date
 > hide scheduled date
 > sort by priority
+> path does not include TODO
 > ```
 
 > [!danger]+ M4 Remain Task
@@ -18,6 +19,7 @@
 > due on or after 2024-09-30
 > priority is above high
 > sort by due date
+> path does not include TODO
 > ```
 
 > [!tip]- #김교남 
@@ -26,6 +28,7 @@
 > tags includes #김교남    
 > hide recurrence rule
 > hide due date
+> path does not include TODO
 > ```
 
 > [!tip]- #추하늘  
@@ -34,6 +37,7 @@
 > tags includes #추하늘     
 > hide recurrence rule
 > hide due date
+> path does not include TODO
 > ```
 
 > [!tip]- #김정훈 
@@ -42,6 +46,7 @@
 > tags includes #김정훈    
 > hide recurrence rule
 > hide due date
+> path does not include TODO
 > ```
 
 > [!tip]- #박홍성 
@@ -50,5 +55,6 @@
 > tags includes #박홍성    
 > hide recurrence rule
 > hide due date
+> path does not include TODO
 > ```
 
