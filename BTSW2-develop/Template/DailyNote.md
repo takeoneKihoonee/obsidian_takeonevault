@@ -15,8 +15,8 @@
 > [!danger]+ Overdue 
 > ```tasks
 > not done
-> (happens after yesterday) AND (priority is above none)
-> (tags include #M4) OR (tags include #런칭 )
+> due on or after 2024-09-30
+> priority is above high
 > sort by due date
 > ```
 

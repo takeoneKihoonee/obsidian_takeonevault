@@ -69,12 +69,12 @@
 	- [ ] #M4 #update #추하늘  [레드마인](https://redmine.takeone.co.kr/issues/16067) 카드미션에 레드닷 미출력 현상 ➕ 2024-09-12
 	- [ ] #M4 #update #추하늘  [레드마인](https://redmine.takeone.co.kr/issues/16062) 프로필 해금 가능한 이미지/테두리 정렬 방식 개선 ➕ 2024-09-12
 	- [ ] #M4 #update #김정훈  [레드마인](https://redmine.takeone.co.kr/issues/16060) 프렌즈 이동 선택 시 상호작용 가능한 오브젝트에 별도의 이펙트 추가 개선 ➕ 2024-09-12
-	- [ ] #M4 #맨티스dev #추하늘  [맨티스](https://mantis.takeone.co.kr/view.php?id=23869) 뽑기 - 마일리지 버튼 미노출 문제 [레드마인](https://redmine.takeone.co.kr/issues/16084)  🔺 ➕ 2024-09-12
-	- [ ] #M4 #맨티스dev #추하늘  [맨티스](https://mantis.takeone.co.kr/view.php?id=23868) 뽑기 - 스텝업 생일 뽑기 페이지 이동시 본보야지 버튼 노출됨 🔺 ➕ 2024-09-12
-	- [ ] #M4 #맨티스dev #추하늘  [맨티스](https://mantis.takeone.co.kr/view.php?id=23807) 본보야지 - 카드 획득 연출 타이틀 수정 🔺 ➕ 2024-09-12
-	- [ ] #M4 #맨티스dev #추하늘  [맨티스](https://mantis.takeone.co.kr/view.php?id=23810) 본보야지 - 카드 중복 획득 시 연출 수정 🔺 ➕ 2024-09-12
-	- [ ] #M4 #맨티스dev #추하늘  [맨티스](https://mantis.takeone.co.kr/view.php?id=23748) 트램 - 배송도와준 친구의 프로필 프레임이 미노출되는 현상 🔺 ➕ 2024-09-12
-	- [ ] #M4 #맨티스dev #추하늘  [맨티스](https://mantis.takeone.co.kr/view.php?id=23754) 퀘스트 - 뽑기 페이지에서 퀘스트 버튼이 노출되는 이슈 🔺 ➕ 2024-09-12
+	- [ ] #M4 #M4-2 #맨티스dev #추하늘  [맨티스](https://mantis.takeone.co.kr/view.php?id=23869) 뽑기 - 마일리지 버튼 미노출 문제 [레드마인](https://redmine.takeone.co.kr/issues/16084)  🔺 ➕ 2024-09-12  📅 2024-10-08
+	- [ ] #M4 #M4-2 #맨티스dev #추하늘  [맨티스](https://mantis.takeone.co.kr/view.php?id=23868) 뽑기 - 스텝업 생일 뽑기 페이지 이동시 본보야지 버튼 노출됨 🔺 ➕ 2024-09-12  📅 2024-10-08
+	- [ ] #M4 #M4-2 #맨티스dev #추하늘  [맨티스](https://mantis.takeone.co.kr/view.php?id=23807) 본보야지 - 카드 획득 연출 타이틀 수정 🔺 ➕ 2024-09-12  📅 2024-10-08
+	- [ ] #M4 #M4-2 #맨티스dev #추하늘  [맨티스](https://mantis.takeone.co.kr/view.php?id=23810) 본보야지 - 카드 중복 획득 시 연출 수정 🔺 ➕ 2024-09-12  📅 2024-10-08
+	- [ ] #M4 #M4-2 #맨티스dev #추하늘  [맨티스](https://mantis.takeone.co.kr/view.php?id=23748) 트램 - 배송도와준 친구의 프로필 프레임이 미노출되는 현상 🔺 ➕ 2024-09-12  📅 2024-10-08
+	- [ ] #M4 #M4-2 #맨티스dev #추하늘  [맨티스](https://mantis.takeone.co.kr/view.php?id=23754) 퀘스트 - 뽑기 페이지에서 퀘스트 버튼이 노출되는 이슈 🔺 ➕ 2024-09-12  📅 2024-10-08
 	- [ ] 
 	- [ ] #M4 #update #맨티스dev #추하늘  [맨티스](https://mantis.takeone.co.kr/view.php?id=23910) 멤버룸 - 전체 친밀도 10레벨 게이지 영역 이슈 ➕ 2024-09-12
 	- [ ] #M4 #update #맨티스dev #추하늘  [맨티스](https://mantis.takeone.co.kr/view.php?id=23871) 릴레이티켓 - 오픈되지 않은 상품 구매 시도 시, 예외 처리 메시지 출력되지 않는 이슈 ➕ 2024-09-12
