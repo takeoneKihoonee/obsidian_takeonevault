@@ -10,22 +10,51 @@
 > hide due date
 > hide scheduled date
 > sort by priority
+> path does not include TODO
 > ```
 
-> [!danger]+ Overdue 
+> [!danger]+ M4 Remain Task
 > ```tasks
 > not done
-> happens after yesterday) AND (priority is above none)
-> (tags include #M4) OR (tags include #M5)
+> due on or after 2024-09-30
+> priority is above high
 > sort by due date
+> path does not include TODO
 > ```
 
-> [!tip]- Next two weeks
+> [!todo]- #김교남 
 > ```tasks
 > not done
-> (happens after yesterday) AND (happens before in two weeks)
+> tags includes #김교남    
 > hide recurrence rule
 > hide due date
-> no scheduled date
+> path does not include TODO
+> ```
 
+> [!todo]- #추하늘  
+> ```tasks
+> not done
+> tags includes #추하늘     
+> hide recurrence rule
+> hide due date
+> path does not include TODO
+> ```
+
+> [!todo]- #김정훈 
+> ```tasks
+> not done
+> tags includes #김정훈    
+> hide recurrence rule
+> hide due date
+> path does not include TODO
+> ```
+
+> [!todo]- #박홍성 
+> ```tasks
+> not done
+> tags includes #박홍성    
+> hide recurrence rule
+> hide due date
+> path does not include TODO
+> ```
 
