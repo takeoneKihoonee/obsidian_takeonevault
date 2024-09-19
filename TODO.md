@@ -95,4 +95,4 @@
 	    - [ ] #매일매일 update branch  🔁 every day when done ⏳ [[2024-09-19]]
 		- [ ] #매일매일 resources branch  🔁 every day when done ⏳ [[2024-09-19]]
 		- [ ] #매일매일 3d art branch  🔁 every day when done ⏳ [[2024-09-19]]
-	- [ ] Check Today Task
+	- [ ] 사전예약 다운로드 팝업
