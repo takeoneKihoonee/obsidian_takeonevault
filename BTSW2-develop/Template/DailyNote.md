@@ -2,7 +2,7 @@
 
 ## [[<% tp.date.now("YYYY.MM.DD") %>]] 오늘의 일감
 
-> [!todo]+ Today
+> [!todo]+ Today happens
 > ```tasks
 > not done
 > happens today
