@@ -90,3 +90,9 @@
 		- [ ] #매일매일 3d art branch  🔁 every day when done ⏳ [[2024-09-13]]
 	- [ ] #M4 #런칭 리전 구분 작업. ⏳ 2024-09-13 
 	- [ ] #M4 #update 이벤트스테이지 더미UI 9월 23일 ⏳ 2024-09-13 
+- [2024.09.19](BTSW2-develop/999.Notes/2024.09.19.md)
+	- [ ] #매일매일 브랜치 동기화 🔁 every day when done ⏳ [[2024-09-19]] 
+	    - [ ] #매일매일 update branch  🔁 every day when done ⏳ [[2024-09-19]]
+		- [ ] #매일매일 resources branch  🔁 every day when done ⏳ [[2024-09-19]]
+		- [ ] #매일매일 3d art branch  🔁 every day when done ⏳ [[2024-09-19]]
+	- [ ] Check Today Task
