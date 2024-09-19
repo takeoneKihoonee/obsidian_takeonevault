@@ -17,6 +17,7 @@
 	    - [ ] #매일매일 update branch  🔁 every day when done ⏳ [[<% tp.date.now("YYYY-MM-DD") %>]]
 		- [ ] #매일매일 resources branch  🔁 every day when done ⏳ [[<% tp.date.now("YYYY-MM-DD") %>]]
 		- [ ] #매일매일 3d art branch  🔁 every day when done ⏳ [[<% tp.date.now("YYYY-MM-DD") %>]]
+	- [ ] Check Today Task
 - [2024.09.11](BTSW2-develop/999.Notes/2024.09.11.md)
 	- [ ] today task 2024.09.11 
 - [9월 마일스톤](BTSW2-develop/4.%EB%A7%88%EC%9D%BC%EC%8A%A4%ED%86%A4/9%EC%9B%94%20%EB%A7%88%EC%9D%BC%EC%8A%A4%ED%86%A4.md)
@@ -94,3 +95,4 @@
 	    - [ ] #매일매일 update branch  🔁 every day when done ⏳ [[2024-09-19]]
 		- [ ] #매일매일 resources branch  🔁 every day when done ⏳ [[2024-09-19]]
 		- [ ] #매일매일 3d art branch  🔁 every day when done ⏳ [[2024-09-19]]
+	- [ ] Check Today Task
