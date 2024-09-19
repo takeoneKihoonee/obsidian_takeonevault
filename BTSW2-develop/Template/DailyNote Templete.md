@@ -16,13 +16,13 @@ tags: #daily_note  #Notes #매일매일
 
 --------
 
-
+### 9월 마일스톤 보기
+ 9월 마일스톤 [[9월 마일스톤||열기]]
 
 
 
 # [[<% tp.date.now("YYYY.MM.DD") %>]]  체크해야 할 일감
 
- 
 - [ ] Check Today Task
 
 
