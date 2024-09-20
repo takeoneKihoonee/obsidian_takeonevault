@@ -100,4 +100,5 @@
 	    - [ ] #매일매일 update branch  🔁 every day when done ⏳ [[2024-09-20]]
 		- [ ] #매일매일 resources branch  🔁 every day when done ⏳ [[2024-09-20]]
 		- [ ] #매일매일 3d art branch  🔁 every day when done ⏳ [[2024-09-20]]
-	- [ ] Check Today Task
+	- [ ] 월요일 빌드에서 BTS Land 카메라 영역체크 확인해보기
+	- [ ] 월요일 빌드에서 BTS Land 카메라 영역체크 확인해보기
