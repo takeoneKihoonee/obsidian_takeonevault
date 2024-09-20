@@ -90,14 +90,14 @@
 	- [ ] #M4 #update #맨티스dev #김정훈  [맨티스](https://mantis.takeone.co.kr/view.php?id=23057) BTS 랜드 - 간혹 배치한 프렌즈가 미개척지로 빠져나가는 현상 ➕ 2024-09-12
 	- [ ] #M4 #update #맨티스dev #김정훈  [맨티스](https://mantis.takeone.co.kr/view.php?id=23443) BTS 랜드 - 데코를 설치하여 환경 점수가 증가되는 말풍선이 출력된 이후 프렌즈 하우스 상단에 UI가 잠시 표기되는 현상 ➕ 2024-09-12
 	- [ ] #M4 #update #맨티스dev #김정훈   [맨티스](https://mantis.takeone.co.kr/view.php?id=23413) BTS랜드 - 아포방포마켓 UI 상시출력 현상 ➕ 2024-09-12
-- [2024.09.19](BTSW2-develop/999.Notes/2024.09.19.md)
-	- [ ] #매일매일 브랜치 동기화 🔁 every day when done ⏳ [[2024-09-19]] 
-	    - [ ] #매일매일 update branch  🔁 every day when done ⏳ [[2024-09-19]]
-		- [ ] #매일매일 resources branch  🔁 every day when done ⏳ [[2024-09-19]]
-		- [ ] #매일매일 3d art branch  🔁 every day when done ⏳ [[2024-09-19]]
 - [2024.09.20](BTSW2-develop/999.Notes/2024.09.20.md)
 	- [ ] #매일매일 브랜치 동기화 🔁 every day when done ⏳ [[2024-09-20]] 
 	    - [ ] #매일매일 update branch  🔁 every day when done ⏳ [[2024-09-20]]
 		- [ ] #매일매일 resources branch  🔁 every day when done ⏳ [[2024-09-20]]
 		- [ ] #매일매일 3d art branch  🔁 every day when done ⏳ [[2024-09-20]]
 	- [ ] Check Today Task
+- [2024.09.19](BTSW2-develop/999.Notes/2024.09.19.md)
+	- [ ] #매일매일 브랜치 동기화 🔁 every day when done ⏳ [[2024-09-19]] 
+	    - [ ] #매일매일 update branch  🔁 every day when done ⏳ [[2024-09-19]]
+		- [ ] #매일매일 resources branch  🔁 every day when done ⏳ [[2024-09-19]]
+		- [ ] #매일매일 3d art branch  🔁 every day when done ⏳ [[2024-09-19]]
