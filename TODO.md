@@ -34,12 +34,9 @@
 - [9월 마일스톤](BTSW2-develop/4.%EB%A7%88%EC%9D%BC%EC%8A%A4%ED%86%A4/9%EC%9B%94%20%EB%A7%88%EC%9D%BC%EC%8A%A4%ED%86%A4.md)
 	- [ ] #M4 M2개선 일감 [레드마인](https://redmine.takeone.co.kr/projects/btsw2/issues?c%5B%5D=tracker&c%5B%5D=fixed_version&c%5B%5D=priority&c%5B%5D=status&c%5B%5D=subject&c%5B%5D=assigned_to&c%5B%5D=start_date&c%5B%5D=due_date&f%5B%5D=status_id&f%5B%5D=subject&f%5B%5D=&group_by=&op%5Bstatus_id%5D=%2A&op%5Bsubject%5D=~&per_page=50&set_filter=1&sort=priority%3Adesc%2Cid%3Adesc&t%5B%5D=&utf8=%E2%9C%93&v%5Bsubject%5D%5B%5D=M2%EA%B0%9C%EC%84%A0) ➕ 2024-09-12  📅 2024-09-30
 	- [ ] #M4 기획팀 개선 사항 리스트 [구글시트](https://docs.google.com/presentation/d/1zmUhiF3QRo8G3pxWcnS5xGh1LMlc6waw/edit#slide=id.p1) ➕ 2024-09-12  📅 2024-09-30
-	- [ ] #M4 BGM / SE 적용 🔺 ➕ 2024-09-12  📅 2024-09-30
-	- [ ] #M4 #M4-2 로그 적용 작업  [[BTSW2-develop/2.System/21.로그/로그||로그]]  🔺 ➕ 2024-09-12  📅 2024-10-08 
-	- [ ] #M4 점검프로세스 사전점검 🔺 ➕ 2024-09-12  📅 2024-09-30
-	- [ ] #M4 사전예약 다운로드 팝업체크 🔺 ➕ 2024-09-12  📅 2024-09-30
 	- [ ] #M4 금칙어 체크 🔺 ➕ 2024-09-12  📅 2024-09-30
 	- [ ] #M4 리전 구분 작업 config 추가. (bptg 동일한방식으로 하기로) 🔺 ➕ 2024-09-13  📅 2024-09-30
+	- [ ] #M4 #M4-2 BGM / SE 적용 🔺 ➕ 2024-09-12  📅 2024-10-08
 	- [ ] #M4 #M4-2 사업부 상품 추가 작업 🔺 ➕ 2024-09-12  📅 2024-10-08
 	    - [ ] #M4 #M4-2 릴레이 패키지 ➕ 2024-09-12  📅 2024-10-08
 		- [ ] #M4 #M4-2 스토리 패키지 ➕ 2024-09-12  📅 2024-10-08
@@ -59,12 +56,16 @@
 	- [ ] #M4 #M4-2 BTS Land 편의성 개선 ➕ 2024-09-12  📅 2024-10-08
 	- [ ] #M4 #M4-2 퍼즐폴리싱 ( 연출 타이밍 ) ➕ 2024-09-12  📅 2024-10-08
 	- [ ] #M4 #M4-2 튜토리얼 폴리싱 ➕ 2024-09-12  📅 2024-10-08
+	- [ ] #M4 #M4-2 ios AVPro video 앱 백그라운드 -> 포그라운드 비디오 중지 ➕ 2024-09-12  📅 2024-10-08
+	- [ ] #M4 #M4-2 권장업데이트 팝업에서 스토어 링크가 nctz 인것 수정 ➕ 2024-09-12  📅 2024-10-08
+	- [ ] #M4 #M4-2 프로젝트에서 NCT 스트링 제거 ➕ 2024-09-12  📅 2024-10-08
 	- [ ] #M4 [레드마인](https://redmine.takeone.co.kr/issues/15866) #추하늘 상점 스토리패키지 시안교체중 수정이슈 🔺 ➕ 2024-09-12  📅 2024-09-30
-	- [ ] #M4 #M4-2  [레드마인](https://redmine.takeone.co.kr/issues/15682) #김정훈 트램, 비행선 배송 시 사운드 출력 🔺 ➕ 2024-09-12  📅 2024-10-08
 	- [ ] #M4 [레드마인](https://redmine.takeone.co.kr/issues/16399) #추하늘 릴레이티켓 연출 관련 작업 🔺 ➕ 2024-09-12  📅 2024-09-30
 	- [ ] #M4 [레드마인](https://redmine.takeone.co.kr/issues/16299) #추하늘 조건부 팝업 상점 개발 🔺 ➕ 2024-09-12  📅 2024-09-30
 	- [ ] #M4 [레드마인](https://redmine.takeone.co.kr/issues/16084) #추하늘 뽑기에 마일리지 버튼 추가 🔺 ➕ 2024-09-12  📅 2024-09-30
-	- [ ] #M4 #update #박홍성  [레드마인1](https://redmine.takeone.co.kr/issues/16058) [레드마인2](https://redmine.takeone.co.kr/issues/16371) BTS랜드 카메라 개선 🔼 ➕ 2024-09-12
+	- [ ] #M4 #M4-2  [레드마인](https://redmine.takeone.co.kr/issues/15682) #김정훈 트램, 비행선 배송 시 사운드 출력 🔺 ➕ 2024-09-12  📅 2024-10-08
+	- [ ] #M4 #M4-2  [레드마인](https://redmine.takeone.co.kr/issues/16444) #김정훈 BTS Land 타일 그리기 개선 🔺 ➕ 2024-09-24 📅 2024-10-08
+	- [ ] #M4 #M4-2  [레드마인](https://redmine.takeone.co.kr/issues/16472) #김정훈 BTS LAND 프렌즈 하우스에 프렌즈 해금 가능 알림 추가 🔺 ➕ 2024-09-24 📅 2024-10-08
 	- [ ] #M4 #update #김정훈  [레드마인](https://redmine.takeone.co.kr/issues/15484) BTS LAND 편집 모드에서 건물 이동 터치 영역 개선 ➕ 2024-09-12
 	- [ ] #M4 #update #추하늘  [레드마인](https://redmine.takeone.co.kr/issues/15656) 패스 보상 획득 규칙 변경 ➕ 2024-09-12
 	- [ ] #M4 #update #추하늘  [레드마인](https://redmine.takeone.co.kr/issues/16092)가방/창고/우편함 으로 아이템을 획득하는 연출 제거 ➕ 2024-09-12
@@ -106,3 +107,31 @@
 		- [ ] #매일매일 resources branch  🔁 every day when done ⏳ [[2024-09-23]]
 		- [ ] #매일매일 3d art branch  🔁 every day when done ⏳ [[2024-09-23]]
 	- [ ] Check Today Task
+- [2024.09.24](BTSW2-develop/999.Notes/2024.09.24.md)
+	- [ ] #매일매일 브랜치 동기화 🔁 every day when done ⏳ [[2024-09-24]] 
+	    - [ ] #매일매일 update branch  🔁 every day when done ⏳ [[2024-09-24]]
+		- [ ] #매일매일 resources branch  🔁 every day when done ⏳ [[2024-09-24]]
+		- [ ] #매일매일 3d art branch  🔁 every day when done ⏳ [[2024-09-24]]
+	- [ ] Check Today Task
+- [2024.09.26](BTSW2-develop/999.Notes/2024.09.26.md)
+	- [ ] #매일매일 브랜치 동기화 🔁 every day when done ⏳ [[2024-09-26]] 
+	    - [ ] #매일매일 update branch  🔁 every day when done ⏳ [[2024-09-26]]
+		- [ ] #매일매일 resources branch  🔁 every day when done ⏳ [[2024-09-26]]
+		- [ ] #매일매일 3d art branch  🔁 every day when done ⏳ [[2024-09-26]]
+	- [ ] ios AVPro video 앱 백그라운드 -> 포그라운드 비디오 중지 ➕ 2024-09-12  📅 2024-10-08
+	- [ ] 권장업데이트 팝업에서 스토어 링크가 nctz 인것 수정 ➕ 2024-09-12  📅 2024-10-08
+	- [ ] 친구마을 최초입장시 프로필이미지 안나옴
+	- [ ] 친구마을 일손돕기할때 프로필테두리 안나옴
+	- [ ] 생산시간 체크 로직 게속 점검
+	- [ ] 우편함에서 광고제거 상품 구매후 우편함 팝업이 두개 노출됨.
+- [2024.09.27](BTSW2-develop/999.Notes/2024.09.27.md)
+	- [ ] #매일매일 브랜치 동기화 🔁 every day when done ⏳ [[2024-09-27]] 
+	    - [ ] #매일매일 update branch  🔁 every day when done ⏳ [[2024-09-27]]
+		- [ ] #매일매일 resources branch  🔁 every day when done ⏳ [[2024-09-27]]
+		- [ ] #매일매일 3d art branch  🔁 every day when done ⏳ [[2024-09-27]]
+	- [ ] ios AVPro video 앱 백그라운드 -> 포그라운드 비디오 중지 ➕ 2024-09-12  📅 2024-10-08
+	- [ ] 권장업데이트 팝업에서 스토어 링크가 nctz 인것 수정 ➕ 2024-09-12  📅 2024-10-08
+	- [ ] 친구마을 최초입장시 프로필이미지 안나옴
+	- [ ] 친구마을 일손돕기할때 프로필테두리 안나옴
+	- [ ] 생산시간 체크 로직 게속 점검
+	- [ ] 우편함에서 광고제거 상품 구매후 우편함 팝업이 두개 노출됨.

@@ -26,6 +26,7 @@
 > ```tasks
 > not done
 > tags includes #김교남    
+> tags does not include #update
 > hide recurrence rule
 > hide due date
 > path does not include TODO
@@ -35,6 +36,7 @@
 > ```tasks
 > not done
 > tags includes #추하늘     
+> tags does not include #update
 > hide recurrence rule
 > hide due date
 > path does not include TODO
@@ -53,6 +55,7 @@
 > ```tasks
 > not done
 > tags includes #박홍성    
+> tags does not include #update
 > hide recurrence rule
 > hide due date
 > path does not include TODO
