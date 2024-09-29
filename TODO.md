@@ -31,6 +31,16 @@
 		- [ ] #매일매일 resources branch  🔁 every day when done ⏳ [[<% tp.date.now("YYYY-MM-DD") %>]]
 		- [ ] #매일매일 3d art branch  🔁 every day when done ⏳ [[<% tp.date.now("YYYY-MM-DD") %>]]
 	- [ ] Check Today Task
+- [2024.09.19](BTSW2-develop/999.Notes/2024.09.19.md)
+	- [ ] #매일매일 브랜치 동기화 🔁 every day when done ⏳ [[2024-09-19]] 
+	    - [ ] #매일매일 update branch  🔁 every day when done ⏳ [[2024-09-19]]
+		- [ ] #매일매일 resources branch  🔁 every day when done ⏳ [[2024-09-19]]
+		- [ ] #매일매일 3d art branch  🔁 every day when done ⏳ [[2024-09-19]]
+- [2024.09.20](BTSW2-develop/999.Notes/2024.09.20.md)
+	- [ ] #매일매일 브랜치 동기화 🔁 every day when done ⏳ [[2024-09-20]] 
+	    - [ ] #매일매일 update branch  🔁 every day when done ⏳ [[2024-09-20]]
+		- [ ] #매일매일 resources branch  🔁 every day when done ⏳ [[2024-09-20]]
+		- [ ] #매일매일 3d art branch  🔁 every day when done ⏳ [[2024-09-20]]
 - [9월 마일스톤](BTSW2-develop/4.%EB%A7%88%EC%9D%BC%EC%8A%A4%ED%86%A4/9%EC%9B%94%20%EB%A7%88%EC%9D%BC%EC%8A%A4%ED%86%A4.md)
 	- [ ] #M4 M2개선 일감 [레드마인](https://redmine.takeone.co.kr/projects/btsw2/issues?c%5B%5D=tracker&c%5B%5D=fixed_version&c%5B%5D=priority&c%5B%5D=status&c%5B%5D=subject&c%5B%5D=assigned_to&c%5B%5D=start_date&c%5B%5D=due_date&f%5B%5D=status_id&f%5B%5D=subject&f%5B%5D=&group_by=&op%5Bstatus_id%5D=%2A&op%5Bsubject%5D=~&per_page=50&set_filter=1&sort=priority%3Adesc%2Cid%3Adesc&t%5B%5D=&utf8=%E2%9C%93&v%5Bsubject%5D%5B%5D=M2%EA%B0%9C%EC%84%A0) ➕ 2024-09-12  📅 2024-09-30
 	- [ ] #M4 기획팀 개선 사항 리스트 [구글시트](https://docs.google.com/presentation/d/1zmUhiF3QRo8G3pxWcnS5xGh1LMlc6waw/edit#slide=id.p1) ➕ 2024-09-12  📅 2024-09-30
@@ -91,39 +101,6 @@
 	- [ ] #M4 #update #맨티스dev #김정훈  [맨티스](https://mantis.takeone.co.kr/view.php?id=23057) BTS 랜드 - 간혹 배치한 프렌즈가 미개척지로 빠져나가는 현상 ➕ 2024-09-12
 	- [ ] #M4 #update #맨티스dev #김정훈  [맨티스](https://mantis.takeone.co.kr/view.php?id=23443) BTS 랜드 - 데코를 설치하여 환경 점수가 증가되는 말풍선이 출력된 이후 프렌즈 하우스 상단에 UI가 잠시 표기되는 현상 ➕ 2024-09-12
 	- [ ] #M4 #update #맨티스dev #김정훈   [맨티스](https://mantis.takeone.co.kr/view.php?id=23413) BTS랜드 - 아포방포마켓 UI 상시출력 현상 ➕ 2024-09-12
-- [2024.09.19](BTSW2-develop/999.Notes/2024.09.19.md)
-	- [ ] #매일매일 브랜치 동기화 🔁 every day when done ⏳ [[2024-09-19]] 
-	    - [ ] #매일매일 update branch  🔁 every day when done ⏳ [[2024-09-19]]
-		- [ ] #매일매일 resources branch  🔁 every day when done ⏳ [[2024-09-19]]
-		- [ ] #매일매일 3d art branch  🔁 every day when done ⏳ [[2024-09-19]]
-- [2024.09.20](BTSW2-develop/999.Notes/2024.09.20.md)
-	- [ ] #매일매일 브랜치 동기화 🔁 every day when done ⏳ [[2024-09-20]] 
-	    - [ ] #매일매일 update branch  🔁 every day when done ⏳ [[2024-09-20]]
-		- [ ] #매일매일 resources branch  🔁 every day when done ⏳ [[2024-09-20]]
-		- [ ] #매일매일 3d art branch  🔁 every day when done ⏳ [[2024-09-20]]
-- [2024.09.23](BTSW2-develop/999.Notes/2024.09.23.md)
-	- [ ] #매일매일 브랜치 동기화 🔁 every day when done ⏳ [[2024-09-23]] 
-	    - [ ] #매일매일 update branch  🔁 every day when done ⏳ [[2024-09-23]]
-		- [ ] #매일매일 resources branch  🔁 every day when done ⏳ [[2024-09-23]]
-		- [ ] #매일매일 3d art branch  🔁 every day when done ⏳ [[2024-09-23]]
-	- [ ] Check Today Task
-- [2024.09.24](BTSW2-develop/999.Notes/2024.09.24.md)
-	- [ ] #매일매일 브랜치 동기화 🔁 every day when done ⏳ [[2024-09-24]] 
-	    - [ ] #매일매일 update branch  🔁 every day when done ⏳ [[2024-09-24]]
-		- [ ] #매일매일 resources branch  🔁 every day when done ⏳ [[2024-09-24]]
-		- [ ] #매일매일 3d art branch  🔁 every day when done ⏳ [[2024-09-24]]
-	- [ ] Check Today Task
-- [2024.09.26](BTSW2-develop/999.Notes/2024.09.26.md)
-	- [ ] #매일매일 브랜치 동기화 🔁 every day when done ⏳ [[2024-09-26]] 
-	    - [ ] #매일매일 update branch  🔁 every day when done ⏳ [[2024-09-26]]
-		- [ ] #매일매일 resources branch  🔁 every day when done ⏳ [[2024-09-26]]
-		- [ ] #매일매일 3d art branch  🔁 every day when done ⏳ [[2024-09-26]]
-	- [ ] ios AVPro video 앱 백그라운드 -> 포그라운드 비디오 중지 ➕ 2024-09-12  📅 2024-10-08
-	- [ ] 권장업데이트 팝업에서 스토어 링크가 nctz 인것 수정 ➕ 2024-09-12  📅 2024-10-08
-	- [ ] 친구마을 최초입장시 프로필이미지 안나옴
-	- [ ] 친구마을 일손돕기할때 프로필테두리 안나옴
-	- [ ] 생산시간 체크 로직 게속 점검
-	- [ ] 우편함에서 광고제거 상품 구매후 우편함 팝업이 두개 노출됨.
 - [2024.09.27](BTSW2-develop/999.Notes/2024.09.27.md)
 	- [ ] #매일매일 브랜치 동기화 🔁 every day when done ⏳ [[2024-09-27]] 
 	    - [ ] #매일매일 update branch  🔁 every day when done ⏳ [[2024-09-27]]
@@ -135,3 +112,26 @@
 	- [ ] 친구마을 일손돕기할때 프로필테두리 안나옴
 	- [ ] 생산시간 체크 로직 게속 점검
 	- [ ] 우편함에서 광고제거 상품 구매후 우편함 팝업이 두개 노출됨.
+- [2024.09.26](BTSW2-develop/999.Notes/2024.09.26.md)
+	- [ ] #매일매일 브랜치 동기화 🔁 every day when done ⏳ [[2024-09-26]] 
+	    - [ ] #매일매일 update branch  🔁 every day when done ⏳ [[2024-09-26]]
+		- [ ] #매일매일 resources branch  🔁 every day when done ⏳ [[2024-09-26]]
+		- [ ] #매일매일 3d art branch  🔁 every day when done ⏳ [[2024-09-26]]
+	- [ ] ios AVPro video 앱 백그라운드 -> 포그라운드 비디오 중지 ➕ 2024-09-12  📅 2024-10-08
+	- [ ] 권장업데이트 팝업에서 스토어 링크가 nctz 인것 수정 ➕ 2024-09-12  📅 2024-10-08
+	- [ ] 친구마을 최초입장시 프로필이미지 안나옴
+	- [ ] 친구마을 일손돕기할때 프로필테두리 안나옴
+	- [ ] 생산시간 체크 로직 게속 점검
+	- [ ] 우편함에서 광고제거 상품 구매후 우편함 팝업이 두개 노출됨.
+- [2024.09.24](BTSW2-develop/999.Notes/2024.09.24.md)
+	- [ ] #매일매일 브랜치 동기화 🔁 every day when done ⏳ [[2024-09-24]] 
+	    - [ ] #매일매일 update branch  🔁 every day when done ⏳ [[2024-09-24]]
+		- [ ] #매일매일 resources branch  🔁 every day when done ⏳ [[2024-09-24]]
+		- [ ] #매일매일 3d art branch  🔁 every day when done ⏳ [[2024-09-24]]
+	- [ ] Check Today Task
+- [2024.09.23](BTSW2-develop/999.Notes/2024.09.23.md)
+	- [ ] #매일매일 브랜치 동기화 🔁 every day when done ⏳ [[2024-09-23]] 
+	    - [ ] #매일매일 update branch  🔁 every day when done ⏳ [[2024-09-23]]
+		- [ ] #매일매일 resources branch  🔁 every day when done ⏳ [[2024-09-23]]
+		- [ ] #매일매일 3d art branch  🔁 every day when done ⏳ [[2024-09-23]]
+	- [ ] Check Today Task
