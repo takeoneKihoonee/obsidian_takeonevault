@@ -23,7 +23,7 @@
 - [9월 마일스톤](BTSW2-develop/4.%EB%A7%88%EC%9D%BC%EC%8A%A4%ED%86%A4/9%EC%9B%94%20%EB%A7%88%EC%9D%BC%EC%8A%A4%ED%86%A4.md)
 	- [ ] #M4 M2개선 일감 [레드마인](https://redmine.takeone.co.kr/projects/btsw2/issues?c%5B%5D=tracker&c%5B%5D=fixed_version&c%5B%5D=priority&c%5B%5D=status&c%5B%5D=subject&c%5B%5D=assigned_to&c%5B%5D=start_date&c%5B%5D=due_date&f%5B%5D=status_id&f%5B%5D=subject&f%5B%5D=&group_by=&op%5Bstatus_id%5D=%2A&op%5Bsubject%5D=~&per_page=50&set_filter=1&sort=priority%3Adesc%2Cid%3Adesc&t%5B%5D=&utf8=%E2%9C%93&v%5Bsubject%5D%5B%5D=M2%EA%B0%9C%EC%84%A0) ➕ 2024-09-12  📅 2024-09-30
 	- [ ] #M4 기획팀 개선 사항 리스트 [구글시트](https://docs.google.com/presentation/d/1zmUhiF3QRo8G3pxWcnS5xGh1LMlc6waw/edit#slide=id.p1) ➕ 2024-09-12  📅 2024-09-30
-	- [ ] #M4 금칙어 체크 🔺 ➕ 2024-09-12  📅 2024-09-30
+	- [ ] #M4 금칙어 체크 🔺 ➕ 2024-09-12 📅 2024-10-01
 	- [ ] #M4 리전 구분 작업 config 추가. (bptg 동일한방식으로 하기로) 🔺 ➕ 2024-09-13  📅 2024-09-30
 	- [ ] #M4 #M4-2 BGM / SE 적용 🔺 ➕ 2024-09-12  📅 2024-10-08
 	- [ ] #M4 #M4-2 사업부 상품 추가 작업 🔺 ➕ 2024-09-12  📅 2024-10-08
@@ -47,7 +47,7 @@
 	- [ ] #M4 #M4-2 튜토리얼 폴리싱 ➕ 2024-09-12  📅 2024-10-08
 	- [ ] #M4 #M4-2 ios AVPro video 앱 백그라운드 -> 포그라운드 비디오 중지 ➕ 2024-09-12  📅 2024-10-08
 	- [ ] #M4 #M4-2 권장업데이트 팝업에서 스토어 링크가 nctz 인것 수정 ➕ 2024-09-12  📅 2024-10-08
-	- [ ] #M4 #M4-2 프로젝트에서 NCT 스트링 제거 ➕ 2024-09-12  📅 2024-10-08
+	- [ ] #M4 #M4-2 프로젝트에서 NCT 스트링 제외 ➕ 2024-09-12  📅 2024-10-08
 	- [ ] #M4 [레드마인](https://redmine.takeone.co.kr/issues/15866) #추하늘 상점 스토리패키지 시안교체중 수정이슈 🔺 ➕ 2024-09-12  📅 2024-09-30
 	- [ ] #M4 [레드마인](https://redmine.takeone.co.kr/issues/16399) #추하늘 릴레이티켓 연출 관련 작업 🔺 ➕ 2024-09-12  📅 2024-09-30
 	- [ ] #M4 [레드마인](https://redmine.takeone.co.kr/issues/16299) #추하늘 조건부 팝업 상점 개발 🔺 ➕ 2024-09-12  📅 2024-09-30
