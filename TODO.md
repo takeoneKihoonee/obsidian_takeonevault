@@ -52,7 +52,9 @@
 	- [ ] #M4 #update #김정훈  [레드마인](https://redmine.takeone.co.kr/issues/16060) 프렌즈 이동 선택 시 상호작용 가능한 오브젝트에 별도의 이펙트 추가 개선 ➕ 2024-09-12
 	- [ ] #M4 #M4-2 #맨티스dev #추하늘  [맨티스](https://mantis.takeone.co.kr/view.php?id=23748) 트램 - 배송도와준 친구의 프로필 프레임이 미노출되는 현상 🔺 ➕ 2024-09-12  📅 2024-10-08
 	- [ ] #M4 #M4-2 #맨티스dev #추하늘  [맨티스](https://mantis.takeone.co.kr/view.php?id=23683) 계정 연동 유도 팝업이 출력되지 않음 🔺 ➕ 2024-09-12  📅 2024-10-08
-	- [ ] #M4 #M4-2 #맨티스dev #추하늘  [맨티스](https://mantis.takeone.co.kr/view.php?id=23684) 계정 연동 유도 팝업이 출력되지 않음 🔺 ➕ 2024-09-12  📅 2024-10-08
+	- [ ] #M4 #M4-2 #맨티스dev #추하늘  [맨티스](https://mantis.takeone.co.kr/view.php?id=23684) 인앱 리뷰 팝업이 출력되지 않음 🔺 ➕ 2024-09-12  📅 2024-10-08
+	- [ ] #M4 #M4-2 #맨티스dev #추하늘  [맨티스](https://mantis.takeone.co.kr/view.php?id=23969) 친밀도 보상을 역순으로 수령할 경우 일부 미수령 보상을 받을 수 없음 🔺 ➕ 2024-09-12  📅 2024-10-08
+	- [ ] #M4 #M4-2 #맨티스dev #추하늘  [맨티스](https://mantis.takeone.co.kr/view.php?id=23969) 친밀도 보상을 역순으로 수령할 경우 일부 미수령 보상을 받을 수 없음 🔺 ➕ 2024-09-12  📅 2024-10-08
 	- [ ] #M4 #update #맨티스dev #김정훈  [맨티스](https://mantis.takeone.co.kr/view.php?id=23350) 생산품 판매 - BTS랜드 판매 팝업 내 수량 표시 이슈 ➕ 2024-09-12
 	- [ ] #M4 #update #맨티스dev #김정훈  [맨티스](https://mantis.takeone.co.kr/view.php?id=23057) BTS 랜드 - 간혹 배치한 프렌즈가 미개척지로 빠져나가는 현상 ➕ 2024-09-12
 	- [ ] #M4 #update #맨티스dev #김정훈  [맨티스](https://mantis.takeone.co.kr/view.php?id=23443) BTS 랜드 - 데코를 설치하여 환경 점수가 증가되는 말풍선이 출력된 이후 프렌즈 하우스 상단에 UI가 잠시 표기되는 현상 ➕ 2024-09-12
