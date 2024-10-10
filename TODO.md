@@ -142,3 +142,9 @@
 		- [ ] #매일매일 resources branch  🔁 every day when done ⏳ [[2024-10-07]]
 		- [ ] #매일매일 3d art branch  🔁 every day when done ⏳ [[2024-10-07]]
 	- [ ] Check Today Task
+- [2024.10.10](BTSW2-develop/999.Notes/2024.10.10.md)
+	- [ ] #매일매일 브랜치 동기화 🔁 every day when done ⏳ [[2024-10-10]] 
+	    - [ ] #매일매일 update branch  🔁 every day when done ⏳ [[2024-10-10]]
+		- [ ] #매일매일 resources branch  🔁 every day when done ⏳ [[2024-10-10]]
+		- [ ] #매일매일 3d art branch  🔁 every day when done ⏳ [[2024-10-10]]
+	- [ ] Check Today Task
