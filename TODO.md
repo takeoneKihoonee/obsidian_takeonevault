@@ -21,11 +21,6 @@
 - [2024.09.11](BTSW2-develop/999.Notes/2024.09.11.md)
 	- [ ] today task 2024.09.11 
 - [9월 마일스톤](BTSW2-develop/4.%EB%A7%88%EC%9D%BC%EC%8A%A4%ED%86%A4/9%EC%9B%94%20%EB%A7%88%EC%9D%BC%EC%8A%A4%ED%86%A4.md)
-	- [ ] #M4 #M4-2 챕터 오픈정보, BTS Land 데코건물 CMS로 on/off 컨트롤 하기. 클라 추가 작업 필요. ➕ 2024-09-12  📅 2024-10-08
-	- [ ] #M4 #M4-2 BGM / SE 적용 🔺 ➕ 2024-09-12  📅 2024-10-08
-	- [ ] #M4 #M4-2 마아이카이브 관련 UI 작업. tgp 연동 🔺 ➕ 2024-09-12  📅 2024-10-08 [[9월 마일스톤#마이아카이브]]
-	- [ ] #M4 #M4-2 조건부 상점 튜토리얼 간섭 🔺 ➕ 2024-09-12  📅 2024-10-08
-	- [ ] #M4 #M4-2 마이아카이브 버튼 cms config로 제어하기 🔺 ➕ 2024-09-12  📅 2024-10-08
 	- [ ] #M4 #M4-2  [레드마인](https://redmine.takeone.co.kr/issues/15682) #김정훈 트램, 비행선 배송 시 사운드 출력 🔺 ➕ 2024-09-12  📅 2024-10-08
 	- [ ] #M4 #M4-2  [레드마인](https://redmine.takeone.co.kr/issues/16444) #김정훈 BTS Land 타일 그리기 개선 🔺 ➕ 2024-09-24 📅 2024-10-08
 	- [ ] #M4 #update #김정훈  [레드마인](https://redmine.takeone.co.kr/issues/15484) BTS LAND 편집 모드에서 건물 이동 터치 영역 개선 ➕ 2024-09-12
@@ -141,3 +136,9 @@
 		- [ ] #매일매일 resources branch  🔁 every day when done ⏳ [[<% tp.date.now("YYYY-MM-DD") %>]]
 		- [ ] #매일매일 3d art branch  🔁 every day when done ⏳ [[<% tp.date.now("YYYY-MM-DD") %>]]
 	- [ ] Check Today Task
+- [10월 마일스톤](BTSW2-develop/4.%EB%A7%88%EC%9D%BC%EC%8A%A4%ED%86%A4/10%EC%9B%94%20%EB%A7%88%EC%9D%BC%EC%8A%A4%ED%86%A4.md)
+	- [ ] #M4 #M4-2 챕터 오픈정보, BTS Land 데코건물 CMS로 on/off 컨트롤 하기. 클라 추가 작업 필요. ➕ 2024-09-12  📅 2024-10-08
+	- [ ] #M4 #M4-2 BGM / SE 적용 🔺 ➕ 2024-09-12  📅 2024-10-08
+	- [ ] #M4 #M4-2 마아이카이브 관련 UI 작업. tgp 연동 🔺 ➕ 2024-09-12  📅 2024-10-08 [[9월 마일스톤#마이아카이브]]
+	- [ ] #M4 #M4-2 조건부 상점 튜토리얼 간섭 🔺 ➕ 2024-09-12  📅 2024-10-08
+	- [ ] #M4 #M4-2 마이아카이브 버튼 cms config로 제어하기 🔺 ➕ 2024-09-12  📅 2024-10-08
