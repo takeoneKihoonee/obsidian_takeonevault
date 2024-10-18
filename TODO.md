@@ -135,3 +135,9 @@
 	- [ ] Check Today Task
 	- [ ] 아이템 정보창 바로가가. 재화(프로필프레임). 이슈. 팝업 타입. 
 	- [ ] 
+- [2024.10.18](BTSW2-develop/999.Notes/2024.10.18.md)
+	- [ ] #매일매일 브랜치 동기화 🔁 every day when done ⏳ [[<% tp.date.now("YYYY-MM-DD") %>]] 
+	    - [ ] #매일매일 update branch  🔁 every day when done ⏳ [[<% tp.date.now("YYYY-MM-DD") %>]]
+		- [ ] #매일매일 resources branch  🔁 every day when done ⏳ [[<% tp.date.now("YYYY-MM-DD") %>]]
+		- [ ] #매일매일 3d art branch  🔁 every day when done ⏳ [[<% tp.date.now("YYYY-MM-DD") %>]]
+	- [ ] Check Today Task
