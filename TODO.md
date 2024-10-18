@@ -109,10 +109,10 @@
 	- [ ] 아이템 정보창 바로가가. 재화(프로필프레임). 이슈. 팝업 타입. 
 	- [ ] 
 - [2024.10.18](BTSW2-develop/999.Notes/2024.10.18.md)
-	- [ ] #매일매일 브랜치 동기화 🔁 every day when done ⏳ [[<% tp.date.now("YYYY-MM-DD") %>]] 
-	    - [ ] #매일매일 update branch  🔁 every day when done ⏳ [[<% tp.date.now("YYYY-MM-DD") %>]]
-		- [ ] #매일매일 resources branch  🔁 every day when done ⏳ [[<% tp.date.now("YYYY-MM-DD") %>]]
-		- [ ] #매일매일 3d art branch  🔁 every day when done ⏳ [[<% tp.date.now("YYYY-MM-DD") %>]]
+	- [ ] #매일매일 브랜치 동기화 🔁 every day when done ⏳ [[2024-10-18]] 
+	    - [ ] #매일매일 update branch  🔁 every day when done ⏳ [[2024-10-18]]
+		- [ ] #매일매일 resources branch  🔁 every day when done ⏳ [[2024-10-18]]
+		- [ ] #매일매일 3d art branch  🔁 every day when done ⏳ [[2024-10-18]]
 	- [ ] Check Today Task
 - [10월 마일스톤](BTSW2-develop/4.%EB%A7%88%EC%9D%BC%EC%8A%A4%ED%86%A4/10%EC%9B%94%20%EB%A7%88%EC%9D%BC%EC%8A%A4%ED%86%A4.md)
 	- [ ] #런칭 마아이카이브 관련 UI 작업. tgp 연동 🔺 ➕ 2024-09-12  📅 2024-10-08 [[10월 마일스톤#마이아카이브]]
