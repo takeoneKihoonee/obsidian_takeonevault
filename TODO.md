@@ -129,9 +129,9 @@
 	- [ ] #update #추하늘  [레드마인](https://redmine.takeone.co.kr/issues/16091) 멤버룸 이동 네비 개선 ➕ 2024-09-12
 	- [ ] #update #추하늘  [레드마인](https://redmine.takeone.co.kr/issues/16062) 프로필 해금 가능한 이미지/테두리 정렬 방식 개선 ➕ 2024-09-12
 	- [ ] #update #김정훈  [레드마인](https://redmine.takeone.co.kr/issues/16060) 프렌즈 이동 선택 시 상호작용 가능한 오브젝트에 별도의 이펙트 추가 개선 ➕ 2024-09-12
-	- [ ] #M4 #update #맨티스dev #김정훈  [맨티스](https://mantis.takeone.co.kr/view.php?id=23350) 생산품 판매 - BTS랜드 판매 팝업 내 수량 표시 이슈 ➕ 2024-09-12
-	- [ ] #M4 #update #맨티스dev #김정훈  [맨티스](https://mantis.takeone.co.kr/view.php?id=23057) BTS 랜드 - 간혹 배치한 프렌즈가 미개척지로 빠져나가는 현상 ➕ 2024-09-12
-	- [ ] #M4 #update #맨티스dev #김정훈  [맨티스](https://mantis.takeone.co.kr/view.php?id=23443) BTS 랜드 - 데코를 설치하여 환경 점수가 증가되는 말풍선이 출력된 이후 프렌즈 하우스 상단에 UI가 잠시 표기되는 현상 ➕ 2024-09-12
-	- [ ] #M4 #M4-2 아카이브 링크 연결 TGP 정보 반영 🔺 ➕ 2024-09-12  📅 2024-10-08
-	    - [ ] #M4 #M4-2 아카이브 링크 연결 브라우저 실행 🔺 ➕ 2024-09-12  📅 2024-10-08
-	 - [ ] #M4 #M4-2 아카이브 on/off 작업 TGP 정보 반영 🔺 ➕ 2024-09-12  📅 2024-10-08
+	- [ ] #update #맨티스dev #김정훈  [맨티스](https://mantis.takeone.co.kr/view.php?id=23350) 생산품 판매 - BTS랜드 판매 팝업 내 수량 표시 이슈 ➕ 2024-09-12
+	- [ ] #update #맨티스dev #김정훈  [맨티스](https://mantis.takeone.co.kr/view.php?id=23057) BTS 랜드 - 간혹 배치한 프렌즈가 미개척지로 빠져나가는 현상 ➕ 2024-09-12
+	- [ ] #update #맨티스dev #김정훈  [맨티스](https://mantis.takeone.co.kr/view.php?id=23443) BTS 랜드 - 데코를 설치하여 환경 점수가 증가되는 말풍선이 출력된 이후 프렌즈 하우스 상단에 UI가 잠시 표기되는 현상 ➕ 2024-09-12
+	- [ ] #런칭 아카이브 링크 연결 TGP 정보 반영 🔺 ➕ 2024-09-12  📅 2024-10-08
+	    - [ ] #런칭 아카이브 링크 연결 브라우저 실행 🔺 ➕ 2024-09-12  📅 2024-10-08
+	 - [ ] #런칭 아카이브 on/off 작업 TGP 정보 반영 🔺 ➕ 2024-09-12  📅 2024-10-08
