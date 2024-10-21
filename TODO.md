@@ -135,3 +135,14 @@
 	- [ ] #런칭 아카이브 링크 연결 TGP 정보 반영 🔺 ➕ 2024-09-12  📅 2024-10-08
 	    - [ ] #런칭 아카이브 링크 연결 브라우저 실행 🔺 ➕ 2024-09-12  📅 2024-10-08
 	 - [ ] #런칭 아카이브 on/off 작업 TGP 정보 반영 🔺 ➕ 2024-09-12  📅 2024-10-08
+- [2024.10.21](BTSW2-develop/999.Notes/2024.10.21.md)
+	- [ ] #매일매일 브랜치 동기화 🔁 every day when done ⏳ [[2024-10-21]] 
+	    - [ ] #매일매일 update branch  🔁 every day when done ⏳ [[2024-10-21]]
+		- [ ] #매일매일 resources branch  🔁 every day when done ⏳ [[2024-10-21]]
+		- [ ] #매일매일 3d art branch  🔁 every day when done ⏳ [[2024-10-21]]
+	- [ ] Check Today Task
+	- [ ] #매일매일 브랜치 동기화 🔁 every day when done ⏳ [[2024-10-21]] 
+	    - [ ] #매일매일 update branch  🔁 every day when done ⏳ [[2024-10-21]]
+		- [ ] #매일매일 resources branch  🔁 every day when done ⏳ [[2024-10-21]]
+		- [ ] #매일매일 3d art branch  🔁 every day when done ⏳ [[2024-10-21]]
+	- [ ] Check Today Task
