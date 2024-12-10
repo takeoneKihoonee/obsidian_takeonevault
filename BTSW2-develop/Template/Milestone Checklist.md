@@ -1,9 +1,9 @@
 
 
 
-### 미 완료된 항목중 Tag #M4  일감 검색
+### 미 완료된 항목중 Tag #런칭  일감 검색
 ```dataviewjs 
-dv.taskList(dv.pages('#M4 and -"Template" and -"TODO"').file.tasks.where(t => t.text.includes("M4")).where(t => !t.completed) )
+dv.taskList(dv.pages('#런칭 and -"Template" and -"TODO"').file.tasks.where(t => t.text.includes("런칭")).where(t => !t.completed) )
 ```
 -------------------
 

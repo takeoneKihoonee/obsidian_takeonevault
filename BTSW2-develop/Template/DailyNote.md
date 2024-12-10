@@ -13,10 +13,10 @@
 > path does not include TODO
 > ```
 
-> [!danger]+ M4 Remain Task
+> [!danger]+ 런칭 Remain Task
 > ```tasks
 > not done
-> due on or after 2024-09-30
+> due on or after 2024-10-29
 > priority is above high
 > sort by due date
 > path does not include TODO
