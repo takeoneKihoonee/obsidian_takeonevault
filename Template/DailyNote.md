@@ -1,6 +1,6 @@
 
 
-## [[<% tp.date.now("YYYY.MM.DD") %>]] 오늘의 일감
+## [[2024.12.20]] 오늘의 일감
 
 > [!todo]+ Today happens
 > ```tasks
