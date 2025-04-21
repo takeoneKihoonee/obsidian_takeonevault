@@ -12,14 +12,23 @@ tags: #daily_note  #Notes #매일매일
 
 --------
 
-### 4월 빌드업데이트 보기
- 4월 빌드업데이트 [[4월 빌드업데이트||열기]]
+### 4월 일감
+ - 4월 22일 CDN 패치
 
 
 
 # 매일매일 체크해야 할 일감
 
-- [ ] Check Today Task
+> [!todo]-  4월 일감
+> ```tasks
+> not done
+> tags includes #4월 
+> tags includes #0422cdn     
+>
+> hide recurrence rule
+> 
+> path does not include TODO
+> ```
 
 
 
