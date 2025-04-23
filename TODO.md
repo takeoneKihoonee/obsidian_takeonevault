@@ -7,11 +7,6 @@
 - [9.최적화](3.Task/2024/3%EC%9B%944%EC%9B%94/9.%EC%B5%9C%EC%A0%81%ED%99%94.md)
 	- [ ] 이미지 NPOT 체크
 	- [ ] 압축포맷 체크
-- [로딩](2.System/16.%EB%A1%9C%EB%94%A9%20-%20%ED%95%98%EB%8A%98/%EB%A1%9C%EB%94%A9.md)
-	- [ ] Page 이동 로딩 제거하기   #6월  #PageLoading제거
-	    - [ ] 로딩 제거후 튜토리얼 체크하기  #6월  #PageLoading제거
-		- [ ] 로딩 제거후 바로가기 체크하기  #6월  #PageLoading제거
-	- [ ] BTSLand 씬에서 PagePopup 띄워보기   #6월  #PageLoading제거
 - [7월 마일스톤](4.%EB%A7%88%EC%9D%BC%EC%8A%A4%ED%86%A4/2024/7%EC%9B%94%20%EB%A7%88%EC%9D%BC%EC%8A%A4%ED%86%A4.md)
 	- [ ] [[최적화]] checklist
 - [9월 첫째주](5.%EB%A7%A4%EC%9D%BC%EB%A7%A4%EC%9D%BC/2024/9%EC%9B%94/9%EC%9B%94%20%EC%B2%AB%EC%A7%B8%EC%A3%BC.md)
@@ -203,17 +198,15 @@
 	- [ ] #빙고이벤트  #2월  상세기획서 확인 📅 2024-12-19
 	- [ ] #빙고이벤트  #2월  더미리소스 확인 📅 2024-12-26
 	- [ ] #빙고이벤트  #2월  로그개발 확인 📅 2024-12-26
-	- [ ] #빙고이벤트  #6월  빙고 스페셜도장 구매횟수제한 📅 2025-03-31 
-	- [ ] 할 일 예제 📅 2024-06-15  [due:: 2025-03-31]
 - [스킬-쉴드](2.System/5.%ED%8D%BC%EC%A6%90%20-%20%EA%B5%90%EB%82%A8/%EC%8A%A4%ED%82%AC-%EC%89%B4%EB%93%9C.md)
 	- [ ] #스킬  #쉴드  #1월  튜토리얼  📅 2024-12-19
 	- [ ] #스킬  #쉴드  #1월  기능확인  📅 2024-12-30
-- [마일리지상점 - 구매시 수량조절 기능 추가](3.Task/2025/1%EC%9B%94/%EB%A7%88%EC%9D%BC%EB%A6%AC%EC%A7%80%EC%83%81%EC%A0%90%20-%20%EA%B5%AC%EB%A7%A4%EC%8B%9C%20%EC%88%98%EB%9F%89%EC%A1%B0%EC%A0%88%20%EA%B8%B0%EB%8A%A5%20%EC%B6%94%EA%B0%80.md)
-	- [ ] #마일리지상점   #2월  기획서 확인 📅 2024-12-13
-	- [ ] #마일리지상점   #2월  더미리소스 확인 📅 2024-12-13
 - [기간제상점 - 시간정보 추가](3.Task/2025/1%EC%9B%94/%EA%B8%B0%EA%B0%84%EC%A0%9C%EC%83%81%EC%A0%90%20-%20%EC%8B%9C%EA%B0%84%EC%A0%95%EB%B3%B4%20%EC%B6%94%EA%B0%80.md)
 	- [ ] #기간제상점   #2월  기획서 확인 📅 2024-12-13
 	- [ ] #기간제상점   #2월  더미 리소스 확인 📅 2024-12-15
+- [마일리지상점 - 구매시 수량조절 기능 추가](3.Task/2025/1%EC%9B%94/%EB%A7%88%EC%9D%BC%EB%A6%AC%EC%A7%80%EC%83%81%EC%A0%90%20-%20%EA%B5%AC%EB%A7%A4%EC%8B%9C%20%EC%88%98%EB%9F%89%EC%A1%B0%EC%A0%88%20%EA%B8%B0%EB%8A%A5%20%EC%B6%94%EA%B0%80.md)
+	- [ ] #마일리지상점   #2월  기획서 확인 📅 2024-12-13
+	- [ ] #마일리지상점   #2월  더미리소스 확인 📅 2024-12-13
 - [2024.12.12](5.%EB%A7%A4%EC%9D%BC%EB%A7%A4%EC%9D%BC/2024/12%EC%9B%94/2024.12.12.md)
 	- [ ] #매일매일 브랜치 동기화 🔁 every day when done ⏳ [[2024-12-12]] 
 	    - [ ] #매일매일 update branch  🔁 every day when done ⏳ [[2024-12-12]]
@@ -278,128 +271,123 @@
 		- [ ] #매일매일 resources branch  🔁 every day when done ⏳ [[2024-12-20]]
 		- [ ] #매일매일 3d art branch  🔁 every day when done ⏳ [[2024-12-20]]
 	- [ ] Check Today Task
-- [2025.01.14](999.Notes/2025.01.14.md)
+- [2025.01.14](5.%EB%A7%A4%EC%9D%BC%EB%A7%A4%EC%9D%BC/2025/2025.01.14.md)
 	- [ ] #매일매일 브랜치 동기화 🔁 every day when done ⏳ [[2024-12-20]] 
 	    - [ ] #매일매일 update branch  🔁 every day when done ⏳ [[2024-12-20]]
 		- [ ] #매일매일 resources branch  🔁 every day when done ⏳ [[2024-12-20]]
 		- [ ] #매일매일 3d art branch  🔁 every day when done ⏳ [[2024-12-20]]
 	- [ ] Check Today Task
-- [2025.01.16](999.Notes/2025.01.16.md)
+- [2025.01.16](5.%EB%A7%A4%EC%9D%BC%EB%A7%A4%EC%9D%BC/2025/2025.01.16.md)
 	- [ ] #매일매일 브랜치 동기화 🔁 every day when done ⏳ [[2024-12-20]] 
 	    - [ ] #매일매일 update branch  🔁 every day when done ⏳ [[2024-12-20]]
 		- [ ] #매일매일 resources branch  🔁 every day when done ⏳ [[2024-12-20]]
 		- [ ] #매일매일 3d art branch  🔁 every day when done ⏳ [[2024-12-20]]
 	- [ ] Check Today Task
-- [2025.01.20](999.Notes/2025.01.20.md)
+- [2025.01.20](5.%EB%A7%A4%EC%9D%BC%EB%A7%A4%EC%9D%BC/2025/2025.01.20.md)
 	- [ ] #매일매일 브랜치 동기화 🔁 every day when done ⏳ [[2024-12-20]] 
 	    - [ ] #매일매일 update branch  🔁 every day when done ⏳ [[2024-12-20]]
 		- [ ] #매일매일 resources branch  🔁 every day when done ⏳ [[2024-12-20]]
 		- [ ] #매일매일 3d art branch  🔁 every day when done ⏳ [[2024-12-20]]
 	- [ ] Check Today Task
-- [2025.01.21](999.Notes/2025.01.21.md)
+- [2025.01.21](5.%EB%A7%A4%EC%9D%BC%EB%A7%A4%EC%9D%BC/2025/2025.01.21.md)
 	- [ ] #매일매일 브랜치 동기화 🔁 every day when done ⏳ [[2024-12-20]] 
 	    - [ ] #매일매일 update branch  🔁 every day when done ⏳ [[2024-12-20]]
 		- [ ] #매일매일 resources branch  🔁 every day when done ⏳ [[2024-12-20]]
 		- [ ] #매일매일 3d art branch  🔁 every day when done ⏳ [[2024-12-20]]
 	- [ ] Check Today Task
-- [2025.01.24](999.Notes/2025.01.24.md)
+- [2025.01.24](5.%EB%A7%A4%EC%9D%BC%EB%A7%A4%EC%9D%BC/2025/2025.01.24.md)
 	- [ ] #매일매일 브랜치 동기화 🔁 every day when done ⏳ [[2024-12-20]] 
 	    - [ ] #매일매일 update branch  🔁 every day when done ⏳ [[2024-12-20]]
 		- [ ] #매일매일 resources branch  🔁 every day when done ⏳ [[2024-12-20]]
 		- [ ] #매일매일 3d art branch  🔁 every day when done ⏳ [[2024-12-20]]
 	- [ ] Check Today Task
-- [2025.02.11](999.Notes/2025.02.11.md)
+- [2025.02.11](5.%EB%A7%A4%EC%9D%BC%EB%A7%A4%EC%9D%BC/2025/2025.02.11.md)
 	- [ ] #매일매일 브랜치 동기화 🔁 every day when done ⏳ [[2024-12-20]] 
 	    - [ ] #매일매일 update branch  🔁 every day when done ⏳ [[2024-12-20]]
 		- [ ] #매일매일 resources branch  🔁 every day when done ⏳ [[2024-12-20]]
 		- [ ] #매일매일 3d art branch  🔁 every day when done ⏳ [[2024-12-20]]
 	- [ ] Check Today Task
-- [2025.02.13](999.Notes/2025.02.13.md)
+- [2025.02.13](5.%EB%A7%A4%EC%9D%BC%EB%A7%A4%EC%9D%BC/2025/2025.02.13.md)
 	- [ ] #매일매일 브랜치 동기화 🔁 every day when done ⏳ [[2024-12-20]] 
 	    - [ ] #매일매일 update branch  🔁 every day when done ⏳ [[2024-12-20]]
 		- [ ] #매일매일 resources branch  🔁 every day when done ⏳ [[2024-12-20]]
 		- [ ] #매일매일 3d art branch  🔁 every day when done ⏳ [[2024-12-20]]
 	- [ ] Check Today Task
-- [2025.02.19](999.Notes/2025.02.19.md)
+- [2025.02.19](5.%EB%A7%A4%EC%9D%BC%EB%A7%A4%EC%9D%BC/2025/2025.02.19.md)
 	- [ ] #매일매일 브랜치 동기화 🔁 every day when done ⏳ [[2024-12-20]] 
 	    - [ ] #매일매일 update branch  🔁 every day when done ⏳ [[2024-12-20]]
 		- [ ] #매일매일 resources branch  🔁 every day when done ⏳ [[2024-12-20]]
 		- [ ] #매일매일 3d art branch  🔁 every day when done ⏳ [[2024-12-20]]
-- [2025.02.25](999.Notes/2025.02.25.md)
-	- [ ] #매일매일 브랜치 동기화 🔁 every day when done ⏳ [[2024-12-20]] 
-	    - [ ] #매일매일 update branch  🔁 every day when done ⏳ [[2024-12-20]]
-		- [ ] #매일매일 resources branch  🔁 every day when done ⏳ [[2024-12-20]]
-		- [ ] #매일매일 3d art branch  🔁 every day when done ⏳ [[2024-12-20]]
-	- [ ] Check Today Task
-- [2025.01.23](999.Notes/2025.01.23.md)
+- [2025.02.25](5.%EB%A7%A4%EC%9D%BC%EB%A7%A4%EC%9D%BC/2025/2025.02.25.md)
 	- [ ] #매일매일 브랜치 동기화 🔁 every day when done ⏳ [[2024-12-20]] 
 	    - [ ] #매일매일 update branch  🔁 every day when done ⏳ [[2024-12-20]]
 		- [ ] #매일매일 resources branch  🔁 every day when done ⏳ [[2024-12-20]]
 		- [ ] #매일매일 3d art branch  🔁 every day when done ⏳ [[2024-12-20]]
 	- [ ] Check Today Task
-- [2025.02.26](999.Notes/2025.02.26.md)
+- [2025.01.23](5.%EB%A7%A4%EC%9D%BC%EB%A7%A4%EC%9D%BC/2025/2025.01.23.md)
 	- [ ] #매일매일 브랜치 동기화 🔁 every day when done ⏳ [[2024-12-20]] 
 	    - [ ] #매일매일 update branch  🔁 every day when done ⏳ [[2024-12-20]]
 		- [ ] #매일매일 resources branch  🔁 every day when done ⏳ [[2024-12-20]]
 		- [ ] #매일매일 3d art branch  🔁 every day when done ⏳ [[2024-12-20]]
 	- [ ] Check Today Task
-- [2025.02.21](999.Notes/2025.02.21.md)
+- [2025.02.21](5.%EB%A7%A4%EC%9D%BC%EB%A7%A4%EC%9D%BC/2025/2025.02.21.md)
 	- [ ] #매일매일 브랜치 동기화 🔁 every day when done ⏳ [[2024-12-20]] 
 	    - [ ] #매일매일 update branch  🔁 every day when done ⏳ [[2024-12-20]]
 		- [ ] #매일매일 resources branch  🔁 every day when done ⏳ [[2024-12-20]]
 		- [ ] #매일매일 3d art branch  🔁 every day when done ⏳ [[2024-12-20]]
 	- [ ] Check Today Task
-- [2025.03.04](999.Notes/2025.03.04.md)
+- [2025.02.26](5.%EB%A7%A4%EC%9D%BC%EB%A7%A4%EC%9D%BC/2025/2025.02.26.md)
 	- [ ] #매일매일 브랜치 동기화 🔁 every day when done ⏳ [[2024-12-20]] 
 	    - [ ] #매일매일 update branch  🔁 every day when done ⏳ [[2024-12-20]]
 		- [ ] #매일매일 resources branch  🔁 every day when done ⏳ [[2024-12-20]]
 		- [ ] #매일매일 3d art branch  🔁 every day when done ⏳ [[2024-12-20]]
 	- [ ] Check Today Task
-- [2025.03.10](999.Notes/2025.03.10.md)
-	- [ ] #매일매일 브랜치 동기화 🔁 every day when done ⏳ [[2024-12-20]] 
-	    - [ ] #매일매일 update branch  🔁 every day when done ⏳ [[2024-12-20]]
-		- [ ] #매일매일 resources branch  🔁 every day when done ⏳ [[2024-12-20]]
-		- [ ] #매일매일 3d art branch  🔁 every day when done ⏳ [[2024-12-20]]
-	- [ ] Page 이동 로딩 제거 #6월  [scheduled:: 2025-03-27]
-- [2025.03.13](999.Notes/2025.03.13.md)
+- [2025.03.04](5.%EB%A7%A4%EC%9D%BC%EB%A7%A4%EC%9D%BC/2025/2025.03.04.md)
 	- [ ] #매일매일 브랜치 동기화 🔁 every day when done ⏳ [[2024-12-20]] 
 	    - [ ] #매일매일 update branch  🔁 every day when done ⏳ [[2024-12-20]]
 		- [ ] #매일매일 resources branch  🔁 every day when done ⏳ [[2024-12-20]]
 		- [ ] #매일매일 3d art branch  🔁 every day when done ⏳ [[2024-12-20]]
 	- [ ] Check Today Task
-- [2025.03.14](999.Notes/2025.03.14.md)
+- [2025.03.10](5.%EB%A7%A4%EC%9D%BC%EB%A7%A4%EC%9D%BC/2025/2025.03.10.md)
+	- [ ] #매일매일 브랜치 동기화 🔁 every day when done ⏳ [[2024-12-20]] 
+	    - [ ] #매일매일 update branch  🔁 every day when done ⏳ [[2024-12-20]]
+		- [ ] #매일매일 resources branch  🔁 every day when done ⏳ [[2024-12-20]]
+		- [ ] #매일매일 3d art branch  🔁 every day when done ⏳ [[2024-12-20]]
+- [2025.03.13](5.%EB%A7%A4%EC%9D%BC%EB%A7%A4%EC%9D%BC/2025/2025.03.13.md)
+	- [ ] #매일매일 브랜치 동기화 🔁 every day when done ⏳ [[2024-12-20]] 
+	    - [ ] #매일매일 update branch  🔁 every day when done ⏳ [[2024-12-20]]
+		- [ ] #매일매일 resources branch  🔁 every day when done ⏳ [[2024-12-20]]
+		- [ ] #매일매일 3d art branch  🔁 every day when done ⏳ [[2024-12-20]]
+	- [ ] Check Today Task
+- [2025.03.14](5.%EB%A7%A4%EC%9D%BC%EB%A7%A4%EC%9D%BC/2025/2025.03.14.md)
 	- [ ] #매일매일 브랜치 동기화 🔁 every day when done ⏳ [[2024-12-20]] 
 	    - [ ] #매일매일 update branch  🔁 every day when done ⏳ [[2024-12-20]]
 		- [ ] #매일매일 resources branch  🔁 every day when done ⏳ [[2024-12-20]]
 		- [ ] #매일매일 3d art branch  🔁 every day when done ⏳ [[2024-12-20]]
 	- [ ] #4월  라이브 맨티스 체크
 	- [ ] #4월  현재 오픈중인 PagePopup 체크 하는 기능 추가 ?
-- [2025.03.25](999.Notes/2025.03.25.md)
+- [2025.03.25](5.%EB%A7%A4%EC%9D%BC%EB%A7%A4%EC%9D%BC/2025/2025.03.25.md)
 	- [ ] #매일매일 브랜치 동기화 🔁 every day when done ⏳ [[2024-12-20]] 
 	    - [ ] #매일매일 update branch  🔁 every day when done ⏳ [[2024-12-20]]
 		- [ ] #매일매일 resources branch  🔁 every day when done ⏳ [[2024-12-20]]
 		- [ ] #매일매일 3d art branch  🔁 every day when done ⏳ [[2024-12-20]]
 	- [ ] Check Today Task
-- [2025.03.31](999.Notes/2025.03.31.md)
+- [2025.03.31](5.%EB%A7%A4%EC%9D%BC%EB%A7%A4%EC%9D%BC/2025/2025.03.31.md)
 	- [ ] #매일매일 브랜치 동기화 🔁 every day when done ⏳ [[2024-12-20]] 
 	    - [ ] #매일매일 update branch  🔁 every day when done ⏳ [[2024-12-20]]
 		- [ ] #매일매일 resources branch  🔁 every day when done ⏳ [[2024-12-20]]
 		- [ ] #매일매일 3d art branch  🔁 every day when done ⏳ [[2024-12-20]]
 	- [ ] Check Today Task
-	- [ ] #6월  #개선  빙고 도장구입횟수제한  [created:: 2025-03-31]
-- [챌린지-스케줄](2.System/34.%EC%B1%8C%EB%A6%B0%EC%A7%80/%EC%B1%8C%EB%A6%B0%EC%A7%80-%EC%8A%A4%EC%BC%80%EC%A4%84.md)
-	- [ ] 챌린지 이벤트플랫폼 UI 작업 🛫 2025-04-07 
-	- [ ] 챌린지 이벤트 시간 연동 체크 ➕ 2025-04-01
 - [멤버최애패스](2.System/35.%EB%A9%A4%EB%B2%84%EC%B5%9C%EC%95%A0%ED%8C%A8%EC%8A%A4/%EB%A9%A4%EB%B2%84%EC%B5%9C%EC%95%A0%ED%8C%A8%EC%8A%A4.md)
 	- [ ] 
 	- [ ] 
-- [2025.04.01](999.Notes/2025.04.01.md)
+- [2025.04.01](5.%EB%A7%A4%EC%9D%BC%EB%A7%A4%EC%9D%BC/2025/2025.04.01.md)
 	- [ ] #매일매일 브랜치 동기화 🔁 every day when done ⏳ [[2024-12-20]] 
 	    - [ ] #매일매일 update branch  🔁 every day when done ⏳ [[2024-12-20]]
 		- [ ] #매일매일 resources branch  🔁 every day when done ⏳ [[2024-12-20]]
 		- [ ] #매일매일 3d art branch  🔁 every day when done ⏳ [[2024-12-20]]
 	- [ ] Check Today Task
-- [2025.04.02](999.Notes/2025.04.02.md)
+- [2025.04.02](5.%EB%A7%A4%EC%9D%BC%EB%A7%A4%EC%9D%BC/2025/2025.04.02.md)
 	- [ ] #매일매일 브랜치 동기화 🔁 every day when done ⏳ [[2024-12-20]] 
 	    - [ ] #매일매일 update branch  🔁 every day when done ⏳ [[2024-12-20]]
 		- [ ] #매일매일 resources branch  🔁 every day when done ⏳ [[2024-12-20]]
@@ -408,13 +396,40 @@
 - [퍼즐모드-데미지](2.System/5.%ED%8D%BC%EC%A6%90%20-%20%EA%B5%90%EB%82%A8/%ED%8D%BC%EC%A6%90%EB%AA%A8%EB%93%9C-%EB%8D%B0%EB%AF%B8%EC%A7%80.md)
 	- [ ] #퍼즐모드  #6월   #챌린지스케줄   1차 개발 확인 📅 2025-04-25
 - [맨티스0622대응](%EB%9D%BC%EC%9D%B4%EB%B8%8C%EC%9D%B4%EC%8A%88/%EB%A7%A8%ED%8B%B0%EC%8A%A40622%EB%8C%80%EC%9D%91.md)
-	- [ ] #맨티스  #6월  본보야지 카드명에서 @가 출력되는 이슈  
-	    - [ ] https://mantis.takeone.co.kr/view.php?id=25563 ⏳ 2025-04-07 
-	- [ ] #맨티스  #6월  업적 바로가기를 통해 카드 관리 진입 시 소우주 하단, 우측 UI가 출력되는 현상  
-	    - [ ] https://mantis.takeone.co.kr/view.php?id=25565 ⏳ 2025-04-07 
-	- [ ] #맨티스  #6월  재화 구매 팝업이 중첩되어 열리는 현상  
-	    - [ ] https://mantis.takeone.co.kr/view.php?id=25552
-- [2025.04.08](999.Notes/2025.04.08.md)
+	- [ ] #맨티스  #6월  멤버룸 멤버 친밀도 20레벨 달성 시 게이지 미초기화 ⏳ 2025-04-09
+	    - [ ] https://mantis.takeone.co.kr/view.php?id=25571
+	- [ ] #맨티스  #6월  BTS 랜드 생산품 제작 터치 시 부족한 재료가 보석으로 바로 구매가 되는 현상 
+	    - [ ] https://mantis.takeone.co.kr/view.php?id=25354
+	- [ ] #맨티스  #6월   타임라인 채팅형 내 말풍선이 프로필에 가려지는 현상 
+	    - [ ] https://mantis.takeone.co.kr/view.php?id=25716
+- [2025.04.08](5.%EB%A7%A4%EC%9D%BC%EB%A7%A4%EC%9D%BC/2025/2025.04.08.md)
+	- [ ] #매일매일 브랜치 동기화 🔁 every day when done ⏳ [[2024-12-20]] 
+	    - [ ] #매일매일 update branch  🔁 every day when done ⏳ [[2024-12-20]]
+		- [ ] #매일매일 resources branch  🔁 every day when done ⏳ [[2024-12-20]]
+		- [ ] #매일매일 3d art branch  🔁 every day when done ⏳ [[2024-12-20]]
+- [2025.04.09](5.%EB%A7%A4%EC%9D%BC%EB%A7%A4%EC%9D%BC/2025/2025.04.09.md)
+	- [ ] #매일매일 브랜치 동기화 🔁 every day when done ⏳ [[2024-12-20]] 
+	    - [ ] #매일매일 update branch  🔁 every day when done ⏳ [[2024-12-20]]
+		- [ ] #매일매일 resources branch  🔁 every day when done ⏳ [[2024-12-20]]
+		- [ ] #매일매일 3d art branch  🔁 every day when done ⏳ [[2024-12-20]]
+- [2025.04.10](5.%EB%A7%A4%EC%9D%BC%EB%A7%A4%EC%9D%BC/2025/2025.04.10.md)
+	- [ ] #매일매일 브랜치 동기화 🔁 every day when done ⏳ [[2024-12-20]] 
+	    - [ ] #매일매일 update branch  🔁 every day when done ⏳ [[2024-12-20]]
+		- [ ] #매일매일 resources branch  🔁 every day when done ⏳ [[2024-12-20]]
+		- [ ] #매일매일 3d art branch  🔁 every day when done ⏳ [[2024-12-20]]
+- [라이브이슈0622](%EB%9D%BC%EC%9D%B4%EB%B8%8C%EC%9D%B4%EC%8A%88/%EB%9D%BC%EC%9D%B4%EB%B8%8C%EC%9D%B4%EC%8A%880622.md)
+	- [ ] #6월 #타임라인  타임라인에 사용하는 대사 말풍선 모든 언어 강제 줄바꿈  ⏳ 2025-04-10 
+- [2025.04.17](5.%EB%A7%A4%EC%9D%BC%EB%A7%A4%EC%9D%BC/2025/2025.04.17.md)
+	- [ ] #매일매일 브랜치 동기화 🔁 every day when done ⏳ [[2024-12-20]] 
+	    - [ ] #매일매일 update branch  🔁 every day when done ⏳ [[2024-12-20]]
+		- [ ] #매일매일 resources branch  🔁 every day when done ⏳ [[2024-12-20]]
+		- [ ] #매일매일 3d art branch  🔁 every day when done ⏳ [[2024-12-20]]
+- [2025.04.21](999.Notes/2025.04.21.md)
+	- [ ] #매일매일 브랜치 동기화 🔁 every day when done ⏳ [[2024-12-20]] 
+	    - [ ] #매일매일 update branch  🔁 every day when done ⏳ [[2024-12-20]]
+		- [ ] #매일매일 resources branch  🔁 every day when done ⏳ [[2024-12-20]]
+		- [ ] #매일매일 3d art branch  🔁 every day when done ⏳ [[2024-12-20]]
+- [2025.04.23](999.Notes/2025.04.23.md)
 	- [ ] #매일매일 브랜치 동기화 🔁 every day when done ⏳ [[2024-12-20]] 
 	    - [ ] #매일매일 update branch  🔁 every day when done ⏳ [[2024-12-20]]
 		- [ ] #매일매일 resources branch  🔁 every day when done ⏳ [[2024-12-20]]
