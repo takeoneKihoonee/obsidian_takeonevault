@@ -434,3 +434,15 @@
 	    - [ ] #매일매일 update branch  🔁 every day when done ⏳ [[2024-12-20]]
 		- [ ] #매일매일 resources branch  🔁 every day when done ⏳ [[2024-12-20]]
 		- [ ] #매일매일 3d art branch  🔁 every day when done ⏳ [[2024-12-20]]
+- [2025.04.22](999.Notes/2025.04.22.md)
+	- [ ] #매일매일 브랜치 동기화 🔁 every day when done ⏳ [[2024-12-20]] 
+	    - [ ] #매일매일 update branch  🔁 every day when done ⏳ [[2024-12-20]]
+		- [ ] #매일매일 resources branch  🔁 every day when done ⏳ [[2024-12-20]]
+		- [ ] #매일매일 3d art branch  🔁 every day when done ⏳ [[2024-12-20]]
+	- [ ] Check Today Task
+- [2025.04.20](999.Notes/2025.04.20.md)
+	- [ ] #매일매일 브랜치 동기화 🔁 every day when done ⏳ [[2024-12-20]] 
+	    - [ ] #매일매일 update branch  🔁 every day when done ⏳ [[2024-12-20]]
+		- [ ] #매일매일 resources branch  🔁 every day when done ⏳ [[2024-12-20]]
+		- [ ] #매일매일 3d art branch  🔁 every day when done ⏳ [[2024-12-20]]
+	- [ ] Check Today Task
