@@ -393,8 +393,6 @@
 		- [ ] #매일매일 resources branch  🔁 every day when done ⏳ [[2024-12-20]]
 		- [ ] #매일매일 3d art branch  🔁 every day when done ⏳ [[2024-12-20]]
 	- [ ] update 브랜치를 develop브랜치에 머지 ( 0622 빌드 대응 )
-- [퍼즐모드-데미지](2.System/5.%ED%8D%BC%EC%A6%90%20-%20%EA%B5%90%EB%82%A8/%ED%8D%BC%EC%A6%90%EB%AA%A8%EB%93%9C-%EB%8D%B0%EB%AF%B8%EC%A7%80.md)
-	- [ ] #퍼즐모드  #6월   #챌린지스케줄   1차 개발 확인 📅 2025-04-25
 - [맨티스0622대응](%EB%9D%BC%EC%9D%B4%EB%B8%8C%EC%9D%B4%EC%8A%88/%EB%A7%A8%ED%8B%B0%EC%8A%A40622%EB%8C%80%EC%9D%91.md)
 	- [ ] #맨티스  #6월  멤버룸 멤버 친밀도 20레벨 달성 시 게이지 미초기화 ⏳ 2025-04-09
 	    - [ ] https://mantis.takeone.co.kr/view.php?id=25571
@@ -434,6 +432,7 @@
 	    - [ ] #매일매일 update branch  🔁 every day when done ⏳ [[2024-12-20]]
 		- [ ] #매일매일 resources branch  🔁 every day when done ⏳ [[2024-12-20]]
 		- [ ] #매일매일 3d art branch  🔁 every day when done ⏳ [[2024-12-20]]
+	- [ ] #6월  #0624빌드   퍼즐 실패화면에서 뽑기 이동 바로가기 데이터 
 - [2025.04.22](999.Notes/2025.04.22.md)
 	- [ ] #매일매일 브랜치 동기화 🔁 every day when done ⏳ [[2024-12-20]] 
 	    - [ ] #매일매일 update branch  🔁 every day when done ⏳ [[2024-12-20]]
@@ -446,3 +445,8 @@
 		- [ ] #매일매일 resources branch  🔁 every day when done ⏳ [[2024-12-20]]
 		- [ ] #매일매일 3d art branch  🔁 every day when done ⏳ [[2024-12-20]]
 	- [ ] Check Today Task
+- [2025.04.24](999.Notes/2025.04.24.md)
+	- [ ] #매일매일 브랜치 동기화 🔁 every day when done ⏳ [[2024-12-20]] 
+	    - [ ] #매일매일 update branch  🔁 every day when done ⏳ [[2024-12-20]]
+		- [ ] #매일매일 resources branch  🔁 every day when done ⏳ [[2024-12-20]]
+		- [ ] #매일매일 3d art branch  🔁 every day when done ⏳ [[2024-12-20]]
